@@ -20,5 +20,6 @@
 
 ### Разделы, которые пополняются сейчас
 - [Турниры](https://github.com/nfarukshin/maii-site-texts/tree/main/tournaments)
+- [Библиотека](https://github.com/nfarukshin/maii-site-texts/tree/main/library)
 
 (буду ещё добавлять)
