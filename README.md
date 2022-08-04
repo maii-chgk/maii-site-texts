@@ -14,7 +14,7 @@
 - [Политика конфиденциальности](https://github.com/nfarukshin/maii-site-texts/blob/main/other/privacy.md)
 
 ### Разделы, за обновлением которых надо следить
-- [Рабочие органы](https://github.com/nfarukshin/maii-site-texts/blob/main/main/who.md) (по мере появления обновлений)
+- [Рабочие органы](https://github.com/nfarukshin/maii-site-texts/blob/main/about/who.md) (по мере появления обновлений)
 - [Дисквалифицированные](https://github.com/nfarukshin/maii-site-texts/blob/main/workgroups/disqual.md) (обновить 11 августа 2022 года)
 - [Турниры не ЧГК с эгидой](https://github.com/nfarukshin/maii-site-texts/blob/main/tournaments/aegis.md) (по мере появления)
 
