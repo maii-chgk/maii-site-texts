@@ -5,7 +5,7 @@ Lead
 Интеллектуальные игры проводятся для людей разных возрастов, опыта и вовлечённости. Ниже описываем, где можно найти информацию об играх на любой вкус
 
 Body
-- [Агрегаторы](#aggregators).
+- [Агрегаторы](#aggregators).<a name="atop"></a>
 - [Чемпионат мира](#world).
 - [Чемпионаты стран](#countries).
 - [Молодёжные турниры](#youth).
@@ -32,11 +32,19 @@ Body
 
 В этой [таблице](https://docs.google.com/spreadsheets/d/1PGYrT-qx7xpN46ilc_ajXjiYl0uA9IejOyHwJyN3n5M/edit?fbclid=IwAR0HWy8s2-qXKOF4Fzaoq4NUAWZ1rLPmuNKJDrXnFSHLi9dH76NGmo5rTRw&fbclid=IwAR0izuGW7C0fY6ScVGuIww3lC-xrf3d-94qXP219qzFH1-1oF2usR3ENhzk#gid=0), которую ведёт Илья Онскуль, агрегируются данные об очных или онлайн-фестивалях интеллектуальных игр. Если вы хотите дополнить её своим фестивалем, заполните [эту форму](https://forms.gle/AP4Emd1tHUasF6sB7).
 
+<small>[Наверх](#atop)</small>
+
+--------
+
 ## Чемпионат мира <a name="world"></a>
 
 Чемпионаты мира проводятся с 2002 года. Ранее — до 2020 года — их организацией занималась [Международная ассоциация клубов ЧГК](https://ru.wikipedia.org/wiki/Что%3F_Где%3F_Когда%3F_%28спортивная_версия%29#Международная_ассоциация_клубов_«Что?_Где?_Когда?»_%28МАК_ЧГК%29). С 2022 года организацией чемпионата мира [занимается](https://www.maii.li/news/2022-01-06-itogi-golosovaniya-po-polozheniyu-o-chm/) и МАИИ.
 
 - [ЧМ-2022](https://www.maii.li/p/worldchamp-2022).
+
+<small>[Наверх](#atop)</small>
+
+--------
 
 ## Чемпионаты стран <a name="countries"></a>
 
@@ -46,6 +54,10 @@ Body
 - [Армения](https://www.maii.li/p/countries-armenia).
 - [Беларусь](https://www.maii.li/p/countries-belarus).
 
+<small>[Наверх](#atop)</small>
+
+--------
+
 ## Молодёжные турниры <a name="youth"></a>
 
 В этом разделе собирается информация о молодёжных и студенческих чемпионатах разных стран (верхняя граница, как правило, проходит по 23 годам) по спортивному ЧГК и иным интеллектуальным играм — как статистика о результатах прошлых лет, так и об актуальных турнирах. Раздел будет пополняться.
@@ -54,6 +66,10 @@ Body
 - [Беларусь](https://www.maii.li/p/tournaments-schrb)
 - [Россия](https://www.maii.li/p/tournaments-studchr)
 - [Украина](https://www.maii.li/p/tournaments-molchu)
+
+<small>[Наверх](#atop)</small>
+
+--------
 
 ## Школьные турниры <a name="school"></a>
 
@@ -65,6 +81,10 @@ Body
 - [Россия](https://www.maii.li/p/tournaments-shchr).
 - [Украина](https://www.maii.li/p/tournaments-shchu).
 
+<small>[Наверх](#atop)</small>
+
+--------
+
 ## Другие игры <a name="other-games"></a>
 
 В этом разделе собрана информация о турнирах по командным и личным играм, правила которых отличаются от правил спортивного ЧГК. Раздел пока пуст, но будет пополняться.
@@ -74,3 +94,5 @@ Body
 - Хамса.
 - Тройка.
 - Бескрылки.
+
+<small>[Наверх](#atop)</small>
