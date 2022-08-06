@@ -16,6 +16,7 @@ Body
 
 - [Турнирный сайт сообщества знатоков](#turnir-site)
 - [Планировщик ЧГК](#chgkplan)
+- [Гуглтаблица с фестивалями](#onskul)
 
 ### Турнирный сайт сообщества знатоков <a name="turnir-site"></a>
 
@@ -26,6 +27,10 @@ Body
 ### Планировщик ЧГК <a name="chgkplan"></a>
 
 [Этот сайт](https://quiza.stalnuhhin.ee/chgkplan) создал и поддерживает Антон Стальнухин. На нём можно найти как асинхроны и онлайны по спортивному ЧГК, так и квизы и другие игры. Там же есть раздел с [площадками](https://quiza.stalnuhhin.ee/platforms), если вы хотите искать игры на какой-то отдельной платформе.
+
+### Гуглтаблица с фестивалями интеллектуальных игр <a name="onskul"></a>
+
+В этой [таблице](https://docs.google.com/spreadsheets/d/1PGYrT-qx7xpN46ilc_ajXjiYl0uA9IejOyHwJyN3n5M/edit?fbclid=IwAR0HWy8s2-qXKOF4Fzaoq4NUAWZ1rLPmuNKJDrXnFSHLi9dH76NGmo5rTRw&fbclid=IwAR0izuGW7C0fY6ScVGuIww3lC-xrf3d-94qXP219qzFH1-1oF2usR3ENhzk#gid=0), которую ведёт Илья Онскуль, агрегируются данные об очных или онлайн-фестивалях интеллектуальных игр. Если вы хотите дополнить её своим фестивалем, заполните [эту форму](https://forms.gle/AP4Emd1tHUasF6sB7).
 
 ## Чемпионат мира <a name="world"></a>
 
