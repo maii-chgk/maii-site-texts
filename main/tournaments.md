@@ -17,6 +17,7 @@ Body
 - [Турнирный сайт сообщества знатоков](#turnir-site)
 - [Планировщик ЧГК](#chgkplan)
 - [Гуглтаблица с фестивалями](#onskul)
+- [where.games](#wheregames)
 
 ### Турнирный сайт сообщества знатоков <a name="turnir-site"></a>
 
@@ -31,6 +32,10 @@ Body
 ### Гуглтаблица с фестивалями интеллектуальных игр <a name="onskul"></a>
 
 В этой [таблице](https://docs.google.com/spreadsheets/d/1PGYrT-qx7xpN46ilc_ajXjiYl0uA9IejOyHwJyN3n5M/edit?fbclid=IwAR0HWy8s2-qXKOF4Fzaoq4NUAWZ1rLPmuNKJDrXnFSHLi9dH76NGmo5rTRw&fbclid=IwAR0izuGW7C0fY6ScVGuIww3lC-xrf3d-94qXP219qzFH1-1oF2usR3ENhzk#gid=0), которую ведёт Илья Онскуль, агрегируются данные об очных или онлайн-фестивалях интеллектуальных игр. Если вы хотите дополнить её своим фестивалем, заполните [эту форму](https://forms.gle/AP4Emd1tHUasF6sB7).
+
+### Сайт where.games <a name="wheregames"></a>
+
+На [этом сайте](http://where.games/) можно размещать анонсы очных и онлайн-турниров. По [словам](https://www.facebook.com/groups/chgk.global/posts/2169404399889510/) его создательницы Ирины Андроповой, ключевое отличие от аналогичных решений — в частности, [турнирного сайта](#turnir-site) — в том, что на where.games информация сгруппирована по «карточкам», в каждой из которых сразу видна вся базовая информация о турнире — редакторы, стоимость, место проведения, ссылки на форму регистрации, информационные ресурсы и так далее. 
 
 <small>[Наверх](#atop)</small>
 
