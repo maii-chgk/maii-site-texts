@@ -14,13 +14,6 @@ Body
   </tr>
 </thead>
 <tbody>
-  <th><a href="http://rating.chgk.info/player/90634">90634</a></th>
-  <th>Александр Хомколов</th>
-  <th>Во всех качествах</th>
-  <th>3 года</th>
-  <th>до 10 августа 2022 года</th>
-  <th>По <a href="https://teletype.in/@diskom/mak_10.08.2019">решению ДК МАК</a>*</th>
-  </tr>
 <tr>
   <th><a href="http://rating.chgk.info/player/56581">56581</a></th>
   <th>Егор Цалкович</th>
