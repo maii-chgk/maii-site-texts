@@ -3,7 +3,7 @@ Title
 
 Body
 
-- [Устав](https://www.maii.li/statute/ru) <a name="top"></a>
+- [Устав](#statute) <a name="top"></a>
 - [Рейтинг](#rating)
 - [Чемпионат мира](#worldchamp)
 - [Дисциплинарные решения](#discipline)
@@ -14,6 +14,11 @@ Body
 - [Контрольно-ревизионная комиссия](#krk)
 - [Отчёты органов](#reports)
 - [Методические материалы](#recommendations)
+
+## Устав <a name="statute"></a>
+
+- [На русском](https://www.maii.li/statute/ru)
+- [Deutsch](https://www.maii.li/statute/de)
 
 ## Рейтинг <a name="rating"></a>
 
