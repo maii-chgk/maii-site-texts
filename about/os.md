@@ -14,6 +14,8 @@ body
 ## 28–29 августа 2022 года <a name="aug22"></a>
 
 - [Предварительная программа](https://www.maii.li/docs/2022-08-14-programma-obshego-sobraniya-28-avgusta/).
+- [Комментарий исполкома по поводу вопроса о Романе Черняеве](https://forum.znatoki.site/t/kommentarij-ispolkoma-k-golosovaniyu-o-priyome-v-maii-romana-chernyaeva/1876).
+- [Проект поправкок к уставу и положению о членстве от уставной группы](https://docs.google.com/document/d/e/2PACX-1vT7tz79FVMzyG6qEv4Fmic01VS0jEqptpKKXyvwQaPQrAIy4a96uW8YKhkzA4lGbiPBTGiMynTdI-hO/pub).
 
 <small>[Наверх](#atop)</small>
 
