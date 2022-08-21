@@ -3,7 +3,8 @@ Title
 
 Body
 
-- [Рейтинг](#rating) <a name="top"></a>
+- [Устав](https://www.maii.li/statute/ru) <a name="top"></a>
+- [Рейтинг](#rating)
 - [Чемпионат мира](#worldchamp)
 - [Дисциплинарные решения](#discipline)
 - [Членство в МАИИ](#membership)
