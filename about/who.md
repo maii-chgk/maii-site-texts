@@ -196,6 +196,7 @@ body
 - [Оставить пожелания по работе сайта рейтинга](https://github.com/maii-chgk/rating-ui/issues),
 - [Интервью с Юрием Разумовым о сайте рейтинга](https://teletype.in/@maii/rating-razumau),
 - [Отчёт о первом полугодии работы (29.04.2022)](https://www.maii.li/docs/2022-04-29-otchyot-gruppy-po-rejtingu-o-prodelannoj-rabote/).
+- [Отчёт о втором полугодии работы (24.08.2022)](https://forum.znatoki.site/t/otchyot-gruppy-po-rejtingu-24-08-2022/1886).
 
 Состав временной группы, действовавшей в апреле-июле 2021 года:
 - Александр Бережинский,
