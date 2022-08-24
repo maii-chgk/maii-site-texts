@@ -113,6 +113,7 @@ Body
 - [Отчёт о работе юридической группы в 2021–2022 годах (30.07.2022)](https://www.maii.li/docs/2022-07-30-otchyot-yuridicheskoj-gruppy-za-20212022-gody/),
 - [Отчёт о работе противоэпидемической группы в 2021-2022 годах (01.08.2022)](https://www.maii.li/docs/2022-08-01-otchyot-protivoepidemicheskoj-gruppy-za-2021-2022-gody/).
 - [Отчёт о работе группы по брендам в 2021-2022 годах (19.08.2022)](https://www.maii.li/docs/2022-08-19-otchyot-gruppy-po-razrabotke-brendov-za-2021-2022-gody/).
+- [Отчёт группы по рейтингу о втором полугодии работы (28.04.2022)](https://forum.znatoki.site/t/otchyot-gruppy-po-rejtingu-24-08-2022/1886).
 
 <small>[К оглавлению](#top)</small>
 
