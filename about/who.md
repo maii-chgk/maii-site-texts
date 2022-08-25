@@ -20,7 +20,7 @@ body
 - [Группа по брендам](#brand)
 
 ## <a name="kom"></a>1. Исполнительный комитет
-Ключевой орган, который обеспечивает повседневную работу МАИИ. Избран 11 апреля 2021 года. Срок полномочий — два года. Действует на основании [положения об исполкоме](https://www.chgk.info/docs/2021-05-29-polozhenie-ob-ispolnitelnom-komitete-mezhdunarodnoj-associacii-intellektualnyh-igr/).
+Ключевой орган, который обеспечивает повседневную работу МАИИ. Избран 11 апреля 2021 года. Срок полномочий — два года. Действует на основании [положения об исполкоме](https://www.maii.li/docs/2021-05-29-polozhenie-ob-ispolnitelnom-komitete-mezhdunarodnoj-associacii-intellektualnyh-igr/).
 
 Адрес для связи: <ispolkom@maii.li>. Кроме того, задать вопрос исполкому можно в канале [«Вопросы исполкому»](https://discord.gg/6Yjd83yV98) сервера МАИИ в Дискорде.
 
@@ -58,7 +58,7 @@ body
 ------
 
 ## <a name="krk"></a>2. Контрольно-ревизионная комиссия
-Оценивает и контролирует работу других органов МАИИ. Избрана 29 мая 2021 года. Срок полномочий — два года. Действует на основании [положения о КРК](https://www.chgk.info/docs/2021-05-29-polozhenie-o-kontrolno-revizionnoj-komissii-mezhdunarodnoj-associacii-intellektualnyh-igr/).
+Оценивает и контролирует работу других органов МАИИ. Избрана 29 мая 2021 года. Срок полномочий — два года. Действует на основании [положения о КРК](https://www.maii.li/docs/2021-05-29-polozhenie-o-kontrolno-revizionnoj-komissii-mezhdunarodnoj-associacii-intellektualnyh-igr/).
 
 Адрес для связи: <krk@maii.li>. Кроме того, задать вопрос комиссии можно в канале [«Вопросы КРК»](https://discord.gg/r84w5QqPkw) сервера МАИИ в Дискорде.
 
@@ -69,7 +69,7 @@ body
 
 ### Документы:
 
-- [Положение о КРК](https://www.chgk.info/docs/2021-05-29-polozhenie-o-kontrolno-revizionnoj-komissii-mezhdunarodnoj-associacii-intellektualnyh-igr/)
+- [Положение о КРК](https://www.maii.li/docs/2021-05-29-polozhenie-o-kontrolno-revizionnoj-komissii-mezhdunarodnoj-associacii-intellektualnyh-igr/)
 - [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-04-23-otchyot-kontrolno-revizionnoj-komissii-maii-za-2021-2022-gg/)
 
 <small>[Наверх](#up)</small>
@@ -78,9 +78,9 @@ body
 
 ## <a name="it"></a>3. IT-группа
 
-Поддерживает и развивает IT-инфраструктуру, необходимую для функционирования МАИИ. Срок работы не ограничен. Координаторы избраны 2 августа 2021 года. Работает на основании [регламента](https://www.chgk.info/docs/2021-07-25-reglament-it-gruppy/).
+Поддерживает и развивает IT-инфраструктуру, необходимую для функционирования МАИИ. Срок работы не ограничен. Координаторы избраны 2 августа 2021 года. Работает на основании [регламента](https://www.maii.li/docs/2021-07-25-reglament-it-gruppy/).
 
-Ведётся набор в группу, подробности [здесь](https://www.chgk.info/news/2021-08-19-nabor-v-it-gruppu-maii/).
+Ведётся набор в группу, подробности [здесь](https://www.maii.li/news/2021-08-19-nabor-v-it-gruppu-maii/).
 
 Адрес для связи: <it@maii.li>. Кроме того, задать вопрос группе можно в канале [«Вопросы IT»](https://discord.gg/3SdPKJ6uxH) сервера МАИИ в Дискорде.
 
@@ -116,7 +116,7 @@ body
 
 ### Документы: <a name="it-links"></a>
 
-- [Регламент IT-группы](https://www.chgk.info/docs/2021-07-25-reglament-it-gruppy/).
+- [Регламент IT-группы](https://www.maii.li/docs/2021-07-25-reglament-it-gruppy/).
 - [Отчёт по итогам первого полугодия работы (19.02.2022)](https://www.maii.li/docs/2022-02-19-otchyot-it-gruppy-po-itogam-pervogo-polugodiya-raboty/).
 - [Отчёт по итогам второго полугодия работы (27.07.2022)](https://forum.znatoki.site/t/otchyota-it-gruppy-27-07-2022/1828).
 
@@ -127,7 +127,7 @@ body
 ## <a name="trans"></a>4. Группа по переводу документов
 
 Группа отвечает за переводы документов, связанных с деятельностью МАИИ, с немецкого языка или на немецкий язык.
-Работает на основании [регламента](https://www.chgk.info/docs/2021-07-25-reglament-rabochej-gruppy-po-perevodam-dokumentov/).
+Работает на основании [регламента](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-perevodam-dokumentov/).
 
 Адрес для связи: <perevod@maii.li>. Кроме того, задать вопрос группе можно в канале [«Вопросы переводы»](https://discord.gg/3FQypUfmx5) сервера МАИИ в Дискорде.
 
@@ -147,7 +147,7 @@ body
 
 ## <a name="rules"></a>5. Группа по правилам
 
-Разрабатывает документы, которые описывают правила основных интеллектуальных игр (ЧГК, БР, ССИ, ЭК, бескрылки) и регламентируют проведение соревнований по этим играм. Срок работы — 2 года, регламент можно посмотреть [здесь](https://www.chgk.info/docs/2021-07-25-reglament-rabochej-gruppy-po-razrabotke-i-sovershenstvovaniyu-pravil-igr/).
+Разрабатывает документы, которые описывают правила основных интеллектуальных игр (ЧГК, БР, ССИ, ЭК, бескрылки) и регламентируют проведение соревнований по этим играм. Срок работы — 2 года, регламент можно посмотреть [здесь](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-razrabotke-i-sovershenstvovaniyu-pravil-igr/).
 
 Адрес для связи: <pravila@maii.li>, также в канале [«Вопросы правила»](https://discord.gg/CzewzeKkMc) сервера МАИИ в Дискорде можно задать вопрос по работе группы.
 
@@ -157,7 +157,7 @@ body
 - Сергей Янукович.
 
 ### Документы:
-- [Регламент](https://www.chgk.info/docs/2021-07-25-reglament-rabochej-gruppy-po-razrabotke-i-sovershenstvovaniyu-pravil-igr/),
+- [Регламент](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-razrabotke-i-sovershenstvovaniyu-pravil-igr/),
 - [Обсуждение проекта обновлённых правил](https://www.maii.li/news/2021-10-21-obsuzhdenie-proekta-obnovlyonnyh-pravil-igry/),
 - [Опрос по принципам зачёта ответов](https://www.maii.li/news/2022-01-17-opros-po-principam-zachyota-otvetov/),
 - [Итоги опроса по принципам зачёта ответов](https://www.maii.li/docs/2022-02-17-itogi-oprosa-po-principam-zachyota/).
@@ -168,7 +168,7 @@ body
 
 ## <a name="rating"></a>6. Группа по рейтингу
 
-Разрабатывает и поддерживает систему рейтинга по основным интеллектуальным играм, которые находятся в сфере интересов МАИИ. Срок работы не ограничен. Если вы хотите поучаствовать в работе группы, заполните [эту форму](https://www.chgk.info/news/2021-08-05-nabor-zhelayushih-rabotat-nad-rejtingom-maii/).
+Разрабатывает и поддерживает систему рейтинга по основным интеллектуальным играм, которые находятся в сфере интересов МАИИ. Срок работы не ограничен. Если вы хотите поучаствовать в работе группы, заполните [эту форму](https://www.maii.li/news/2021-08-05-nabor-zhelayushih-rabotat-nad-rejtingom-maii/).
 
 Адрес для связи: <rating@maii.li>. Также можно написать координатору группы Андрею Волыхову личное сообщение [Вконтакте](https://vk.com/andyvolykhov), а вопрос по работе группы можно задать в канале [«Вопросы рейтинг»](https://discord.gg/jcHnbPUMgu) сервера МАИИ в Дискорде.
 
@@ -188,9 +188,9 @@ body
 - Алексей Тугарев (кооптирован 31 августа 2021 года, вышел из состава по собственному желанию 6 мая 2022 года),
 
 ### Ссылки:
-- [Регламент](https://www.chgk.info/docs/2021-07-25-reglament-rabochej-gruppy-po-rejtingu/),
-- [Положение об эгиде и рейтинге](https://www.chgk.info/docs/2021-08-30-polozhenie-ob-egide-i-rejtinge-maii/).
-- [FAQ по рейтингу и эгиде](https://www.chgk.info/docs/2021-09-05-faq-po-egide-i-rejtingu-maii),
+- [Регламент](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-rejtingu/),
+- [Положение об эгиде и рейтинге](https://www.maii.li/docs/2021-08-30-polozhenie-ob-egide-i-rejtinge-maii/).
+- [FAQ по рейтингу и эгиде](https://www.maii.li/docs/2021-09-05-faq-po-egide-i-rejtingu-maii),
 - [Сайт рейтинга](https://rating.maii.li/b/),
 - [Телеграм-канал](https://t.me/rating_maii) с обновлениями по сайту рейтинга,
 - [Оставить пожелания по работе сайта рейтинга](https://github.com/maii-chgk/rating-ui/issues),
@@ -215,7 +215,7 @@ body
 
 ## <a name="dg"></a>7. Дисциплинарная группа
 
-Расследует случаи нечестной игры и другие нарушения правил игр, рассматривает другие конфликтные ситуации, связанные с проведением соревнований по интеллектуальным играм, выносит решения о применении санкций в отношении участников соревнований по интеллектуальным играм, допустивших такие нарушения, и вырабатывает рекомендации по мерам профилактики нечестной игры. Срок работы не ограничен. Работает на основании [регламента](https://www.chgk.info/docs/2021-07-25-reglament-disciplinarnoj-rabochej-gruppy/).
+Расследует случаи нечестной игры и другие нарушения правил игр, рассматривает другие конфликтные ситуации, связанные с проведением соревнований по интеллектуальным играм, выносит решения о применении санкций в отношении участников соревнований по интеллектуальным играм, допустивших такие нарушения, и вырабатывает рекомендации по мерам профилактики нечестной игры. Срок работы не ограничен. Работает на основании [регламента](https://www.maii.li/docs/2021-07-25-reglament-disciplinarnoj-rabochej-gruppy/).
 
 Адрес для связи и заявлений: <dg@maii.li>, вопросы о работе группы можно задать в канале [«Вопросы дисциплинарная»](https://discord.gg/hDZkkTJwVa) сервера МАИИ в Дискорде.
 
@@ -239,8 +239,8 @@ body
 
 ### Документы <a name="dg-links"></a>
 
-- [Регламент ДГ](https://www.chgk.info/docs/2021-07-25-reglament-disciplinarnoj-rabochej-gruppy/),
-- [Список дисквалифицированных на турнирах под эгидой МАИИ](https://www.chgk.info/p/disqual),
+- [Регламент ДГ](https://www.maii.li/docs/2021-07-25-reglament-disciplinarnoj-rabochej-gruppy/),
+- [Список дисквалифицированных на турнирах под эгидой МАИИ](https://www.maii.li/p/disqual),
 - [Итог голосования о переносе дисквалификаций по решениям ДК МАК](https://forum.znatoki.site/t/golosovanie-po-diskvalifikacziyam-ot-dk-mak/1661),
 - [Итог повторного голосования о бессрочных дисквалификациях по решениям ДК МАК](https://forum.znatoki.site/t/golosovanie-o-bessrochnyh-diskvalifikacziyah/1664/4),
 - [Решение №1 от 25.12.2021 (по заявлению Эмиля Шалмиева)](https://www.maii.li/docs/2021-12-25-reshenie-dg-po-zayavleniyu-emilya-shalmieva/),
@@ -255,7 +255,7 @@ body
 
 ## <a name="info"></a>8. Информационная группа
 
-Информирует членов организации и участников движения интеллектуальных игр о деятельности и мероприятиях МАИИ, организовывает общение членов МАИИ между собой и органами МАИИ. Регламент можно посмотреть [здесь](https://www.chgk.info/docs/2021-07-25-reglament-informacionnoj-rabochej-gruppy/). Если вы хотите поучаствовать в работе группы, заполните [эту форму](https://docs.google.com/forms/d/e/1FAIpQLSdeHX9pmWfC-j6m817juvQG7PUOSsbZhmLY1BCw-p01f9yk1Q/viewform).
+Информирует членов организации и участников движения интеллектуальных игр о деятельности и мероприятиях МАИИ, организовывает общение членов МАИИ между собой и органами МАИИ. Регламент можно посмотреть [здесь](https://www.maii.li/docs/2021-07-25-reglament-informacionnoj-rabochej-gruppy/). Если вы хотите поучаствовать в работе группы, заполните [эту форму](https://docs.google.com/forms/d/e/1FAIpQLSdeHX9pmWfC-j6m817juvQG7PUOSsbZhmLY1BCw-p01f9yk1Q/viewform).
 
 Адрес для связи: <info@maii.li>, задать вопрос по работе группы можно в канале [«Вопросы информационная»](https://discord.gg/Y3c8fuqQzf) сервера МАИИ в Дискорде. 
 
@@ -292,7 +292,7 @@ body
 
 ## <a name="turnir"></a>9. Турнирная группа
 
-Разрабатывает структуру турниров по интеллектуальным играм, входящим в сферу интересов МАИИ, созданию и поддержки календаря турниров МАИИ, осуществлению методической и организационной помощи организаторам турниров. Работает на основании [регламента](https://www.chgk.info/docs/2021-07-25-reglament-turnirnoj-rabochej-gruppy/), срок не ограничен. 
+Разрабатывает структуру турниров по интеллектуальным играм, входящим в сферу интересов МАИИ, созданию и поддержки календаря турниров МАИИ, осуществлению методической и организационной помощи организаторам турниров. Работает на основании [регламента](https://www.maii.li/docs/2021-07-25-reglament-turnirnoj-rabochej-gruppy/), срок не ограничен. 
 
 Адрес для связи: <turnir@maii.li>, задать вопрос о работе группы можно в канале [«Вопросы турнирная»](https://discord.gg/aHPv4YHr5j) сервера МАИИ в Дискорде.
 
@@ -312,11 +312,11 @@ body
 
 ### Ссылки:
 
-- [Регламент турнирной группы](https://www.chgk.info/docs/2021-07-25-reglament-turnirnoj-rabochej-gruppy/)
-- [Положение об эгиде и рейтинге](https://www.chgk.info/docs/2021-08-30-polozhenie-ob-egide-i-rejtinge-maii/).
-- [FAQ по рейтингу и эгиде](https://www.chgk.info/docs/2021-09-05-faq-po-egide-i-rejtingu-maii),
+- [Регламент турнирной группы](https://www.maii.li/docs/2021-07-25-reglament-turnirnoj-rabochej-gruppy/)
+- [Положение об эгиде и рейтинге](https://www.maii.li/docs/2021-08-30-polozhenie-ob-egide-i-rejtinge-maii/).
+- [FAQ по рейтингу и эгиде](https://www.maii.li/docs/2021-09-05-faq-po-egide-i-rejtingu-maii),
 - [Интервью с координатором турнирной группы Владимиром Островским](https://teletype.in/@maii/egida_maii),
-- [Разъяснение по поводу показа вопросов на рейтингуемых турнирах](https://www.chgk.info/news/2021-10-06-pokaz-voprosov-na-ekranah-na-rejtinguemyh-turnirah:-razuyasnenie-turnirnoj-gruppy-maii/),
+- [Разъяснение по поводу показа вопросов на рейтингуемых турнирах](https://www.maii.li/news/2021-10-06-pokaz-voprosov-na-ekranah-na-rejtinguemyh-turnirah:-razuyasnenie-turnirnoj-gruppy-maii/),
 - [Положение о чемпионате мира](https://www.maii.li/docs/2022-01-06-polozhenie-o-chempionate-mira/),
 - [FAQ по чемпионату мира](https://www.maii.li/docs/2022-01-06-faq-po-chempionatu-mira/)
 
@@ -326,7 +326,7 @@ body
 
 ## <a name="ustav"></a>10. Уставная группа
 
-Группа занимается разработкой документов, определяющих принципы внутреннего устройства МАИИ, а также методической поддержкой других органов в вопросах документального обеспечения их деятельности. Работает на основании [регламента](https://www.chgk.info/docs/2021-07-25-reglament-ustavnoj-rabochej-gruppy/).
+Группа занимается разработкой документов, определяющих принципы внутреннего устройства МАИИ, а также методической поддержкой других органов в вопросах документального обеспечения их деятельности. Работает на основании [регламента](https://www.maii.li/docs/2021-07-25-reglament-ustavnoj-rabochej-gruppy/).
 
 Адрес для связи с группой: <ustav@maii.li>, задать вопрос о её работе можно также в канале [«Вопросы уставная»](https://discord.gg/hU42TsUmU3) сервера МАИИ в Дискорде. За новостями группы можно следить в её [телеграм-канале](https://t.me/maii_ustav).
 
@@ -357,7 +357,7 @@ body
 
 ### Ссылки: <a name="ug-links"></a>
 
-- [Регламент уставной группы](https://www.chgk.info/docs/2021-07-25-reglament-ustavnoj-rabochej-gruppy/)
+- [Регламент уставной группы](https://www.maii.li/docs/2021-07-25-reglament-ustavnoj-rabochej-gruppy/)
 - [Типовые формулировки](https://docs.google.com/document/d/e/2PACX-1vSg5Fb20zUSesU5dLMBGhJOc9hzkl0h3wgAfh3RgM5WMo3_-hpfPbX3F9eozvn4iDw-B-E0Q25s-_Jn/pub) для создания регламента рабочей группы МАИИ,
 - [Руководство по работе с документами МАИИ с помощью github](https://demo.hedgedoc.org/s/wOqiZpeAY).
 - [Отчёт о работе в 2021-2022 годах (27.07.2022)](https://www.maii.li/docs/2022-07-27-otchyot-ustavnoj-gruppy-(2021-2022)/).
@@ -368,7 +368,7 @@ body
 
 ## <a name="pravo"></a>11. Юридическая группа
 
-Занимается полным юридическим сопровождением деятельности МАИИ и консультированием её органов. Срок работы не ограничен, регламент можно посмотреть [здесь](https://www.chgk.info/docs/2021-07-25-reglament-yuridicheskoj-rabochej-gruppy/).
+Занимается полным юридическим сопровождением деятельности МАИИ и консультированием её органов. Срок работы не ограничен, регламент можно посмотреть [здесь](https://www.maii.li/docs/2021-07-25-reglament-yuridicheskoj-rabochej-gruppy/).
 
 Адрес для связи: <pravo@maii.li>, задать вопрос также можно в канале [«Вопросы юридическая»](https://discord.gg/6Yjd83yV98) сервера МАИИ в Дискорде.
 
@@ -386,8 +386,8 @@ body
 
 ### Документы:
 
-- [Регламент юридической группы](https://www.chgk.info/docs/2021-07-25-reglament-yuridicheskoj-rabochej-gruppy/),
-- [Рекомендации организаторам турниров](https://www.chgk.info/docs/2021-05-27-rekomendacii-organizatoram-turnirov/).
+- [Регламент юридической группы](https://www.maii.li/docs/2021-07-25-reglament-yuridicheskoj-rabochej-gruppy/),
+- [Рекомендации организаторам турниров](https://www.maii.li/docs/2021-05-27-rekomendacii-organizatoram-turnirov/).
 - [Отчёт о работе за 2021–2022 годы](https://www.maii.li/docs/2022-07-30-otchyot-yuridicheskoj-gruppy-za-20212022-gody/).
 
 <small>[Наверх](#up)</small>
@@ -412,11 +412,11 @@ body
 - Сергей Янукович (вышел из состава по собственному желанию 8 февраля 2022 года).
 
 ### Ссылки:
-- [Регламент](https://www.chgk.info/docs/2021-08-07-reglament-rabochej-gruppy-po-razrabotke-brendov/),
-- [Опрос по названиям интеллектуальных игр](https://www.chgk.info/news/2021-09-04-opros-po-nazvaniyam-intellektualnyh-igr/),
-- [Итоги опроса](https://www.chgk.info/docs/2021-11-12-itogi-oprosa-o-nazvaniyah-intellektualnyh-igr/),
-- [Конкурс на названия для интеллектуальных игр](https://www.chgk.info/news/2021-11-12-konkurs-na-nazvaniya-intellektualnyh-igr/),
-- [Отчёт о работе от 26.11.2021](https://www.chgk.info/docs/2021-11-26-otchyot-o-rabote-gruppy-po-razrabotke-brendov/).
+- [Регламент](https://www.maii.li/docs/2021-08-07-reglament-rabochej-gruppy-po-razrabotke-brendov/),
+- [Опрос по названиям интеллектуальных игр](https://www.maii.li/news/2021-09-04-opros-po-nazvaniyam-intellektualnyh-igr/),
+- [Итоги опроса](https://www.maii.li/docs/2021-11-12-itogi-oprosa-o-nazvaniyah-intellektualnyh-igr/),
+- [Конкурс на названия для интеллектуальных игр](https://www.maii.li/news/2021-11-12-konkurs-na-nazvaniya-intellektualnyh-igr/),
+- [Отчёт о работе от 26.11.2021](https://www.maii.li/docs/2021-11-26-otchyot-o-rabote-gruppy-po-razrabotke-brendov/).
 - [Отчёт о работе за 2021-2022 годы (19.08.2022)](https://www.maii.li/docs/2022-08-19-otchyot-gruppy-po-razrabotke-brendov-za-2021-2022-gody/).
 
 <small>[Наверх](#up)</small>
@@ -425,7 +425,7 @@ body
 
 ## <a name="anticovid"></a> Противоэпидемическая группа
 
-Вырабатывала рекомендации для участников интеллектуальных игр по оценке и снижению рисков заражения COVID-19. Регламент можно посмотреть [здесь](https://www.chgk.info/docs/2021-07-25-reglament-protivoepidemicheskoj-rabochej-gruppy/). Решение о продлении срока работы группы на второй год не продлили в ходе [голосования](https://forum.znatoki.site/t/golosovaniya-po-protivoepidemicheskoj-gruppe/1845) 4–5 августа 2022 года.
+Вырабатывала рекомендации для участников интеллектуальных игр по оценке и снижению рисков заражения COVID-19. Регламент можно посмотреть [здесь](https://www.maii.li/docs/2021-07-25-reglament-protivoepidemicheskoj-rabochej-gruppy/). Решение о продлении срока работы группы на второй год не продлили в ходе [голосования](https://forum.znatoki.site/t/golosovaniya-po-protivoepidemicheskoj-gruppe/1845) 4–5 августа 2022 года.
 
 Адрес для связи: <anticovid@maii.li>, задать вопрос по работе группы можно в канале [«Вопросы противоэпидемическая»](https://discord.gg/3Ck8jQAdEV) сервера МАИИ в Дискорде.
 
@@ -441,8 +441,8 @@ body
 
 ### Документы
 
-- [Регламент противоэпидемической группы](https://www.chgk.info/docs/2021-07-25-reglament-protivoepidemicheskoj-rabochej-gruppy/),
-- [Рекомендации по тому, как снизить риск COVID-19 на интеллектуальных играх](https://www.chgk.info/docs/2021-09-29-kak-snizit-risk-covid-19-na-intellektualnyh-igrah/),
+- [Регламент противоэпидемической группы](https://www.maii.li/docs/2021-07-25-reglament-protivoepidemicheskoj-rabochej-gruppy/),
+- [Рекомендации по тому, как снизить риск COVID-19 на интеллектуальных играх](https://www.maii.li/docs/2021-09-29-kak-snizit-risk-covid-19-na-intellektualnyh-igrah/),
 - [Отчёт о работе в 2021-2022 годах (01.08.2022)](https://www.maii.li/docs/2022-08-01-otchyot-protivoepidemicheskoj-gruppy-za-2021-2022-gody/).
 
 <small>[Наверх](#up)</small>
