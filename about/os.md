@@ -16,6 +16,8 @@ body
 - [Предварительная программа](https://www.maii.li/docs/2022-08-14-programma-obshego-sobraniya-28-avgusta/).
 - [Комментарий исполкома по поводу вопроса о Романе Черняеве](https://forum.znatoki.site/t/kommentarij-ispolkoma-k-golosovaniyu-o-priyome-v-maii-romana-chernyaeva/1876).
 - [Проект поправкок к уставу и положению о членстве от уставной группы](https://docs.google.com/document/d/e/2PACX-1vT7tz79FVMzyG6qEv4Fmic01VS0jEqptpKKXyvwQaPQrAIy4a96uW8YKhkzA4lGbiPBTGiMynTdI-hO/pub).
+- Проекты правил: [первый](https://docs.google.com/document/d/13f8st808S8GsqroR9qIbaXq29SpVrCz16jDNF_Sj-3o/edit), в котором учли результаты всех ЭГ; [второй](https://docs.google.com/document/d/1etMcQp3ZSooVpqvC-FUJSoq7noqtA8aVXFMq_YYjaSU/edit) — разработка группы по правилам.
+- [Интервью координатора группы по правилам Романа Немучинского](https://teletype.in/@maii/rules-nemuchinskiy).
 
 <small>[Наверх](#atop)</small>
 
