@@ -42,6 +42,14 @@ body
   <th><a href="https://rating.chgk.info/team/65510">Панические атаки</a></th>
   </tr>
 <tr>
+  <th><a href="https://rating.chgk.info/tournament/7666">Чемпионат Украины</a></th>
+  <th>Киев</th>
+  <th>4–5.12.2021</th>
+  <th>Подтверждён</th>
+  <th><a href="https://t.me/LigaUK/358">Пост об итогах</a></th>
+  <th><a href="https://rating.chgk.info/team/308">Номер 6</a></th>
+  </tr>
+<tr>
   <th><a href="https://rating.chgk.info/tournament/7638">Суперлига Европы. Кубок Северной совы</a></th>
   <th>Таллин</th>
   <th>8–9.01.2022</th>
@@ -130,11 +138,35 @@ body
   <th><a href="https://rating.chgk.info/team/77174">Polish Space Marines</a></th>
   </tr>
 <tr>
-  <th>Чемпионат Узбекистана</th>
+  <th><a href="https://rating.chgk.info/tournament/8287">Чемпионат Узбекистана</a></th>
   <th>Ташкент</th>
   <th>21.08.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://t.me/zakovat/5925">Телеграм</a></th>
+  <th><a href="https://rating.chgk.info/team/2909">Мистерия</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.chgk.info/tournament/8287">Чемпионат Узбекистана</a></th>
+  <th>Ташкент</th>
+  <th>21.08.2022</th>
+  <th>Подтверждён</th>
+  <th><a href="https://t.me/zakovat/5925">Телеграм</a></th>
+  <th><a href="https://rating.chgk.info/team/2909">Мистерия</a></th>
+  </tr>
+<tr>
+  <th>Чемпионат Эстонии</th>
+  <th>Таллинн</th>
+  <th>8–9.10.2022</th>
+  <th>Подтверждён</th>
+  <th><a href="https://www.facebook.com/groups/oche2022">Фейсбук</a></th>
+  <th>Ещё неизвестен</th>
+  </tr>
+<tr>
+  <th>Чемпионат Казахстана</a></th>
+  <th>Алматы</th>
+  <th>8–9.10.2022</th>
+  <th>Подтверждён</th>
+  <th><a href="https://www.facebook.com/groups/425152901558386">Фейсбук</a></th>
   <th>Ещё неизвестен</th>
   </tr>
 </tbody>
