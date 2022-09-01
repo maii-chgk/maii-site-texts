@@ -48,7 +48,8 @@ Body
 
 Чемпионаты мира проводятся с 2002 года. Ранее — до 2020 года — их организацией занималась [Международная ассоциация клубов ЧГК](https://ru.wikipedia.org/wiki/Что%3F_Где%3F_Когда%3F_%28спортивная_версия%29#Международная_ассоциация_клубов_«Что?_Где?_Когда?»_%28МАК_ЧГК%29). С 2022 года организацией чемпионата мира [занимается](https://www.maii.li/news/2022-01-06-itogi-golosovaniya-po-polozheniyu-o-chm/) и МАИИ.
 
-- [ЧМ-2022](https://www.maii.li/p/worldchamp-2022).
+- [ЧМ-2022](https://www.maii.li/p/worldchamp-2022) ([отменён](https://www.maii.li/news/2022-09-01-otmena-chm2022/)).
+- [ЧМ-2023](https://www.maii.li/p/worldchamp-2023).
 
 <small>[Наверх](#atop)</small>
 
