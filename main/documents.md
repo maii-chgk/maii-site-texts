@@ -33,7 +33,7 @@ Body
 
 ## Рейтинг <a name="rating"></a>
 
-- [Положение об эгиде и рейтинге МАИИ](https://www.maii.li/docs/2021-08-30-polozhenie-ob-egide-i-rejtinge-maii/)
+- [Положение об эгиде и рейтинге МАИИ](https://www.maii.li/p/aegis-rating)
 - [FAQ по эгиде и рейтингу](https://www.maii.li/docs/2021-09-05-faq-po-egide-i-rejtingu-maii/)
 
 <small>[К оглавлению](#top)</small>
