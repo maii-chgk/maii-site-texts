@@ -20,7 +20,7 @@ body
 - [Проект поправкок к уставу и положению о членстве от уставной группы](https://docs.google.com/document/d/e/2PACX-1vT7tz79FVMzyG6qEv4Fmic01VS0jEqptpKKXyvwQaPQrAIy4a96uW8YKhkzA4lGbiPBTGiMynTdI-hO/pub).
 - Проекты правил: [первый](https://docs.google.com/document/d/13f8st808S8GsqroR9qIbaXq29SpVrCz16jDNF_Sj-3o/edit); [второй](https://docs.google.com/document/d/1etMcQp3ZSooVpqvC-FUJSoq7noqtA8aVXFMq_YYjaSU/edit); [таблица различий](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2hHo0LK4Qj1pjmxen6W-BLlHorbaBh-1jE2dSOmNtY-8xZajbWAfBNh3CBcG-qsSSGYB07RUvBID-/pubhtml) проектов между собой; [таблица различий](https://docs.google.com/spreadsheets/d/1J8XapDITU6b3uAUAayJ9Lu9lQB3nzx4rC6ZG1bMYGOw/edit#gid=0) проектов и Кодекса спортивного ЧГК.
 - [Интервью координатора группы по правилам Романа Немучинского](https://teletype.in/@maii/rules-nemuchinskiy).
-- [Протокол общего собрания]().
+- [Протокол общего собрания](https://www.maii.li/docs/2022-08-30-protokol-obshego-sobraniya-maii-ot-28.08.2022/).
 
 <small>[Наверх](#atop)</small>
 
