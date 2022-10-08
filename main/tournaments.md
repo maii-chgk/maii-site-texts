@@ -62,6 +62,8 @@ Body
 - [Азербайджан](https://www.maii.li/p/countries-azerbaijan).
 - [Армения](https://www.maii.li/p/countries-armenia).
 - [Беларусь](https://www.maii.li/p/countries-belarus).
+- [Казахстан](https://www.maii.li/p/countries-kazakhstan).
+- [Эстония](https://www.maii.li/p/countries-eesti).
 
 <small>[Наверх](#atop)</small>
 
