@@ -145,30 +145,6 @@ body
   <th><a href="https://t.me/zakovat/5925">Телеграм</a></th>
   <th><a href="https://rating.chgk.info/team/2909">Мистерия</a></th>
   </tr>
-<tr>
-  <th><a href="https://rating.chgk.info/tournament/8287">Чемпионат Узбекистана</a></th>
-  <th>Ташкент</th>
-  <th>21.08.2022</th>
-  <th>Подтверждён</th>
-  <th><a href="https://t.me/zakovat/5925">Телеграм</a></th>
-  <th><a href="https://rating.chgk.info/team/2909">Мистерия</a></th>
-  </tr>
-<tr>
-  <th>Чемпионат Эстонии</th>
-  <th>Таллинн</th>
-  <th>8–9.10.2022</th>
-  <th>Подтверждён</th>
-  <th><a href="https://www.facebook.com/groups/oche2022">Фейсбук</a></th>
-  <th>Ещё неизвестен</th>
-  </tr>
-<tr>
-  <th>Чемпионат Казахстана</a></th>
-  <th>Алматы</th>
-  <th>8–9.10.2022</th>
-  <th>Подтверждён</th>
-  <th><a href="https://www.facebook.com/groups/425152901558386">Фейсбук</a></th>
-  <th>Ещё неизвестен</th>
-  </tr>
 </tbody>
 </table>
 
