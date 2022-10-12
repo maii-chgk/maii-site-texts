@@ -20,20 +20,20 @@ body
 </thead>
 <tbody>
 <tr>
-  <th>XX чемпионат Эстонии</th>
+  <th><a href="https://rating.chgk.info/tournament/8536">XX чемпионат Эстонии</a></th>
   <th>Таллинн</th>
   <th>8–9.10.2022</th>
   <th>Подтверждён</th>
-  <th><a href="https://www.facebook.com/groups/chgk.global/posts/2180112585485358/">Анонс</a></th>
-  <th>Ещё не известен</th>
+  <th><a href="https://t.me/chgkestonia/13">Телеграм-канал</a></th>
+  <th>Black label</th>
   </tr>
 <tr>
-  <th>X чемпионат Казахстана</a></th>
+  <th><a href="https://rating.chgk.info/tournament/8555">X чемпионат Казахстана</a></th>
   <th>Алматы</th>
   <th>8–9.10.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://www.facebook.com/groups/425152901558386">Фб</a></th>
-  <th>Пока не известен</th>
+  <th>Приятные люди</th>
   </tr>
 </tbody>
 </table>
