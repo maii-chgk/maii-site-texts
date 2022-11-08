@@ -34,6 +34,8 @@ Body:
 
 Информация: в [ивенте турнира в Фейсбуке](https://www.facebook.com/events/799619108122538/?active_tab=discussion), на [сайте пражского клуба](http://www.chgk.cz/o442022).
 
+Фотографии: на [сайте Алины Крестининой](https://krestinina.gallery.photo/gallery/cgk/).
+
 <small>*[Наверх](#atop)*</small>
 
 **II открытый чемпионат Чехии** прошёл 13–14 октября 2018 года в Праге. <a name="19"></a>
