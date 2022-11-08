@@ -35,6 +35,14 @@ body
   <th><a href="https://www.facebook.com/groups/425152901558386">Фб</a></th>
   <th>Приятные люди</th>
   </tr>
+<tr>
+  <th><a href="https://rating.chgk.info/tournament/6636">III открытый чемпионат Чехии</a></th>
+  <th>Прага</th>
+  <th>29–30.10.2022</th>
+  <th>Подтверждён</th>
+  <th><a href="http://www.chgk.cz/o442022">Сайт</a></th>
+  <th>В гостях у Кафки</th>
+  </tr>
 </tbody>
 </table>
 
