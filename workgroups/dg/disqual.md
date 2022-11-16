@@ -15,14 +15,6 @@ Body
 </thead>
 <tbody>
 <tr>
-  <th><a href="http://rating.chgk.info/player/56581">56581</a></th>
-  <th>Егор Цалкович</th>
-  <th>Во всех качествах</th>
-  <th>5 лет</th>
-  <th>до 13 ноября 2022 года</th>
-  <th>По <a href="https://teletype.in/@diskom/mak_13.11.2017">решению ДК МАК</a>*</th>
-  </tr>
-<tr>
   <th><a href="http://rating.chgk.info/player/240750">240750</a></th>
   <th>Роман Черняев</th>
   <th>Во всех качествах</th>
