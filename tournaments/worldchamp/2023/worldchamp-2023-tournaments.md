@@ -43,6 +43,38 @@ body
   <th><a href="http://www.chgk.cz/o442022">Сайт</a></th>
   <th>В гостях у Кафки</th>
   </tr>
+  <tr>
+  <th>XVIII чемпионат Туркменистана</th>
+  <th>Ашхабад</th>
+  <th>27.11.2022</th>
+  <th>Подтверждён</th>
+  <th><a href="http://chgk.tv/">Сайт</a></th>
+  <th>Пока неизвестно</th>
+  </tr>
+  <tr>
+  <th><a href="https://rating.chgk.info/tournament/8560">XIII чемпионат Азербайджана</a></th>
+  <th>Баку</th>
+  <th>05.02.2023</th>
+  <th>Подтверждён</th>
+  <th>-</th>
+  <th>Пока неизвестно</th>
+  </tr>
+  <tr>
+  <th><a href="https://rating.chgk.info/tournament/6353">XXV чемпионат Израиля</a></th>
+  <th>Тель-Авив</th>
+  <th>25.03.2023</th>
+  <th>Подтверждён</th>
+  <th><a href="http://il.chgk.info/"></a></th>
+  <th>Пока неизвестно</th>
+  </tr>
+  <tr>
+  <th><a href="https://rating.chgk.info/tournament/8661">Чемпионат Польши</a></th>
+  <th>Варшава</th>
+  <th>1–2.04.2023</th>
+  <th>Подтверждён</th>
+  <th>-</th>
+  <th>Пока неизвестно</th>
+  </tr>
 </tbody>
 </table>
 
