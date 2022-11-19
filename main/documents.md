@@ -47,7 +47,7 @@ Body
 
 ## Дисциплинарные решения <a name="discipline"></a>
 
-- [Список дисквалифицированных на турнирах под эгидой МАИИ](https://www.chgk.info/p/disqual)
+- [Список дисквалифицированных на турнирах под эгидой МАИИ](https://maii.li/p/disqual)
 - [Решение №1 от 25.12.2021 (по заявлению Эмиля Шалмиева)](https://www.maii.li/docs/2021-12-25-reshenie-dg-po-zayavleniyu-emilya-shalmieva/)
 - [Решение №2 от 10.02.2022 (по поводу дисквалификации Андрея Белова)](https://www.maii.li/docs/2022-02-10-reshenie-dg-2-(po-povodu-diskvalifikacii-andreya-belova)/)
 - [Решение №3 от 09.05.2022 (по поводу заявлений Романа Черняева)](https://www.maii.li/docs/2022-05-09-reshenie-disciplinarnoj-gruppy-3-(po-povodu-zayavlenij-romana-chernyaeva)/)
@@ -138,5 +138,6 @@ Body
 - [Типовые формулировки для создания регламента рабочей группы МАИИ](https://docs.google.com/document/d/e/2PACX-1vSg5Fb20zUSesU5dLMBGhJOc9hzkl0h3wgAfh3RgM5WMo3_-hpfPbX3F9eozvn4iDw-B-E0Q25s-_Jn/pub)
 - [Руководство по работе с документами МАИИ с помощью github](https://demo.hedgedoc.org/s/wOqiZpeAY)
 - [Путеводитель по информационным ресурсам МАИИ](https://www.maii.li/docs/2022-02-03-putevoditel-po-informacionnym-resursam-maii/)
+- [Рекомендации по созданию инициативных групп](https://www.maii.li/docs/2022-11-17-rekomendacii-po-sozdaniyu-iniciativnyh-grupp)
 
 <small>[К оглавлению](#top)</small>
