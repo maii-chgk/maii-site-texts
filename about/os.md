@@ -16,7 +16,9 @@ body
 
 ## 18–19 декабря 2022 года <a name="dec22"></a>
 
-- [Предварительная программа](https://www.maii.li/news/2022-12-04-programma-dekabrskogo-obshego-sobraniya/)
+- [Программа](https://www.maii.li/news/2022-12-14-programma-dekabrskogo-obshego-sobraniya/).
+- [Документы к голосованию](https://forum.znatoki.site/c/obshhee-sobranie-18-12-2022/dokumenty/53) (тема доступна только для членов МАИИ).
+- [Голосования](https://forum.znatoki.site/c/obshhee-sobranie-18-12-2022/golosovaniya/54) (тема доступна только для членов МАИИ).
 
 ## 28–29 августа 2022 года <a name="aug22"></a>
 
