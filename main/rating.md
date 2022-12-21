@@ -7,7 +7,7 @@
 - [Сайт рейтинга](https://rating.maii.li/b/), 
 - [Турнирный сайт сообщества знатоков](https://rating.chgk.info/),
 - [Информация о рабочей группе по рейтингу](https://www.maii.li/p/who#rating),
-- [Положение об эгиде и рейтинге](https://www.maii.li/docs/2021-08-30-polozhenie-ob-egide-i-rejtinge-maii/),
+- [Положение об эгиде и рейтинге](https://www.maii.li/p/aegis-rating),
 - [FAQ по эгиде и рейтингу](https://www.maii.li/docs/2021-09-05-faq-po-egide-i-rejtingu-maii/),
 - [Телеграм-канал с апдейтами по рейтингу](https://t.me/rating_maii),
 - [Сбор предложений по поводу рейтинга на гитхабе](https://github.com/maii-chgk/rating-ui/issues),
