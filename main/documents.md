@@ -76,8 +76,12 @@ Body
 - [Регламент группы по рейтингу](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-rejtingu/)
 - [Регламент турнирной группы](https://www.maii.li/docs/2021-07-25-reglament-turnirnoj-rabochej-gruppy/)
 - [Регламент уставной группы](https://www.maii.li/docs/2021-07-25-reglament-ustavnoj-rabochej-gruppy/)
-- [Регламент группы по разработке брендов](https://www.maii.li/docs/2021-08-07-reglament-rabochej-gruppy-po-razrabotke-brendov/)
 - [Регламент юридической группы](https://www.maii.li/docs/2021-07-25-reglament-yuridicheskoj-rabochej-gruppy/)
+
+### Ранее действовали
+
+- [Регламент группы по разработке брендов](https://www.maii.li/docs/2021-08-07-reglament-rabochej-gruppy-po-razrabotke-brendov/)
+- [Регламент противоэпидемической группы](https://www.maii.li/docs/2021-07-25-reglament-protivoepidemicheskoj-rabochej-gruppy/)
 
 <small>[К оглавлению](#top)</small>
 
