@@ -51,7 +51,8 @@ Body
 - [Решение №1 от 25.12.2021 (по заявлению Эмиля Шалмиева)](https://www.maii.li/docs/2021-12-25-reshenie-dg-po-zayavleniyu-emilya-shalmieva/)
 - [Решение №2 от 10.02.2022 (по поводу дисквалификации Андрея Белова)](https://www.maii.li/docs/2022-02-10-reshenie-dg-2-(po-povodu-diskvalifikacii-andreya-belova)/)
 - [Решение №3 от 09.05.2022 (по поводу заявлений Романа Черняева)](https://www.maii.li/docs/2022-05-09-reshenie-disciplinarnoj-gruppy-3-(po-povodu-zayavlenij-romana-chernyaeva)/)
-- [Решение исполкома по поводу обжалования решения №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/).
+- [Решение исполкома по поводу обжалования решения №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/)
+- [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 <small>[К оглавлению](#top)</small>
 
@@ -69,9 +70,9 @@ Body
 - [Регламент IT-группы](https://www.maii.li/docs/2021-07-25-reglament-it-gruppy/)
 - [Регламент дисциплинарной группы](https://www.maii.li/docs/2021-07-25-reglament-disciplinarnoj-rabochej-gruppy/)
 - [Регламент информационной группы](https://www.maii.li/docs/2021-07-25-reglament-informacionnoj-rabochej-gruppy/)
+- [Регламент молодёжной группы](https://www.maii.li/docs/2022-12-19-reglament-molodyozhnoj-rabochej-gruppy/)
 - [Регламент по переводам документов](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-perevodam-dokumentov/)
 - [Регламент по правилам](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-razrabotke-i-sovershenstvovaniyu-pravil-igr/)
-- [Регламент противоэпидемической группы](https://www.maii.li/docs/2021-07-25-reglament-protivoepidemicheskoj-rabochej-gruppy/)
 - [Регламент группы по рейтингу](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-rejtingu/)
 - [Регламент турнирной группы](https://www.maii.li/docs/2021-07-25-reglament-turnirnoj-rabochej-gruppy/)
 - [Регламент уставной группы](https://www.maii.li/docs/2021-07-25-reglament-ustavnoj-rabochej-gruppy/)
