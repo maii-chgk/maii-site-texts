@@ -15,7 +15,7 @@ Body
 </thead>
 <tbody>
 <tr>
-  <th><a href="http://rating.chgk.info/player/240750">240750</a></th>
+  <th><a href="https://rating.maii.li/b/player/240750">240750</a></th>
   <th>Роман Черняев</th>
   <th>Во всех качествах</th>
   <th>1 год</th>
@@ -23,7 +23,7 @@ Body
   <th>По <a href="https://www.maii.li/docs/2022-05-09-reshenie-disciplinarnoj-gruppy-3-(po-povodu-zayavlenij-romana-chernyaeva)/">решению ДГ №3</a>*</th>
   </tr>
 <tr>
-  <th><a href="http://rating.chgk.info/player/34563">34563</a></th>
+  <th><a href="https://rating.maii.li/b/player/34563">34563</a></th>
   <th>Роман Чайка</th>
   <th>В качестве организатора, представителя и ведущего</th>
   <th>5 лет</th>
@@ -31,7 +31,7 @@ Body
   <th>По <a href="https://teletype.in/@diskom/mak_20.03.2019">решению ДК МАК</a>*</th>
   </tr>
 <tr>
-  <th><a href="http://rating.chgk.info/player/2954">2954</a></th>
+  <th><a href="https://rating.maii.li/b/player/2954">2954</a></th>
   <th>Андрей Белов</th>
   <th>На офлайн-турнирах — во всех качествах</th>
   <th>2 года</th>
@@ -39,7 +39,7 @@ Body
   <th>По <a href="https://www.maii.li/docs/2022-02-10-reshenie-dg-2-(po-povodu-diskvalifikacii-andreya-belova)/">решению ДГ №2</a></th>
   </tr>
 <tr>
-  <th><a href="http://rating.chgk.info/player/2954">2954</a></th>
+  <th><a href="https://rating.maii.li/b/player/2954">2954</a></th>
   <th>Андрей Белов</th>
   <th>На онлайн-турнирах — во всех качествах</th>
   <th>4 года</th>
@@ -47,15 +47,23 @@ Body
   <th>По <a href="https://www.maii.li/docs/2022-02-10-reshenie-dg-2-(po-povodu-diskvalifikacii-andreya-belova)/">решению ДГ №2</a></th>
   </tr>
 <tr>
-  <th><a href="http://rating.chgk.info/player/5195">5195</a></th>
+  <th><a href="https://rating.maii.li/b/player/5195/">5195</a></th>
   <th>Анатолий Вассерман</th>
   <th>Во всех качествах</th>
   <th>Бессрочно</th>
   <th>-</th>
-  <th>По <a href="https://www.chgk.info/docs/2022-05-02-protokol-obshego-sobraniya-maii-ot-30.04.2022/">решению ОС МАИИ</a>*</th>
+  <th>По <a href="https://www.maii.li/docs/2022-05-02-protokol-obshego-sobraniya-maii-ot-30.04.2022/">решению ОС МАИИ</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://rating.maii.li/b/player/25882">25882</a></th>
+  <th>Максим Поташев</th>
+  <th>Во всех качествах</th>
+  <th>Бессрочно</th>
+  <th>-</th>
+  <th>По <a href="https://www.maii.li/docs/2022-12-21-protokol-obshego-sobraniya-maii-ot-21.12.2022/">решению ОС МАИИ</a></th>
   </tr>
 <tr>
-  <th><a href="http://rating.chgk.info/player/116902">116902</a></th>
+  <th><a href="https://rating.maii.li/b/player/116902">116902</a></th>
   <th>Ашот Гянджунцев</th>
   <th>Во всех качествах</th>
   <th>Бессрочно</th>
@@ -63,7 +71,7 @@ Body
   <th>По <a href="https://teletype.in/@diskom/mak_11.01.2019">решению ДК МАК</a>*</th>
   </tr>
 <tr>
-  <th><a href="http://rating.chgk.info/player/86087">86087</a></th>
+  <th><a href="https://rating.maii.li/b/player/86087">86087</a></th>
   <th>Руслан Рузанов</th>
   <th>Во всех качествах</th>
   <th>Бессрочно</th>
@@ -73,4 +81,6 @@ Body
 </tbody>
 </table>
 
-\* — за признание решений Дисциплинарной комиссии МАК на турнирах под эгидой МАИИ [проголосовали](https://www.chgk.info/news/2021-09-14-diskvalifikacii-dk-mak:-rezultaty-pervogo-golosovaniya-i-anons-povtornogo/) члены организации в сентябре 2021 года.
+\* — за признание решений Дисциплинарной комиссии МАК на турнирах под эгидой МАИИ [проголосовали](https://www.maii.li/news/2021-09-14-diskvalifikacii-dk-mak:-rezultaty-pervogo-golosovaniya-i-anons-povtornogo/) члены организации в сентябре 2021 года.
+
+Решение об отстранении / дисквалификации может отменить общее собрание МАИИ.
