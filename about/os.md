@@ -4,7 +4,7 @@ title:
 ---
 
 lead
-Всего с момента основания ассоциации прошло четыре общих собрания.
+Всего с момента основания ассоциации прошло пять общих собраний.
 
 body
 
@@ -17,17 +17,21 @@ body
 ## 18–19 декабря 2022 года <a name="dec22"></a>
 
 - [Программа](https://www.maii.li/news/2022-12-14-programma-dekabrskogo-obshego-sobraniya/).
-- [Документы к голосованию](https://forum.znatoki.site/c/obshhee-sobranie-18-12-2022/dokumenty/53) (тема доступна только для членов МАИИ).
-- [Голосования](https://forum.znatoki.site/c/obshhee-sobranie-18-12-2022/golosovaniya/54) (тема доступна только для членов МАИИ).
+- [Видеозапись](https://youtu.be/dWVDDVDgQ5Y).
+- [Протокол общего собрания](https://www.maii.li/docs/2022-12-21-protokol-obshego-sobraniya-maii-ot-21.12.2022/).
+- [Новость с итогами собрания](https://www.maii.li/news/2022-12-22-itogi-dekabrskogo-obshego-sobraniya).
+
+<small>[Наверх](#atop)</small>
+
+--------
 
 ## 28–29 августа 2022 года <a name="aug22"></a>
 
 - [Программа](https://www.maii.li/news/2022-08-27-obshee-sobranie-28-avgusta:-samoe-glavnoe/).
-- [Комментарий исполкома по поводу вопроса о Романе Черняеве](https://forum.znatoki.site/t/kommentarij-ispolkoma-k-golosovaniyu-o-priyome-v-maii-romana-chernyaeva/1876).
-- [Проект поправкок к уставу и положению о членстве от уставной группы](https://docs.google.com/document/d/e/2PACX-1vT7tz79FVMzyG6qEv4Fmic01VS0jEqptpKKXyvwQaPQrAIy4a96uW8YKhkzA4lGbiPBTGiMynTdI-hO/pub).
-- Проекты правил: [первый](https://docs.google.com/document/d/13f8st808S8GsqroR9qIbaXq29SpVrCz16jDNF_Sj-3o/edit); [второй](https://docs.google.com/document/d/1etMcQp3ZSooVpqvC-FUJSoq7noqtA8aVXFMq_YYjaSU/edit); [таблица различий](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2hHo0LK4Qj1pjmxen6W-BLlHorbaBh-1jE2dSOmNtY-8xZajbWAfBNh3CBcG-qsSSGYB07RUvBID-/pubhtml) проектов между собой; [таблица различий](https://docs.google.com/spreadsheets/d/1J8XapDITU6b3uAUAayJ9Lu9lQB3nzx4rC6ZG1bMYGOw/edit#gid=0) проектов и Кодекса спортивного ЧГК.
-- [Интервью координатора группы по правилам Романа Немучинского](https://teletype.in/@maii/rules-nemuchinskiy).
+- [Видеозапись](https://www.youtube.com/watch?v=QWzl0a1pvUU).
 - [Протокол общего собрания](https://www.maii.li/docs/2022-08-30-protokol-obshego-sobraniya-maii-ot-28.08.2022/).
+- [Интервью координатора группы по правилам Романа Немучинского](https://teletype.in/@maii/rules-nemuchinskiy).
+- [Новость с краткими итогами](https://www.maii.li/news/2022-08-29-itogi-avgustovskogo-obshego-sobraniya/).
 
 <small>[Наверх](#atop)</small>
 

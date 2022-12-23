@@ -87,11 +87,12 @@ Body
 
 ## Общие собрания <a name="os"></a>
 
-- [Регламент проведения общего собрания](https://www.maii.li/docs/2021-07-04-reglament-provedeniya-obshego-sobraniya-maii/)
-- [Протокол общего собрания МАИИ от 03.07.2021](https://www.maii.li/docs/2021-07-07-protokol-obshego-sobraniya-maii-ot-03.07.2021/)
-- [Протокол общего собрания МАИИ от 30.04.2022](https://www.maii.li/docs/2022-05-02-protokol-obshego-sobraniya-maii-ot-30.04.2022/)
-- [Заявление МАИИ о войне в Украине](https://www.maii.li/docs/2022-05-02-zayavlenie-maii-o-vojne-v-ukraine/) (02.05.2022)
-- [Протокол общего собрания МАИИ от 28.08.2022](https://www.maii.li/docs/2022-08-30-protokol-obshego-sobraniya-maii-ot-28.08.2022/)
+- [Регламент проведения общего собрания](https://www.maii.li/docs/2021-07-04-reglament-provedeniya-obshego-sobraniya-maii/).
+- [Протокол общего собрания МАИИ от 03.07.2021](https://www.maii.li/docs/2021-07-07-protokol-obshego-sobraniya-maii-ot-03.07.2021/).
+- [Протокол общего собрания МАИИ от 30.04.2022](https://www.maii.li/docs/2022-05-02-protokol-obshego-sobraniya-maii-ot-30.04.2022/).
+- [Заявление МАИИ о войне в Украине](https://www.maii.li/docs/2022-05-02-zayavlenie-maii-o-vojne-v-ukraine/) (02.05.2022).
+- [Протокол общего собрания МАИИ от 28.08.2022](https://www.maii.li/docs/2022-08-30-protokol-obshego-sobraniya-maii-ot-28.08.2022/).
+- [Протокол общего собрания МАИИ от 21.12.2022](https://www.maii.li/docs/2022-12-21-protokol-obshego-sobraniya-maii-ot-21.12.2022/).
 
 Подробнее об общих собраниях см. [здесь](https://www.maii.li/p/os).
 
