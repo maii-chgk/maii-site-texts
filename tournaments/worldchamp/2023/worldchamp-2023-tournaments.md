@@ -44,18 +44,26 @@ body
   <th>В гостях у Кафки</th>
   </tr>
   <tr>
-  <th>XVIII чемпионат Туркменистана</th>
+  <th><a href="https://rating.chgk.info/tournament/8680">XVIII чемпионат Туркменистана</a></th>
   <th>Ашхабад</th>
   <th>27.11.2022</th>
   <th>Подтверждён</th>
   <th><a href="http://chgk.tv/">Сайт</a></th>
-  <th>Пока неизвестно</th>
+  <th>Ва-Банк</th>
   </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/8663">Открытый чемпионат Кипра</a></th>
   <th>Лимасол</th>
   <th>14.01.2023</th>
   <th>Подтверждён</th>
+  <th><a href="http://cyprusfest.com/">Сайт</a></th>
+  <th>Пока неизвестно</th>
+  </tr>
+  <tr>
+  <th><a href="https://rating.chgk.info/tournament/8663">Фестиваль «Тёплый январь»</a></th>
+  <th>Лимасол</th>
+  <th>14.01.2023</th>
+  <th>Предварительный</th>
   <th><a href="http://cyprusfest.com/">Сайт</a></th>
   <th>Пока неизвестно</th>
   </tr>
