@@ -66,6 +66,7 @@ Body
 - [Армения](https://www.maii.li/p/countries-armenia).
 - [Беларусь](https://www.maii.li/p/countries-belarus).
 - [Казахстан](https://www.maii.li/p/countries-kazakhstan).
+- [Кипр](https://www.maii.li/p/countires-cyprus).
 - [Туркменистан](https://www.maii.li/p/countries-turkmenistan).
 - [Чехия](https://www.maii.li/p/countries-cesko).
 - [Эстония](https://www.maii.li/p/countries-eesti).

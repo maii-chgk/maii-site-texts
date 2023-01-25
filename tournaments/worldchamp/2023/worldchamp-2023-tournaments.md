@@ -92,7 +92,7 @@ body
   <th>Пока неизвестно</th>
   </tr>
   <tr>
-  <th><a href="https://rating.chgk.info/tournament/8559">Мемориал Эмиля Искендерова</a></th>
+  <th><a href="https://rating.chgk.info/tournament/8865">Мемориал Эмиля Искендерова</a></th>
   <th>Баку</th>
   <th>20–21.05.2023</th>
   <th>Предварительный</th>
