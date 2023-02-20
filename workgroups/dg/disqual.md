@@ -39,6 +39,14 @@ Body
   <th>По <a href="https://www.maii.li/docs/2022-02-10-reshenie-dg-2-(po-povodu-diskvalifikacii-andreya-belova)/">решению ДГ №2</a></th>
   </tr>
 <tr>
+  <th><a href="https://rating.maii.li/b/player/268881">268881</a></th>
+  <th>Нурсултан Хасанов</th>
+  <th>Во всех качествах</th>
+  <th>2 года</th>
+  <th>до 20 февраля 2025 года</th>
+  <th>По <a href="https://www.maii.li/docs/2023-02-20-reshenie-dg-4-(po-povodu-diskvalifikacii-nursultana-hasanova)/">решению ДГ №4</a></th>
+  </tr>
+<tr>
   <th><a href="https://rating.maii.li/b/player/2954">2954</a></th>
   <th>Андрей Белов</th>
   <th>На онлайн-турнирах — во всех качествах</th>
