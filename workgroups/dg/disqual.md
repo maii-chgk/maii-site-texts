@@ -63,6 +63,14 @@ Body
   <th>По <a href="https://www.maii.li/docs/2023-02-20-reshenie-dg-4-(po-povodu-diskvalifikacii-nursultana-hasanova)/">решению ДГ №4</a></th>
   </tr>
 <tr>
+  <th><a href="https://rating.maii.li/b/player/239393">239393</a></th>
+  <th>Сарвар Уктамов</th>
+  <th>Во всех качествах</th>
+  <th>2 года</th>
+  <th>до 28.02.2025</th>
+  <th>По <a href="https://www.maii.li/docs/2023-02-28-reshenie-dg-6-(po-povodu-diskvalifikacii-sarvara-uktamova)/">решению ДГ №6</a></th>
+  </tr>
+<tr>
   <th><a href="https://rating.maii.li/b/player/2954">2954</a></th>
   <th>Андрей Белов</th>
   <th>На онлайн-турнирах — во всех качествах</th>

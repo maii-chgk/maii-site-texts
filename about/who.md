@@ -253,6 +253,7 @@ body
 - [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-07-28-otchyot-disciplinarnoj-gruppy-za-2021-2022/).
 - [Решение №4 от 20.02.2023 (по поводу дисквалификации Нурсултана Хасанова)](https://www.maii.li/docs/2023-02-20-reshenie-dg-4-(po-povodu-diskvalifikacii-nursultana-hasanova)/).
 - [Решение №5 от 21.02.2023 (по поводу дисквалификации Александра Рекунова)](https://www.maii.li/docs/2023-02-21-reshenie-dg-5-(po-povodu-diskvalifikacii-aleksandra-rekunova)/).
+- [Решение №6 от 28.02.2023 (по поводу дисквалификации Сарвара Уктамова)](https://www.maii.li/docs/2023-02-28-reshenie-dg-6-(po-povodu-diskvalifikacii-sarvara-uktamova)/).
 
 <small>[Наверх](#up)</small>
 
