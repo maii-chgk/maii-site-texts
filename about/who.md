@@ -252,6 +252,7 @@ body
 - [Решение исполкома по поводу обжалования решения №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/).
 - [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-07-28-otchyot-disciplinarnoj-gruppy-za-2021-2022/).
 - [Решение №4 от 20.02.2023 (по поводу дисквалификации Нурсултана Хасанова)](https://www.maii.li/docs/2023-02-20-reshenie-dg-4-(po-povodu-diskvalifikacii-nursultana-hasanova)/).
+- [Решение №5 от 21.02.2023 (по поводу дисквалификации Александра Рекунова)](https://www.maii.li/docs/2023-02-21-reshenie-dg-5-(po-povodu-diskvalifikacii-aleksandra-rekunova)/).
 
 <small>[Наверх](#up)</small>
 

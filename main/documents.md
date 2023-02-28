@@ -1,4 +1,4 @@
-Title
+дисTitle
 Документы
 
 Body
@@ -52,6 +52,8 @@ Body
 - [Решение №2 от 10.02.2022 (по поводу дисквалификации Андрея Белова)](https://www.maii.li/docs/2022-02-10-reshenie-dg-2-(po-povodu-diskvalifikacii-andreya-belova)/)
 - [Решение №3 от 09.05.2022 (по поводу заявлений Романа Черняева)](https://www.maii.li/docs/2022-05-09-reshenie-disciplinarnoj-gruppy-3-(po-povodu-zayavlenij-romana-chernyaeva)/)
 - [Решение исполкома по поводу обжалования решения №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/)
+- [Решение №4 от 20.02.2023 (по поводу дисквалификации Нурсултана Хасанова)](https://www.maii.li/docs/2023-02-20-reshenie-dg-4-(po-povodu-diskvalifikacii-nursultana-hasanova)/).
+- [Решение №5 от 21.02.2023 (по поводу дисквалификации Александра Рекунова)](https://www.maii.li/docs/2023-02-21-reshenie-dg-5-(po-povodu-diskvalifikacii-aleksandra-rekunova)/).
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 <small>[К оглавлению](#top)</small>
