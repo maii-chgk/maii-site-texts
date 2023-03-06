@@ -55,6 +55,7 @@ Body
 - [Решение №4 от 20.02.2023 (по поводу дисквалификации Нурсултана Хасанова)](https://www.maii.li/docs/2023-02-20-reshenie-dg-4-(po-povodu-diskvalifikacii-nursultana-hasanova)/).
 - [Решение №5 от 21.02.2023 (по поводу дисквалификации Александра Рекунова)](https://www.maii.li/docs/2023-02-21-reshenie-dg-5-(po-povodu-diskvalifikacii-aleksandra-rekunova)/).
 - [Решение №6 от 28.02.2023 (по поводу дисквалификации Сарвара Уктамова)](https://www.maii.li/docs/2023-02-28-reshenie-dg-6-(po-povodu-diskvalifikacii-sarvara-uktamova)/).
+- [Решение №7 от 04.03.2023 (по поводу дисквалификации Виктора Плотникова)](https://www.maii.li/docs/2023-03-04-reshenie-dg-7-(po-povodu-diskvalifikacii-viktora-plotnikova)/)
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 <small>[К оглавлению](#top)</small>

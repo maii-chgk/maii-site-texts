@@ -39,6 +39,14 @@ Body
   <th>По <a href="https://www.maii.li/docs/2023-02-21-reshenie-dg-5-(po-povodu-diskvalifikacii-aleksandra-rekunova)/">решению ДГ №5</a></th>
   </tr>
 <tr>
+  <th><a href="https://rating.maii.li/b/player/25120">25120</a></th>
+  <th>Виктор Плотников</th>
+  <th>В качестве игрока</th>
+  <th>1 год</th>
+  <th>до 04.03.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2023-03-04-reshenie-dg-7-(po-povodu-diskvalifikacii-viktora-plotnikova)/">решению ДГ №7</a></th>
+  </tr>
+<tr>
   <th><a href="https://rating.maii.li/b/player/34563">34563</a></th>
   <th>Роман Чайка</th>
   <th>В качестве организатора, представителя и ведущего</th>
@@ -69,6 +77,14 @@ Body
   <th>2 года</th>
   <th>до 28.02.2025</th>
   <th>По <a href="https://www.maii.li/docs/2023-02-28-reshenie-dg-6-(po-povodu-diskvalifikacii-sarvara-uktamova)/">решению ДГ №6</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/25120">25120</a></th>
+  <th>Виктор Плотников</th>
+  <th>В качестве ведущего и представителя</th>
+  <th>2 года</th>
+  <th>до 04.03.2025</th>
+  <th>По <a href="https://www.maii.li/docs/2023-03-04-reshenie-dg-7-(po-povodu-diskvalifikacii-viktora-plotnikova)/">решению ДГ №7</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.maii.li/b/player/2954">2954</a></th>
