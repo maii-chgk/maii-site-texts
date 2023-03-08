@@ -100,6 +100,22 @@ body
   <th>Пока неизвестно</th>
   </tr>
   <tr>
+  <th><a href="https://rating.chgk.info/tournament/8893">Чемпионат Беларуси</a></th>
+  <th>Минск</th>
+  <th>8–9.04.2023</th>
+  <th>Подтверждён</th>
+  <th>-</th>
+  <th>Пока неизвестно</th>
+  </tr>
+  <tr>
+  <th><a href="https://rating.chgk.info/tournament/9025">Чемпионат Латвии</a></th>
+  <th>Даугавпилс</th>
+  <th>22.04.2023</th>
+  <th>Подтверждён</th>
+  <th>-</th>
+  <th>Пока неизвестно</th>
+  </tr>
+  <tr>
   <th><a href="https://rating.chgk.info/tournament/8865">Мемориал Эмиля Искендерова</a></th>
   <th>Баку</th>
   <th>20–21.05.2023</th>
@@ -108,11 +124,19 @@ body
   <th>Пока неизвестно</th>
   </tr>
   <tr>
-  <th>Чемпионат Казахстана</th>
+  <th>Чемпионат Великобритании</th>
+  <th>Кембридж</th>
+  <th>27.05.2023</th>
+  <th>Подтверждён</th>
+  <th>-</th>
+  <th>Пока неизвестно</th>
+  </tr>
+  <tr>
+  <th><a href="https://rating.chgk.info/tournament/9008">Чемпионат Казахстана</a></th>
   <th>Алматы</th>
   <th>17–18.06.2023</th>
   <th>Подтверждён</th>
-  <th>-</th>
+  <th><a href="https://www.facebook.com/groups/425152901558386">Фб</a></th>
   <th>Пока неизвестно</th>
   </tr>
   <tr>
