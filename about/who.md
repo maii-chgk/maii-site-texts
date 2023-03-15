@@ -44,17 +44,18 @@ body
 - Наиль Фарукшин,
 - Владимир Цвингли.
 
-### Документы:
+### Ссылки:
 
-- [Положение об исполкоме](https://www.maii.li/docs/2021-05-29-polozhenie-ob-ispolnitelnom-komitete-mezhdunarodnoj-associacii-intellektualnyh-igr/)
-- [Регламент приёма членов МАИИ](https://www.maii.li/docs/2021-12-05-reglament-priyoma-chlenov-mezhdunarodnoj-associacii-intellektualnyh-igr/)
-- [Протокол заседания № 1 от 18.04.2021](https://www.maii.li/docs/2021-04-21-protokol-zasedaniya-ispolkoma-maii-1-ot-18.04.2021/)
-- [Протокол заседания № 2 от 28.04.2021](https://www.maii.li/docs/2021-05-05-protokol-zasedaniya-ispolkoma-maii-2-ot-28.04.2021/)
-- [Протокол заседания № 3 от 12.05.2021](https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-3-ot-12.05.2021/)
-- [Протокол заседания № 4 от 12.05.2021](https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-4-ot-12.05.2021/)
-- [Протокол заседания № 5 от 06.06.2021](https://www.maii.li/docs/2021-06-08-protokol-zasedaniya-ispolkoma-maii-5-ot-06.06.2021/)
-- [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./)
-- [Решение исполкома по поводу обжалования решения дисциплинарной группы №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/)
+- [Положение об исполкоме](https://www.maii.li/docs/2021-05-29-polozhenie-ob-ispolnitelnom-komitete-mezhdunarodnoj-associacii-intellektualnyh-igr/).
+- [Регламент приёма членов МАИИ](https://www.maii.li/docs/2021-12-05-reglament-priyoma-chlenov-mezhdunarodnoj-associacii-intellektualnyh-igr/).
+- [Протокол заседания № 1 от 18.04.2021](https://www.maii.li/docs/2021-04-21-protokol-zasedaniya-ispolkoma-maii-1-ot-18.04.2021/).
+- [Протокол заседания № 2 от 28.04.2021](https://www.maii.li/docs/2021-05-05-protokol-zasedaniya-ispolkoma-maii-2-ot-28.04.2021/).
+- [Протокол заседания № 3 от 12.05.2021](https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-3-ot-12.05.2021/).
+- [Протокол заседания № 4 от 12.05.2021](https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-4-ot-12.05.2021/).
+- [Протокол заседания № 5 от 06.06.2021](https://www.maii.li/docs/2021-06-08-protokol-zasedaniya-ispolkoma-maii-5-ot-06.06.2021/).
+- [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./).
+- [Решение исполкома по поводу обжалования решения дисциплинарной группы №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/).
+- [Интервью с Антоном Бочкарёвым](https://teletype.in/@maii/ispolkom-bochkaryov).
 
 <small>[Наверх](#up)</small>
 
@@ -289,6 +290,7 @@ body
 - [Интервью с координатором турнирной группы Владимиром Островским](https://teletype.in/@maii/egida_maii),
 - [Интервью с главой команды турнирного сайта сообщества знатоков Арсением Глазовским](https://teletype.in/@maii/glazovsky),
 - [Интервью с одним из разработчиков сайта рейтинга МАИИ Юрием Разумовым](https://teletype.in/@maii/rating-razumau),
+- [Интервью с Антоном Бочкарёвым](https://teletype.in/@maii/ispolkom-bochkaryov),
 - [Отчёт о результатах опроса редакторов интеллектуальных игр](https://docs.google.com/document/d/e/2PACX-1vT2nOj-f54tKa9B5XwnFSsiaseRN5uDQdo9iTShc4A_CRBRXt2l17H76dbNskqjruW9eTC60GZLtJK8/pub),
 - [Рассылка новостей интеллектуальных игр](https://infomaii.substack.com/). Подписаться можно [тут](https://infomaii.substack.com/p/0-?showWelcome=true),
 - [Отчёт за работу в 2021–2022 годах](https://www.maii.li/docs/2022-07-26-otchyot-informacionnoj-gruppy-(2021-2022)/).

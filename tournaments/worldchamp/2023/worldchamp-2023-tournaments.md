@@ -1,12 +1,11 @@
 ---
-title:
-Турниры, выводящие на ЧМ-2023
+title: Турниры, выводящие на ЧМ-2023
 ---
 
 lead
 Чемпионаты стран и другие турниры, по результатам которых можно будет попасть на Чемпионат мира 2023 года. Список будет пополняться
 
-body
+
 <table class="uk-table uk-table-divider uk-table-hover">
 <thead>
   <tr>
@@ -25,7 +24,7 @@ body
   <th>8–9.10.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://t.me/chgkestonia/13">Телеграм-канал</a></th>
-  <th>Black label</th>
+  <th><a href="https://rating.chgk.info/teams/4313">Black label</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/8555">X чемпионат Казахстана</a></th>
@@ -33,7 +32,7 @@ body
   <th>8–9.10.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://www.facebook.com/groups/425152901558386">Фб</a></th>
-  <th>Приятные люди</th>
+  <th><a href="https://rating.chgk.info/teams/76272">Приятные люди</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/6636">III открытый чемпионат Чехии</a></th>
@@ -41,7 +40,7 @@ body
   <th>29–30.10.2022</th>
   <th>Подтверждён</th>
   <th><a href="http://www.chgk.cz/o442022">Сайт</a></th>
-  <th>В гостях у Кафки</th>
+  <th><a href="https://rating.chgk.info/teams/65268">В гостях у Кафки</a></th>
   </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/8680">XVIII чемпионат Туркменистана</a></th>
@@ -49,15 +48,15 @@ body
   <th>27.11.2022</th>
   <th>Подтверждён</th>
   <th><a href="http://chgk.tv/">Сайт</a></th>
-  <th>Ва-Банк</th>
+  <th><a href="https://rating.chgk.info/teams/1223">Ва-Банк</a></th>
   </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/8663">Открытый чемпионат Кипра</a></th>
   <th>Лимасол</th>
   <th>14.01.2023</th>
-  <th>Предварительный</th>
+  <th>Подтверждён</th>
   <th><a href="http://cyprusfest.com/">Сайт</a></th>
-  <th>Пока неизвестно</th>
+  <th><a href="https://rating.chgk.info/teams/87345">Волки</a></th>
   </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/8663">Фестиваль «Тёплый январь»</a></th>
@@ -73,15 +72,15 @@ body
   <th>05.02.2023</th>
   <th>Подтверждён</th>
   <th><a href="https://www.facebook.com/groups/189316312292364/">Фб</a></th>
-  <th>Поминки по финикам</th>
+  <th><a href="https://rating.chgk.info/teams/67979">Поминки по финикам</a></th>
   </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/8696">Открытый чемпионат Кипра по ЧГК</a></th>
   <th>Лимасол</th>
   <th>3–5.03.2023</th>
-  <th>Предварительный</th>
+  <th>Не подтверждён</th>
+  <th><a href="https://chempionat-kipra-po-chgk.mozellosite.com/">Сайт</a></th>
   <th>-</th>
-  <th>Пока неизвестно</th>
   </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/6353">XXV чемпионат Израиля</a></th>
@@ -96,7 +95,7 @@ body
   <th>Варшава</th>
   <th>1–2.04.2023</th>
   <th>Подтверждён</th>
-  <th>-</th>
+  <th><a href="https://www.facebook.com/events/905962520536562">Фб</a></th>
   <th>Пока неизвестно</th>
   </tr>
   <tr>
@@ -120,15 +119,15 @@ body
   <th>Баку</th>
   <th>20–21.05.2023</th>
   <th>Предварительный</th>
-  <th>-</th>
+  <th><a href="https://www.facebook.com/groups/2977612685873767">Фб</a></th>
   <th>Пока неизвестно</th>
   </tr>
   <tr>
-  <th>Чемпионат Великобритании</th>
+  <th><a href="https://rating.chgk.info/tournament/9038">Чемпионат Великобритании</a></th>
   <th>Кембридж</th>
   <th>27.05.2023</th>
   <th>Подтверждён</th>
-  <th>-</th>
+  <th><a href="http://london.chgk.info/">Сайт</a></th>
   <th>Пока неизвестно</th>
   </tr>
   <tr>
