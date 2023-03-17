@@ -324,7 +324,7 @@ body
 ### Ссылки:
 
 - [Регламент турнирной группы](https://www.maii.li/docs/2021-07-25-reglament-turnirnoj-rabochej-gruppy/)
-- [Положение об эгиде и рейтинге](https://www.maii.li/docs/2021-08-30-polozhenie-ob-egide-i-rejtinge-maii/).
+- [Положение об эгиде и рейтинге](https://www.maii.li/p/aegis-rating).
 - [FAQ по рейтингу и эгиде](https://www.maii.li/docs/2021-09-05-faq-po-egide-i-rejtingu-maii),
 - [Интервью с координатором турнирной группы Владимиром Островским](https://teletype.in/@maii/egida_maii),
 - [Разъяснение по поводу показа вопросов на рейтингуемых турнирах](https://www.maii.li/news/2021-10-06-pokaz-voprosov-na-ekranah-na-rejtinguemyh-turnirah:-razuyasnenie-turnirnoj-gruppy-maii/),
