@@ -31,6 +31,14 @@ Body
   <th>По <a href="https://www.maii.li/docs/2023-02-21-reshenie-dg-5-(po-povodu-diskvalifikacii-aleksandra-rekunova)/">решению ДГ №5</a></th>
   </tr>
 <tr>
+  <th><a href="https://rating.maii.li/b/player/145125">145125</a></th>
+  <th>Алексей Агапов</th>
+  <th>В качестве игрока на онлайн-турнирах</th>
+  <th>6 месяцев</th>
+  <th>до 15.09.2023</th>
+  <th>По <a href="https://www.maii.li/docs/2023-03-15-reshenie-dg-8-(po-povodu-diskvalifikacii-alekseya-agapova)/">решению ДГ №8</a></th>
+  </tr>
+<tr>
   <th><a href="https://rating.maii.li/b/player/197119">197119</a></th>
   <th>Александр Рекунов</th>
   <th>В качестве представителя и ведущего</th>

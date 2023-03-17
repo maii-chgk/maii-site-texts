@@ -56,6 +56,7 @@ body
 - [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./).
 - [Решение исполкома по поводу обжалования решения дисциплинарной группы №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/).
 - [Интервью с Антоном Бочкарёвым](https://teletype.in/@maii/ispolkom-bochkaryov).
+- [Интервью с Иделией Айзятуловой](https://teletype.in/@maii/ispolkom-idelia).
 
 <small>[Наверх](#up)</small>
 
@@ -255,7 +256,8 @@ body
 - [Решение №4 от 20.02.2023 (по поводу дисквалификации Нурсултана Хасанова)](https://www.maii.li/docs/2023-02-20-reshenie-dg-4-(po-povodu-diskvalifikacii-nursultana-hasanova)/).
 - [Решение №5 от 21.02.2023 (по поводу дисквалификации Александра Рекунова)](https://www.maii.li/docs/2023-02-21-reshenie-dg-5-(po-povodu-diskvalifikacii-aleksandra-rekunova)/).
 - [Решение №6 от 28.02.2023 (по поводу дисквалификации Сарвара Уктамова)](https://www.maii.li/docs/2023-02-28-reshenie-dg-6-(po-povodu-diskvalifikacii-sarvara-uktamova)/).
-- [Решение №7 от 04.03.2023 (по поводу дисквалификации Виктора Плотникова)](https://www.maii.li/docs/2023-03-04-reshenie-dg-7-(po-povodu-diskvalifikacii-viktora-plotnikova)/)
+- [Решение №7 от 04.03.2023 (по поводу дисквалификации Виктора Плотникова)](https://www.maii.li/docs/2023-03-04-reshenie-dg-7-(po-povodu-diskvalifikacii-viktora-plotnikova)/).
+- [Решение №8 от 15.03.2023 (по поводу дисквалификации Алексея Агапова)](https://www.maii.li/docs/2023-03-15-reshenie-dg-8-(po-povodu-diskvalifikacii-alekseya-agapova)/).
 
 <small>[Наверх](#up)</small>
 
