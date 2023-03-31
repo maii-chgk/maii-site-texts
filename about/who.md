@@ -57,6 +57,10 @@ body
 - [Решение исполкома по поводу обжалования решения дисциплинарной группы №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/).
 - [Интервью с Антоном Бочкарёвым](https://teletype.in/@maii/ispolkom-bochkaryov).
 - [Интервью с Иделией Айзятуловой](https://teletype.in/@maii/ispolkom-idelia).
+- [Интервью с Юрием Разумовым](https://teletype.in/@maii/ispolkom-razumau).
+- [Интервью с Владимиром Цвингли](https://teletype.in/@maii/ispolkom-tsvingli).
+- [Интервью с Владиславом Быковым](https://teletype.in/@maii/ispolkom-bykov).
+- [Интервью с Андреем Волыховым](https://teletype.in/@maii/ispollom-volykhov).
 
 <small>[Наверх](#up)</small>
 
@@ -292,7 +296,12 @@ body
 - [Интервью с координатором турнирной группы Владимиром Островским](https://teletype.in/@maii/egida_maii),
 - [Интервью с главой команды турнирного сайта сообщества знатоков Арсением Глазовским](https://teletype.in/@maii/glazovsky),
 - [Интервью с одним из разработчиков сайта рейтинга МАИИ Юрием Разумовым](https://teletype.in/@maii/rating-razumau),
-- [Интервью с Антоном Бочкарёвым](https://teletype.in/@maii/ispolkom-bochkaryov),
+- [Интервью с исполкомом: Антон Бочкарёв](https://teletype.in/@maii/ispolkom-bochkaryov),
+- [Интервью с исполкомом: Иделия Айзятулова](https://teletype.in/@maii/ispolkom-idelia),
+- [Интервью с исполкомом: Юрий Разумов](https://teletype.in/@maii/ispolkom-razumau),
+- [Интервью с исполкомом: Владимир Цвингли](https://teletype.in/@maii/ispolkom-tsvingli),
+- [Интервью с исполкомом: Владислав Быков](https://teletype.in/@maii/ispolkom-bykov),
+- [Интервью с исполкомом: Андрей Волыхов](https://teletype.in/@maii/ispollom-volykhov),
 - [Отчёт о результатах опроса редакторов интеллектуальных игр](https://docs.google.com/document/d/e/2PACX-1vT2nOj-f54tKa9B5XwnFSsiaseRN5uDQdo9iTShc4A_CRBRXt2l17H76dbNskqjruW9eTC60GZLtJK8/pub),
 - [Рассылка новостей интеллектуальных игр](https://infomaii.substack.com/). Подписаться можно [тут](https://infomaii.substack.com/p/0-?showWelcome=true),
 - [Отчёт за работу в 2021–2022 годах](https://www.maii.li/docs/2022-07-26-otchyot-informacionnoj-gruppy-(2021-2022)/).

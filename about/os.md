@@ -20,6 +20,8 @@ body
 
 ## 30 апреля — 1 мая 2023 года <a name="aprmay23"></a>
 
+- [Анонс](https://www.maii.li/news/2023-03-25-anons-obshego-sobraniya-i-opros-o-chisle-chlenov-ispolkoma-i-krk/)
+
 --------
 
 ## 18–19 декабря 2022 года <a name="dec22"></a>
