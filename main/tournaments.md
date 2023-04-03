@@ -83,6 +83,7 @@ Body
 - [Великобритания](https://www.maii.li/p/countries-gbritain).
 - [Казахстан](https://www.maii.li/p/countries-kazakhstan).
 - [Кипр](https://www.maii.li/p/countries-cyprus).
+- [Польша](https://www.maii.li/p/countries-polska).
 - [Туркменистан](https://www.maii.li/p/countries-turkmenistan).
 - [Чехия](https://www.maii.li/p/countries-cesko).
 - [Эстония](https://www.maii.li/p/countries-eesti).

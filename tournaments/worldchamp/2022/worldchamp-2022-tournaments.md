@@ -54,7 +54,7 @@ body
   <th>Таллин</th>
   <th>8–9.01.2022</th>
   <th>Подтверждён</a></th>
-  <th><a href="https://t.me/SevsovaESL">Тг-канал</a></th>
+  <th><a href="https://t.me/SevsovaESL">Телеграм</a></th>
   <th><a href="https://rating.chgk.info/team/316">Минус один</a></th>
   </tr>
 <tr>
@@ -77,8 +77,8 @@ body
   <th><a href="https://rating.chgk.info/tournament/7773">Открытый кубок Дальнего Востока</a></th>
   <th>Южно-Сахалинск</th>
   <th>26–27.03.2022</th>
-  <th>Предварительный<a href="#status">*</a></th>
-  <th><a href="https://t.me/dvcup">Тг-канал</a></th>
+  <th>Не подтвердил статуса</th>
+  <th><a href="https://t.me/dvcup">Телеграм</a></th>
   <th>Пока неизвестно</th>
   </tr>
 <tr>
@@ -94,7 +94,7 @@ body
   <th>Даугавпилс</th>
   <th>23.04.2022</th>
   <th>Подтверждён<a href="#status">*</a></th>
-  <th><a href="https://t.me/dvcup">Тг-канал</a></th>
+  <th><a href="https://t.me/dvcup">Телеграм</a></th>
   <th><a href="https://rating.chgk.info/team/4032">X-promt</a></th>
   </tr>
 <tr>
