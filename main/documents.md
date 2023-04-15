@@ -56,7 +56,8 @@ Body
 - [Решение №5 от 21.02.2023 (по поводу дисквалификации Александра Рекунова)](https://www.maii.li/docs/2023-02-21-reshenie-dg-5-(po-povodu-diskvalifikacii-aleksandra-rekunova)/).
 - [Решение №6 от 28.02.2023 (по поводу дисквалификации Сарвара Уктамова)](https://www.maii.li/docs/2023-02-28-reshenie-dg-6-(po-povodu-diskvalifikacii-sarvara-uktamova)/).
 - [Решение №7 от 04.03.2023 (по поводу дисквалификации Виктора Плотникова)](https://www.maii.li/docs/2023-03-04-reshenie-dg-7-(po-povodu-diskvalifikacii-viktora-plotnikova)/).
-- [Решение №8 (по поводу дисквалификации Алексея Агапова)](https://www.maii.li/docs/2023-03-15-reshenie-dg-8-(po-povodu-diskvalifikacii-alekseya-agapova)/).
+- [Решение №8 от 15.03.2023 (по поводу дисквалификации Алексея Агапова)](https://www.maii.li/docs/2023-03-15-reshenie-dg-8-(po-povodu-diskvalifikacii-alekseya-agapova)/).
+- [Решение №9 от 06.04.2023 (по поводу бессрочной дисквалификации Романа Черняева)](https://www.maii.li/docs/2023-04-06-reshenie-dg-9-(po-povodu-bessrochnoj-diskvalifikacii-romana-chernyaeva)/).
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 <small>[К оглавлению](#top)</small>
@@ -133,7 +134,7 @@ Body
 - [Отчёт группы по рейтингу о первом полугодии работы (29.04.2022)](https://www.maii.li/docs/2022-04-29-otchyot-gruppy-po-rejtingu-o-prodelannoj-rabote/).
 - [Отчёт о работе информационной группы в 2021–2022 годах (26.07.2022)](https://www.maii.li/docs/2022-07-26-otchyot-informacionnoj-gruppy-(2021-2022)/).
 - [Отчёт о работе уставной группы в 2021–2022 годах (27.07.2022)](https://www.maii.li/docs/2022-07-27-otchyot-ustavnoj-gruppy-(2021-2022)/).
-- [Отчёт о работе IT-группы в 2021–2022 годах (27.07.2022)](https://forum.znatoki.site/t/otchyota-it-gruppy-27-07-2022/1828).
+- [Отчёт о работе IT-группы в 2021–2022 годах (27.07.2022)](https://www.maii.li/docs/2022-07-27-otchyot-it-gruppy-po-itogam-vtorogo-polugodiya-raboty/).
 - [Отчёт о работе дисциплинарной группы в 2021–2022 годах (28.07.2022)](https://www.maii.li/docs/2022-07-28-otchyot-disciplinarnoj-gruppy-za-2021-2022/).
 - [Отчёт о работе юридической группы в 2021–2022 годах (30.07.2022)](https://www.maii.li/docs/2022-07-30-otchyot-yuridicheskoj-gruppy-za-20212022-gody/),
 - [Отчёт о работе противоэпидемической группы в 2021-2022 годах (01.08.2022)](https://www.maii.li/docs/2022-08-01-otchyot-protivoepidemicheskoj-gruppy-za-2021-2022-gody/).

@@ -42,12 +42,28 @@ lead
   <th><a href="https://www.facebook.com/groups/2977612685873767">Фб</a></th>
   <th>Пока неизвестно</th>
   </tr>
+<tr>
+  <th><a href="https://rating.chgk.info/tournament/9157">Чемпионат Узбекистана</a></th>
+  <th>Ташкент</th>
+  <th>14.05.2023</th>
+  <th>Подтверждён</th>
+  <th><a href="https://t.me/ruliga_zakovat">Тг</a></th>
+  <th>Пока неизвестно</th>
+  </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/6353">XXV чемпионат Израиля</a></th>
   <th>Тель-Авив</th>
   <th>13.05.2023</th>
   <th>Подтверждён</th>
   <th><a href="http://il.chgk.info/">Сайт</a>, <a href="https://chgk-il.livejournal.com/1612192.html">ЖЖ</a>, <a href="https://www.facebook.com/groups/309438939151833/">Фб</a></th>
+  <th>Пока неизвестно</th>
+  </tr>
+<tr>
+  <th><a href="https://rating.chgk.info/tournament/9129">Чемпионат Туркменистана</a></th>
+  <th>Ашхабад</th>
+  <th>07.05.2023</th>
+  <th>Предварительный<a href="#note2">**</a></th>
+  <th><a href="https://chgk.io/">Сайт</a></th>
   <th>Пока неизвестно</th>
   </tr>
   <tr>
@@ -63,8 +79,8 @@ lead
   <th>Минск</th>
   <th>8–9.04.2023</th>
   <th>Подтверждён</th>
-  <th>-</th>
-  <th>Пока неизвестно</th>
+  <th><a href="https://t.me/chgk_minsk/1147">Тг</a></th>
+  <th><a href="https://rating.chgk.info/teams/7864">Одушевлённые аэросани</a></th>
   </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/8661">Чемпионат Польши</a></th>
@@ -78,7 +94,7 @@ lead
   <th><a href="https://rating.chgk.info/tournament/8696">Открытый чемпионат Кипра</a></th>
   <th>Лимасол</th>
   <th>3–5.03.2023</th>
-  <th>Не подтвердил статуса</th>
+  <th>Не подтвердил статуса<a href="#note">*</a></th>
   <th><a href="https://chempionat-kipra-po-chgk.mozellosite.com/">Сайт</a></th>
   <th>-</th>
   </tr>
@@ -102,7 +118,7 @@ lead
   <th><a href="https://rating.chgk.info/tournament/8663">Открытый чемпионат Кипра</a></th>
   <th>Лимасол</th>
   <th>14.01.2023</th>
-  <th>Подтверждён</th>
+  <th>Подтверждён<a href="#note">\*</a></th>
   <th><a href="http://cyprusfest.com/">Сайт</a></th>
   <th><a href="https://rating.chgk.info/teams/87345">Волки</a></th>
   </tr>
@@ -269,4 +285,8 @@ lead
 </tbody>
 </table>
 
-<small><a name="status"></a>* – Окончательный статус выводящего на ЧМ присваивается турниру, если состав его участников будет удовлетворять требования [Положения о чемпионате мира](https://www.maii.li/docs/2022-01-06-polozhenie-o-chempionate-mira/), при его проведении не будет значительных нарушений Положения и оргкомитет турнира уплатит необходимый взнос. Подробнее о чемпионате можно узнать в [телеграм-канале](https://t.me/worldchamp_maii) или на [его странице в Фейсбуке](https://www.facebook.com/worldchamp.maii).</small>
+<small><a name="status"></a>\* – Окончательный статус выводящего на ЧМ присваивается турниру, если состав его участников будет удовлетворять требования [Положения о чемпионате мира](https://www.maii.li/docs/2022-01-06-polozhenie-o-chempionate-mira/), при его проведении не будет значительных нарушений Положения и оргкомитет турнира уплатит необходимый взнос. Подробнее о чемпионате можно узнать в [телеграм-канале](https://t.me/worldchamp_maii) или на [его странице в Фейсбуке](https://www.facebook.com/worldchamp.maii).</small>
+<br>
+<small><a name="note"></a>\*\* — В связи с тем, что в сезоне 2022/2023 в стране проводилось два чемпионата, то, какой из турниров стал выводящим, согласно [п. 7.1.6.1. Положения о ЧМ](https://www.maii.li/docs/2022-01-06-polozhenie-o-chempionate-mira/#7) определил оргкомитет. Им [стал](https://t.me/worldchamp_maii/340) турнир с наиболее сильным составом участников.</small>
+<br>
+<small><a name="note2"></a>\*\*\* — В связи с тем, что в сезоне 2022/2023 в стране проводится два чемпионата, то, какой из турниров станет выводящим, согласно [п. 7.1.6.1. Положения о ЧМ](https://www.maii.li/docs/2022-01-06-polozhenie-o-chempionate-mira/#7) определит [оргкомитет ЧМ](https://www.maii.li/p/worldchamp-2023). Им станет турнир с наиболее сильным составом участников.</small>

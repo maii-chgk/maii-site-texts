@@ -66,6 +66,10 @@ Body
 
 **12.** Михаил Иванов. [Пара банальных мыслей про скайп-тестирование](https://www.maii.li/p/library-skype-mike) (2014).
 
+**13.** Константин Сахаров. [О вёрстке раздаток](https://www.maii.li/p/library-handout-composition) (2018).
+
+**14.** Александр Печеный. [Подготовка раздаток в Inkscape](https://www.maii.li/p/library-handout-inkscape) (2016).
+
 ### Разное <a name="other"></a>
 
 **1.** Сергей Терентьев. [Обозревая классиков. Вопросы команды «Мозговорот»](https://iqga.me/articles/5652/).

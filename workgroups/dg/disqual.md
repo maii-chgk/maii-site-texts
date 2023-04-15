@@ -1,5 +1,6 @@
-Title
-Дисквалифицированные на турнирах под эгидой МАИИ
+---
+title: Дисквалифицированные на турнирах под эгидой МАИИ
+---
 
 Body
 <table class="uk-table uk-table-divider uk-table-hover">
@@ -14,14 +15,6 @@ Body
   </tr>
 </thead>
 <tbody>
-<tr>
-  <th><a href="https://rating.maii.li/b/player/240750">240750</a></th>
-  <th>Роман Черняев</th>
-  <th>Во всех качествах</th>
-  <th>1 год</th>
-  <th>до 10.05.2023</th>
-  <th>По <a href="https://www.maii.li/docs/2022-05-09-reshenie-disciplinarnoj-gruppy-3-(po-povodu-zayavlenij-romana-chernyaeva)/">решению ДГ №3</a></th>
-  </tr>
 <tr>
   <th><a href="https://rating.maii.li/b/player/197119">197119</a></th>
   <th>Александр Рекунов</th>
@@ -110,14 +103,6 @@ Body
   <th>-</th>
   <th>По <a href="https://www.maii.li/docs/2022-05-02-protokol-obshego-sobraniya-maii-ot-30.04.2022/">решению ОС МАИИ</a></th>
   </tr>
-  <tr>
-  <th><a href="https://rating.maii.li/b/player/25882">25882</a></th>
-  <th>Максим Поташев</th>
-  <th>Во всех качествах</th>
-  <th>Бессрочно</th>
-  <th>-</th>
-  <th>По <a href="https://www.maii.li/docs/2022-12-21-protokol-obshego-sobraniya-maii-ot-21.12.2022/">решению ОС МАИИ</a></th>
-  </tr>
 <tr>
   <th><a href="https://rating.maii.li/b/player/116902">116902</a></th>
   <th>Ашот Гянджунцев</th>
@@ -133,6 +118,22 @@ Body
   <th>Бессрочно</th>
   <th>-</th>
   <th>По <a href="https://teletype.in/@diskom/mak_09.09.2015_3">решению ДК МАК</a><a href="note">*</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/25882">25882</a></th>
+  <th>Максим Поташев</th>
+  <th>Во всех качествах</th>
+  <th>Бессрочно</th>
+  <th>-</th>
+  <th>По <a href="https://www.maii.li/docs/2022-12-21-protokol-obshego-sobraniya-maii-ot-21.12.2022/">решению ОС МАИИ</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/240750">240750</a></th>
+  <th>Роман Черняев</th>
+  <th>Во всех качествах</th>
+  <th>Бессрочно</th>
+  <th>-</th>
+  <th>По <a href="https://www.maii.li/docs/2023-04-06-reshenie-dg-9-(po-povodu-bessrochnoj-diskvalifikacii-romana-chernyaeva)/">решению ДГ №9</a></th>
   </tr>
 </tbody>
 </table>
