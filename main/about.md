@@ -49,7 +49,7 @@ Body:
 
 С момента создания МАИИ запустила [командный рейтинг](https://rating.maii.li/), создала [дисциплинарную группу](https://www.maii.li/p/who#dg) для расследования случаев нечестной игры, подготовила рекомендации [по авторским правам](https://www.maii.li/docs/2021-05-27-rekomendacii-organizatoram-turnirov/) и [по организации игр в условиях пандемии](https://www.maii.li/docs/2021-09-29-kak-snizit-risk-covid-19-na-intellektualnyh-igrah/), провела [исследование](https://www.maii.li/news/2021-11-24-chto-nuzhno-redaktoram-intellektualnyh-igr-itogi-oprosa-i-rekomendacii/) потребностей редакторов вопросов. 
 
-Сейчас рабочие группы МАИИ актуализируют правила спортивного ЧГК и готовят проведение чемпионата мира.
+Сейчас рабочие группы МАИИ актуализируют [правила спортивного ЧГК](https://www.maii.li/p/rules) и готовят проведение [чемпионата мира](https://www.maii.li/p/worldchamp-2023).
 
 ## Как вступить в МАИИ?<a name="join"></a>
 

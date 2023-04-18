@@ -1,5 +1,6 @@
-дисTitle
-Документы
+---
+title: Документы
+---
 
 Body
 
@@ -96,7 +97,7 @@ Body
 - [Регламент проведения общего собрания](https://www.maii.li/docs/2021-07-04-reglament-provedeniya-obshego-sobraniya-maii/).
 - [Протокол общего собрания МАИИ от 03.07.2021](https://www.maii.li/docs/2021-07-07-protokol-obshego-sobraniya-maii-ot-03.07.2021/).
 - [Протокол общего собрания МАИИ от 30.04.2022](https://www.maii.li/docs/2022-05-02-protokol-obshego-sobraniya-maii-ot-30.04.2022/).
-- [Заявление МАИИ о войне в Украине](https://www.maii.li/docs/2022-05-02-zayavlenie-maii-o-vojne-v-ukraine/) (02.05.2022).
+- [Заявление МАИИ о войне в Украине](https://www.maii.li/docs/2022-05-02-zayavlenie-maii-o-vojne-v-ukraine/) (02.05.2022)
 - [Протокол общего собрания МАИИ от 28.08.2022](https://www.maii.li/docs/2022-08-30-protokol-obshego-sobraniya-maii-ot-28.08.2022/).
 - [Протокол общего собрания МАИИ от 21.12.2022](https://www.maii.li/docs/2022-12-21-protokol-obshego-sobraniya-maii-ot-21.12.2022/).
 
@@ -139,7 +140,8 @@ Body
 - [Отчёт о работе юридической группы в 2021–2022 годах (30.07.2022)](https://www.maii.li/docs/2022-07-30-otchyot-yuridicheskoj-gruppy-za-20212022-gody/),
 - [Отчёт о работе противоэпидемической группы в 2021-2022 годах (01.08.2022)](https://www.maii.li/docs/2022-08-01-otchyot-protivoepidemicheskoj-gruppy-za-2021-2022-gody/).
 - [Отчёт о работе группы по брендам в 2021-2022 годах (19.08.2022)](https://www.maii.li/docs/2022-08-19-otchyot-gruppy-po-razrabotke-brendov-za-2021-2022-gody/).
-- [Отчёт группы по рейтингу о втором полугодии работы (28.04.2022)](https://forum.znatoki.site/t/otchyot-gruppy-po-rejtingu-24-08-2022/1886).
+- [Отчёт группы по рейтингу о втором полугодии работы (24.08.2022)](https://www.maii.li/docs/2022-08-24-otchyot-gruppy-po-rejtingu-za-vtoroe-polugodie-raboty/).
+- [Отчёт группы по рейтингу о третьем полугодии работы (27.02.2023)](https://www.maii.li/docs/2023-02-27-otchyot-gruppy-po-rejtingu-o-tretem-polugodii-raboty/).
 
 <small>[К оглавлению](#top)</small>
 
@@ -151,5 +153,6 @@ Body
 - [Руководство по работе с документами МАИИ с помощью github](https://demo.hedgedoc.org/s/wOqiZpeAY)
 - [Путеводитель по информационным ресурсам МАИИ](https://www.maii.li/docs/2022-02-03-putevoditel-po-informacionnym-resursam-maii/)
 - [Рекомендации по созданию инициативных групп](https://www.maii.li/docs/2022-11-17-rekomendacii-po-sozdaniyu-iniciativnyh-grupp)
+- [FAQ по выборам в исполком и КРК МАИИ](https://www.maii.li/p/election-faq)
 
 <small>[К оглавлению](#top)</small>
