@@ -97,9 +97,10 @@ Body
 В этом разделе собирается информация о молодёжных и студенческих чемпионатах разных стран (верхняя граница, как правило, проходит по 23 годам) по спортивному ЧГК и иным интеллектуальным играм — как статистика о результатах прошлых лет, так и об актуальных турнирах. Раздел будет пополняться.
 
 - [Студенческий кубок Европы](https://www.maii.li/p/tournaments-kest)
-- [Беларусь](https://www.maii.li/p/tournaments-schrb)
-- [Россия](https://www.maii.li/p/tournaments-studchr)
-- [Украина](https://www.maii.li/p/tournaments-molchu)
+- [Беларусь](https://www.maii.li/p/youth-belarus)
+- [Латвия](https://www.maii.li/p/youth-latvija)
+- [Россия](https://www.maii.li/p/youth-russia)
+- [Украина](https://www.maii.li/p/youth-ukraine)
 
 <small>[Наверх](#atop)</small>
 
