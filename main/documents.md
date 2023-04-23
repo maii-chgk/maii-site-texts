@@ -142,6 +142,7 @@ Body
 - [Отчёт о работе группы по брендам в 2021-2022 годах (19.08.2022)](https://www.maii.li/docs/2022-08-19-otchyot-gruppy-po-razrabotke-brendov-za-2021-2022-gody/).
 - [Отчёт группы по рейтингу о втором полугодии работы (24.08.2022)](https://www.maii.li/docs/2022-08-24-otchyot-gruppy-po-rejtingu-za-vtoroe-polugodie-raboty/).
 - [Отчёт группы по рейтингу о третьем полугодии работы (27.02.2023)](https://www.maii.li/docs/2023-02-27-otchyot-gruppy-po-rejtingu-o-tretem-polugodii-raboty/).
+- [Отчёт исполкома за 2022–2023 годы (23.04.2023)](https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./).
 
 <small>[К оглавлению](#top)</small>
 

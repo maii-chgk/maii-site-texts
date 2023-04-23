@@ -13,14 +13,14 @@ Body
 
 Раздел пополняется.
 
-### Информация
+## Информация
 
 - [группа Вконтакте](https://vk.com/studchgk_belarus)
 - [телеграм-канал](https://t.me/studchgk_belarus)
 - [летопись СЧРБ](https://docs.google.com/spreadsheets/d/1kLLevoGED1Gpt8eOFoVVDRF8988BwEawdss9JdheWs0/edit#gid=518101333)
 - [календарь турниров](https://docs.google.com/spreadsheets/d/1uBrM-pbs7cWAM3T8Jh6cKeJJjJzysR9hH0fm6RLHRFA/edit#gid=1088060338)
 
-### Чемпионаты по годам <a name="atop"></a>
+## Чемпионаты по годам <a name="atop"></a>
 
 - [СЧРБ-2023](#2023).
 - [СЧРБ-2022](#2022).

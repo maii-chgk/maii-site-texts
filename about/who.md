@@ -57,6 +57,7 @@ body
  <li><a href="https://www.maii.li/docs/2021-05-29-polozhenie-ob-ispolnitelnom-komitete-mezhdunarodnoj-associacii-intellektualnyh-igr/">Положение об исполкоме</a></li>
  <li><a href="https://www.maii.li/docs/2021-12-05-reglament-priyoma-chlenov-mezhdunarodnoj-associacii-intellektualnyh-igr/">Регламент приёма членов МАИИ</a></li>
  <li><a href="https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./">Отчёт о работе за 2021–2022 годы</a></li>
+ <li><a href="https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./">Отчёт о работе за 2022–2023 годы</a></li>
  <li><a href="https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/">Решение исполкома по поводу обжалования решения дисциплинарной группы №3</a></li>
  <li><a href="https://www.maii.li/docs/2021-06-08-protokol-zasedaniya-ispolkoma-maii-5-ot-06.06.2021/">Протокол заседания № 5 от 06.06.2021</a></li>
  <li><a href="https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-4-ot-12.05.2021/">Протокол заседания № 4 от 12.05.2021</a></li>
@@ -75,6 +76,7 @@ body
  <li><a href="https://teletype.in/@maii/ispolkom-mirotin">Интервью с Евгением Миротиным</a>.</li>
  <li><a href="https://teletype.in/@maii/ispolkom-farukshin">Интервью с Наилем Фарукшиным</a>.</li>
  <li><a href="https://teletype.in/@maii/ispolkom-semushin">Интервью с Иваном Семушиным</a>.</li>
+ <li><a href="https://teletype.in/@maii/ispolkom-pecheny">Интервью с Александром Печеным</a>.</li>
 </details>
 <br>
 
@@ -359,6 +361,7 @@ body
 	<li><a href="https://teletype.in/@maii/ispolkom-mirotin">Интервью с исполкомом: Евгений Миротин</a></li>
 	<li><a href="https://teletype.in/@maii/ispolkom-farukshin">Интервью с исполкомом: Наиль Фарукшин</a></li>
 	<li><a href="https://teletype.in/@maii/ispolkom-semushin">Интервью с исполкомом: Иван Семушин</a></li>
+	<li><a href="https://teletype.in/@maii/ispolkom-pecheny">Интервью с исполкомом: Александр Печеный</a></li>
 </details>
 <details>
 	<summary>Иное</summary>
