@@ -9,11 +9,131 @@ subtitle: Чемпионаты Польши проводятся с 2018 год�
 Body
 
 История ещё пополняется. Если у вас есть больше информации — напишите, пожалуйста, на <info@maii.li>.
-<a name="atop"></a>
+
+## Зал славы чемпионата Польши <a name="atop"></a>
+- [Команды](#teams)
+- [Игроки](#players)
+- [Чемпионаты по годам](#years)
+
+### Команды <a name="teams"></a>
+
+<table class="uk-table uk-table-divider uk-table-hover">
+<thead>
+<tr>
+<th>Команда</th>
+<th>Город</th>
+<th>Победы</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th><a href="https://rating.chgk.info/teams/56081">Глеб Шишкин</a></th>
+<th></th>
+<th>Краков</th>
+<th>2</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/teams/85064">Гимназия имени</a></th>
+<th></th>
+<th>Краков</th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/teams/77174">Polish Space Marines</a></th>
+<th></th>
+<th>Краков</th>
+<th>1</th>
+</tr>
+</tbody>
+
+<small>*[Наверх](#atop)*</small>
+
+## Игроки <a name="players"></a>
+
+<table class="uk-table uk-table-divider uk-table-hover">
+<thead>
+<tr>
+<th>Игрок</th>
+<th>Победы</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th><a href="https://rating.chgk.info/player/5611">Алексей Винокуров</a></th>
+<th>3</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/9105">Сергей Демяненко</a></th>
+<th>3</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/40390">Елена Гордынец</a></th>
+<th>3</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/29516">Дмитрий Слободянюк</a></th>
+<th>2</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/17121">Владимир Кукарских</a></th>
+<th>2</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/21952">Павел Муха</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/39285">Владислава Плохих</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/40393">Юрий Разумов</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/158668">Вера Монина</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/5876">Виктория Волкова</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/28948">Евгений Сибиряк</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/71501">Мария Завьялова</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/77785">Станислав Адаскевич</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/12401">Егор Игнатенков</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/22242">Ксения Накладова</a></th>
+<th>1</th>
+</tr>
+<tr>
+<th><a href="https://rating.chgk.info/player/37751">Андрей Руденко</a></th>
+<th>1</th>
+</tr>
+</tbody>
+
+<small>*[Наверх](#atop)*</small>
+
+### Чемпионаты по годам <a name="years"></a>
+
 - [IV чемпионат Польши (2023)](#2023)
 - [III чемпионат Польши (2022)](#2022)
 - [II чемпионат Польши (2019)](#2019)
 - [I чемпионат Польши (2018)](#2018)
+
+<small>*[Наверх](#atop)*</small>
 
 **IV чемпионат Польши** прошёл 1–2 апреля 2023 года в Варшаве. <a name="2023"></a>
 
@@ -27,7 +147,7 @@ Body
 
 Полные результаты на [турнирном сайте](https://rating.chgk.info/tournament/8661).
 
-<small>*[Наверх](#atop)*</small>
+<small>*[К списку чемпионатов](#years)*</small>
 
 **III чемпионат Польши** прошёл 23 июля 2022 года в Варшаве. <a name="2022"></a>
 
@@ -41,7 +161,7 @@ Body
 
 Полные результаты на [турнирном сайте](https://rating.chgk.info/tournament/8178).
 
-<small>*[Наверх](#atop)*</small>
+<small>*[К списку чемпионатов](#years)*</small>
 
 **II чемпионат Польши** прошёл 18–19 мая 2019 года в Варшаве. <a name="2019"></a>
 
@@ -55,7 +175,7 @@ Body
 
 Полные результаты на [турнирном сайте](https://rating.chgk.info/tournament/5484).
 
-<small>*[Наверх](#atop)*</small>
+<small>*[К списку чемпионатов](#years)*</small>
 
 **I чемпионат Польши** прошёл 28–29 апреля 2018 года в Варшаве. <a name="2018"></a>
 
@@ -69,4 +189,4 @@ Body
 
 Полные результаты на [турнирном сайте](https://rating.chgk.info/tournament/4853).
 
-<small>*[Наверх](#atop)*</small>
+<small>*[К списку чемпионатов](#years)*</small>

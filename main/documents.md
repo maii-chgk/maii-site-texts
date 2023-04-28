@@ -116,6 +116,7 @@ Body
 - [Протокол заседания № 5 от 06.06.2021](https://www.maii.li/docs/2021-06-08-protokol-zasedaniya-ispolkoma-maii-5-ot-06.06.2021/)
 - [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./)
 - [Решение исполкома по поводу обжалования решения дисциплинарной группы №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/)
+- [Отчёт о работе за 2022-2023 годы](https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./)
 
 <small>[К оглавлению](#top)</small>
 
