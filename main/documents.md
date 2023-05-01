@@ -124,6 +124,7 @@ Body
 
 - [Положение о контрольно-ревизионной комиссии](https://www.maii.li/docs/2021-05-29-polozhenie-o-kontrolno-revizionnoj-komissii-mezhdunarodnoj-associacii-intellektualnyh-igr/)
 - [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-04-23-otchyot-kontrolno-revizionnoj-komissii-maii-za-2021-2022-gg/)
+- [Отчёт о работе за 2022-2023 годы](https://www.maii.li/docs/2023-04-30-otchyot-kontrolno-revizionnoj-komissii-maii-za-2022-2023-gg/)
 
 <small>[К оглавлению](#top)</small>
 
