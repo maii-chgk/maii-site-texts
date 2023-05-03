@@ -20,12 +20,13 @@ body
 
 ## 30 апреля — 1 мая 2023 года <a name="aprmay23"></a>
 
-- [Анонс](https://www.maii.li/news/2023-03-25-anons-obshego-sobraniya-i-opros-o-chisle-chlenov-ispolkoma-i-krk/)
 - [Программа](https://www.maii.li/news/2023-04-27-programma-obshego-sobraniya-30-aprelya-1-maya/)
+- [Видеозапись](https://youtu.be/hilB_CsFEEo?t=309)
 - [Кандидаты в исполком](https://forum.znatoki.site/c/obshhee-sobranie-30-04-2023/kandidaty-v-ispolkom/56)
 - [Кандидаты в КРК](https://forum.znatoki.site/c/obshhee-sobranie-30-04-2023/kandidaty-v-krk/58)
 - [Документы](https://forum.znatoki.site/c/obshhee-sobranie-30-04-2023/dokumenty/60)
 - [FAQ по выборам в исполком и КРК](https://www.maii.li/p/election-faq)
+- [Новость с итогами собрания](https://www.maii.li/news/2023-05-02-itogi-vesennego-obshego-sobraniya/)
 
 --------
 

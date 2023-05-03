@@ -59,6 +59,7 @@ Body
 - [Решение №7 от 04.03.2023 (по поводу дисквалификации Виктора Плотникова)](https://www.maii.li/docs/2023-03-04-reshenie-dg-7-(po-povodu-diskvalifikacii-viktora-plotnikova)/).
 - [Решение №8 от 15.03.2023 (по поводу дисквалификации Алексея Агапова)](https://www.maii.li/docs/2023-03-15-reshenie-dg-8-(po-povodu-diskvalifikacii-alekseya-agapova)/).
 - [Решение №9 от 06.04.2023 (по поводу бессрочной дисквалификации Романа Черняева)](https://www.maii.li/docs/2023-04-06-reshenie-dg-9-(po-povodu-bessrochnoj-diskvalifikacii-romana-chernyaeva)/).
+- [Решение №10 от 29.04.2023 (по поводу дисквалификации Ксении Немчиновой)](https://www.maii.li/docs/2023-04-29-reshenie-dg-10-(po-povodu-diskvalifikacii-ksenii-nemchinovoj)/).
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 <small>[К оглавлению](#top)</small>
@@ -100,6 +101,7 @@ Body
 - [Заявление МАИИ о войне в Украине](https://www.maii.li/docs/2022-05-02-zayavlenie-maii-o-vojne-v-ukraine/) (02.05.2022)
 - [Протокол общего собрания МАИИ от 28.08.2022](https://www.maii.li/docs/2022-08-30-protokol-obshego-sobraniya-maii-ot-28.08.2022/).
 - [Протокол общего собрания МАИИ от 21.12.2022](https://www.maii.li/docs/2022-12-21-protokol-obshego-sobraniya-maii-ot-21.12.2022/).
+- [Протокол общего собрания МАИИ от 30.04.2023](https://www.maii.li/docs/2023-05-03-protokol-obshego-sobraniya-maii-ot-30.04.2023/).
 
 Подробнее об общих собраниях см. [здесь](https://www.maii.li/p/os).
 
@@ -145,6 +147,7 @@ Body
 - [Отчёт группы по рейтингу о втором полугодии работы (24.08.2022)](https://www.maii.li/docs/2022-08-24-otchyot-gruppy-po-rejtingu-za-vtoroe-polugodie-raboty/).
 - [Отчёт группы по рейтингу о третьем полугодии работы (27.02.2023)](https://www.maii.li/docs/2023-02-27-otchyot-gruppy-po-rejtingu-o-tretem-polugodii-raboty/).
 - [Отчёт исполкома за 2022–2023 годы (23.04.2023)](https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./).
+- [Отчёт КРК за 2022-2023 годы (30.04.2023)](https://www.maii.li/docs/2023-04-30-otchyot-kontrolno-revizionnoj-komissii-maii-za-2022-2023-gg/).
 
 <small>[К оглавлению](#top)</small>
 
