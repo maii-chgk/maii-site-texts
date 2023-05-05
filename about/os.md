@@ -26,6 +26,7 @@ body
 - [Кандидаты в КРК](https://forum.znatoki.site/c/obshhee-sobranie-30-04-2023/kandidaty-v-krk/58)
 - [Документы](https://forum.znatoki.site/c/obshhee-sobranie-30-04-2023/dokumenty/60)
 - [FAQ по выборам в исполком и КРК](https://www.maii.li/p/election-faq)
+- [Протокол](https://www.maii.li/docs/2023-05-03-protokol-obshego-sobraniya-maii-ot-30.04.2023/)
 - [Новость с итогами собрания](https://www.maii.li/news/2023-05-02-itogi-vesennego-obshego-sobraniya/)
 
 --------

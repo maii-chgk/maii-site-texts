@@ -111,10 +111,10 @@ Body
 В этом разделе собирается информация о юношеских и школьных чемпионатах разных стран по спортивному ЧГК и иным интеллектуальным играм — как статистика о результатах прошлых лет, так и об актуальных турнирах. Раздел будет пополняться.
 
 - [Молодёжный кубок мира (синхронный турнир)](http://student.chgk.info/).
-- [Юношеский чемпионат Европы](https://www.maii.li/p/tournaments-yuche).
-- [Беларусь](https://www.maii.li/p/tournaments-shchrb).
-- [Россия](https://www.maii.li/p/tournaments-shchr).
-- [Украина](https://www.maii.li/p/tournaments-shchu).
+- [Юношеский чемпионат Европы](https://www.maii.li/p/school-yuche).
+- [Беларусь](https://www.maii.li/p/school-belarus).
+- [Россия](https://www.maii.li/p/school-russia).
+- [Украина](https://www.maii.li/p/school-ukraine).
 
 <small>[Наверх](#atop)</small>
 
