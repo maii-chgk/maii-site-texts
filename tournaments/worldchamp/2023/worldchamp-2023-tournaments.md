@@ -5,7 +5,6 @@ title: Турниры, выводящие на ЧМ-2023
 lead
 Чемпионаты стран и другие турниры сезона 2022/2023, по результатам которых можно будет попасть на Чемпионат мира 2023 года. Список будет пополняться
 
-
 <table class="uk-table uk-table-divider uk-table-hover">
 <thead>
   <tr>
@@ -32,6 +31,14 @@ lead
   <th>27.05.2023</th>
   <th>Подтверждён</th>
   <th><a href="http://london.chgk.info/">Сайт</a></th>
+  <th>Пока неизвестно</th>
+  </tr>
+  <tr>
+  <th>Чемпионат Армении</th>
+  <th>Гюмри</th>
+  <th>28.05.2023</th>
+  <th>Подтверждён</th>
+  <th><a href="https://www.facebook.com/groups/iGame.am/posts/6323098987753438/">Фейсбук</a></th>
   <th>Пока неизвестно</th>
   </tr>
   <tr>
@@ -72,7 +79,7 @@ lead
   <th>22.04.2023</th>
   <th>Подтверждён</th>
   <th>-</th>
-  <th>Пока неизвестно</th>
+  <th><a href="https://rating.chgk.info/teams/4789">Коммуникативные неудачи</a></th>
   </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/8893">Чемпионат Беларуси</a></th>
@@ -160,7 +167,7 @@ lead
   <th>21.08.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://t.me/zakovat/5925">Телеграм</a></th>
-  <th><a href="https://rating.chgk.info/team/2909">Мистерия</a></th>
+  <th><a href="https://rating.chgk.info/teams/2909">Мистерия</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/8178">Чемпионат Польши</a></th>
@@ -168,7 +175,7 @@ lead
   <th>23.07.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://www.facebook.com/groups/792401147637501">Фб</a></th>
-  <th><a href="https://rating.chgk.info/team/77174">Polish Space Marines</a></th>
+  <th><a href="https://rating.chgk.info/teams/77174">Polish Space Marines</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/8211">Чемпионат Армении</a></th>
@@ -176,7 +183,7 @@ lead
   <th>17.07.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://www.facebook.com/groups/iGame.am/posts/5446591812070831/">Фб</a></th>
-  <th><a href="https://rating.chgk.info/team/56664">Арагаст</a></th>
+  <th><a href="https://rating.chgk.info/teams/56664">Арагаст</a></th>
   </tr>
 <tr>
   <th>Чемпионат Грузии</th>
@@ -184,7 +191,7 @@ lead
   <th>27.06.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://www.facebook.com/events/1052289652163762">Фб</a></th>
-  <th><a href="https://rating.chgk.info/team/45284">Динамо</a></th>
+  <th><a href="https://rating.chgk.info/teams/45284">Динамо</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/7805">Чемпионат Великобритании</a></th>
@@ -192,7 +199,7 @@ lead
   <th>21.05.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://www.facebook.com/groups/London.Chto.Gde.Kogda/">Фб</a></th>
-  <th><a href="https://rating.chgk.info/team/6651">Жрецы Хамона</a></th>
+  <th><a href="https://rating.chgk.info/teams/6651">Жрецы Хамона</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/8059">Чемпионат Литвы</a></th>
@@ -200,7 +207,7 @@ lead
   <th>7–8.05.2022</th>
   <th>Подтверждён</th>
   <th><a href="http://www.chgk.lt/?page_id=99">Сайт</a></th>
-  <th><a href="https://rating.chgk.info/team/86975">LT United</a></th>
+  <th><a href="https://rating.chgk.info/teams/86975">LT United</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/7903">Чемпионат Латвии</a></th>
@@ -208,7 +215,7 @@ lead
   <th>23.04.2022</th>
   <th>Подтверждён<a href="#status">*</a></th>
   <th><a href="https://t.me/dvcup">Телеграм</a></th>
-  <th><a href="https://rating.chgk.info/team/4032">X-promt</a></th>
+  <th><a href="https://rating.chgk.info/teams/4032">X-promt</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/7931">Чемпионат Беларуси</a></th>
@@ -216,7 +223,7 @@ lead
   <th>16–17.04.2022</th>
   <th>Подтверждён<a href="#status">*</a></th>
   <th>-</th>
-  <th><a href="https://rating.chgk.info/team/51739">Зоопарк</a></th>
+  <th><a href="https://rating.chgk.info/teams/51739">Зоопарк</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/7773">Открытый кубок Дальнего Востока</a></th>
@@ -232,7 +239,7 @@ lead
   <th>6–7.03.2022</th>
   <th>Подтверждён<a href="#status">*</a></th>
   <th><a href="https://t.me/umindgames">Тг</a>, <a href="http://vk.com/umindgames">Вк</a></th>
-  <th><a href="https://rating.chgk.info/team/59419">Gay Берилья</a></th>
+  <th><a href="https://rating.chgk.info/teams/59419">Gay Берилья</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/7573">Русские сезоны: Переславль</a></th>
@@ -240,7 +247,7 @@ lead
   <th>5–6.02.2022</th>
   <th>Подтверждён</th>
   <th><a href="https://vk.com/saisonsrusses_chgk">Вк</a>, <a href="https://t.me/saisons_russes">Тг</a>, <a href="https://www.facebook.com/groups/483568116405027/">Фб</a></th>
-  <th><a href="https://rating.chgk.info/team/670">Ксеп</a></th>
+  <th><a href="https://rating.chgk.info/teams/670">Ксеп</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/7638">Суперлига Европы. Кубок Северной совы</a></th>
@@ -248,7 +255,7 @@ lead
   <th>8–9.01.2022</th>
   <th>Подтверждён</a></th>
   <th><a href="https://t.me/SevsovaESL">Телеграм</a></th>
-  <th><a href="https://rating.chgk.info/team/316">Минус один</a></th>
+  <th><a href="https://rating.chgk.info/teams/316">Минус один</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/7666">Чемпионат Украины</a></th>
@@ -256,7 +263,7 @@ lead
   <th>4–5.12.2021</th>
   <th>Подтверждён</th>
   <th><a href="https://t.me/LigaUK/358">Пост об итогах</a></th>
-  <th><a href="https://rating.chgk.info/team/308">Номер 6</a></th>
+  <th><a href="https://rating.chgk.info/teams/308">Номер 6</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/7480">Чемпионат Эстонии</a></th>
@@ -264,7 +271,7 @@ lead
   <th>09.10.2021</th>
   <th>Подтверждён</th>
   <th><a href="http://so-va.online/che2021">Сайт</a></th>
-  <th><a href="https://rating.chgk.info/team/65510">Панические атаки</a></th>
+  <th><a href="https://rating.chgk.info/teams/65510">Панические атаки</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/7483">Чемпионат Армении</a></th>
@@ -272,7 +279,7 @@ lead
   <th>26.09.2021</th>
   <th>Подтверждён</th>
   <th>-</th>
-  <th><a href="https://rating.chgk.info/team/56664">Арагаст</a></th>
+  <th><a href="https://rating.chgk.info/teams/56664">Арагаст</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.chgk.info/tournament/6114">Чемпионат Великобритании</a></th>
@@ -280,7 +287,7 @@ lead
   <th>11.09.2021</th>
   <th>Подтверждён</th>
   <th><a href="http://london.chgk.info/chv-2020-information/">Сайт</a></th>
-  <th><a href="https://rating.chgk.info/team/48869">2,5 человека</a></th>
+  <th><a href="https://rating.chgk.info/teams/48869">2,5 человека</a></th>
   </tr>
 </tbody>
 </table>
