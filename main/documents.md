@@ -109,16 +109,17 @@ Body
 
 ## Исполком <a name="ispolkom"></a>
 
-- [Положение об исполкоме](https://www.maii.li/docs/2021-05-29-polozhenie-ob-ispolnitelnom-komitete-mezhdunarodnoj-associacii-intellektualnyh-igr/)
-- [Регламент приёма членов МАИИ](https://www.maii.li/docs/2021-12-05-reglament-priyoma-chlenov-mezhdunarodnoj-associacii-intellektualnyh-igr/)
-- [Протокол заседания № 1 от 18.04.2021](https://www.maii.li/docs/2021-04-21-protokol-zasedaniya-ispolkoma-maii-1-ot-18.04.2021/)
-- [Протокол заседания № 2 от 28.04.2021](https://www.maii.li/docs/2021-05-05-protokol-zasedaniya-ispolkoma-maii-2-ot-28.04.2021/)
-- [Протокол заседания № 3 от 12.05.2021](https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-3-ot-12.05.2021/)
-- [Протокол заседания № 4 от 12.05.2021](https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-4-ot-12.05.2021/)
-- [Протокол заседания № 5 от 06.06.2021](https://www.maii.li/docs/2021-06-08-protokol-zasedaniya-ispolkoma-maii-5-ot-06.06.2021/)
-- [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./)
-- [Решение исполкома по поводу обжалования решения дисциплинарной группы №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/)
-- [Отчёт о работе за 2022-2023 годы](https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./)
+- [Положение об исполкоме](https://www.maii.li/docs/2021-05-29-polozhenie-ob-ispolnitelnom-komitete-mezhdunarodnoj-associacii-intellektualnyh-igr/).
+- [Регламент приёма членов МАИИ](https://www.maii.li/docs/2021-12-05-reglament-priyoma-chlenov-mezhdunarodnoj-associacii-intellektualnyh-igr/).
+- [Протокол заседания № 1 от 18.04.2021](https://www.maii.li/docs/2021-04-21-protokol-zasedaniya-ispolkoma-maii-1-ot-18.04.2021/).
+- [Протокол заседания № 2 от 28.04.2021](https://www.maii.li/docs/2021-05-05-protokol-zasedaniya-ispolkoma-maii-2-ot-28.04.2021/).
+- [Протокол заседания № 3 от 12.05.2021](https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-3-ot-12.05.2021/).
+- [Протокол заседания № 4 от 12.05.2021](https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-4-ot-12.05.2021/).
+- [Протокол заседания № 5 от 06.06.2021](https://www.maii.li/docs/2021-06-08-protokol-zasedaniya-ispolkoma-maii-5-ot-06.06.2021/).
+- [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./).
+- [Решение исполкома по поводу обжалования решения дисциплинарной группы №3](https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/).
+- [Отчёт о работе за 2022-2023 годы](https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./).
+- [Протокол заседания №6 от 09.05.2023](https://www.maii.li/docs/2023-05-22-protokol-zasedaniya-ispolkoma-maii-6-ot-09.05.2023/).
 
 <small>[К оглавлению](#top)</small>
 
