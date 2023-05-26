@@ -81,7 +81,7 @@ body
  <ul>
  <li><a href="https://www.maii.li/docs/2021-05-29-polozhenie-ob-ispolnitelnom-komitete-mezhdunarodnoj-associacii-intellektualnyh-igr/">Положение об исполкоме</a></li>
  <li><a href="https://www.maii.li/docs/2021-12-05-reglament-priyoma-chlenov-mezhdunarodnoj-associacii-intellektualnyh-igr/">Регламент приёма членов МАИИ</a></li>
- <li><a href="https://www.maii.li/docs/2023-05-22-protokol-zasedaniya-ispolkoma-maii-6-ot-09.05.2023/">Протокол заседания №6 от 09.05.2023</a></li>
+ <li><a href="https://www.maii.li/docs/2023-05-22-protokol-zasedaniya-ispolkoma-maii-6-ot-09.05.2023/">Протокол заседания № 6 от 09.05.2023</a></li>
  <li><a href="https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./">Отчёт о работе за 2021–2022 годы</a></li>
  <li><a href="https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./">Отчёт о работе за 2022–2023 годы</a></li>
  <li><a href="https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/">Решение исполкома по поводу обжалования решения дисциплинарной группы №3</a></li>
@@ -422,6 +422,7 @@ body
 
 - [Текущий состав](#info-now)
 - [Ранее входили в состав](#ex-info)
+- [Координаторы](#coord)
 - [Ссылки](#info-links)
 
 ### Состав группы <a name="info-now"></a>
@@ -434,7 +435,7 @@ body
 - Надежда Головлёва (принята в состав 22 декабря 2022 года),
 - Лев Кертман,
 - Тимур Мухаматулин, 
-- Наиль Фарукшин (координатор с 02.08.2021 по 02.08.2022),
+- Наиль Фарукшин (координатор),
 - Лизавета Якимычева.
 
 <a name="ex-info"></a>
@@ -444,6 +445,16 @@ body
          <li>Павел Деревянкин (вышел по собственному желанию 14.11.2021)</li>
          <li>Алексей Штых (вышел по собственному желанию 08.02.2023)</li>
          <li>Максим Сидоров (координатор с 03.08.2022 по 03.05.2023, 3 мая 2023 года вышел по собственному желанию)</li>
+    </ul>
+</details>
+
+<a name="coord"></a>
+<details>
+ <summary>Координаторы группы</summary>
+    <ul>
+         <li>Наиль Фарукшин (с 22.05.2023 по 22.05.2024)</li>
+         <li>Максим Сидоров (с 03.08.2022 по 03.05.2023</li>
+         <li>Наиль Фарукшин (с 02.08.2021 по 02.08.2022)</li>
     </ul>
 </details>
 

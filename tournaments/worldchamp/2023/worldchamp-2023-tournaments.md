@@ -49,29 +49,37 @@ lead
   <th><a href="https://www.facebook.com/groups/2977612685873767">Фб</a></th>
   <th>Пока неизвестно</th>
   </tr>
+  <tr>
+  <th>XVIII чемпионат Финляндии</a></th>
+  <th>Хельсинки</th>
+  <th>20.05.2023</th>
+  <th>Подтверждён</th>
+  <th><a href="https://www.facebook.com/events/130505330032794">Фб</a></th>
+  <th>Пока неизвестно</th>
+  </tr>
 <tr>
-  <th><a href="https://rating.chgk.info/tournament/9157">Чемпионат Узбекистана</a></th>
+  <th><a href="https://rating.chgk.info/tournament/9157">XIX чемпионат Узбекистана</a></th>
   <th>Ташкент</th>
   <th>14.05.2023</th>
   <th>Подтверждён</th>
   <th><a href="https://t.me/ruliga_zakovat">Тг</a></th>
-  <th>Пока неизвестно</th>
-  </tr>
+  <th><a href="https://rating.chgk.info/teams/62494">Котовского 26 кв 58</a></th>
+</tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/6353">XXV чемпионат Израиля</a></th>
   <th>Тель-Авив</th>
   <th>13.05.2023</th>
   <th>Подтверждён</th>
   <th><a href="http://il.chgk.info/">Сайт</a>, <a href="https://chgk-il.livejournal.com/1612192.html">ЖЖ</a>, <a href="https://www.facebook.com/groups/309438939151833/">Фб</a></th>
-  <th>Пока неизвестно</th>
+  <th><a href="https://rating.chgk.info/teams/641">Братья</a></th>
   </tr>
 <tr>
-  <th><a href="https://rating.chgk.info/tournament/9129">Чемпионат Туркменистана</a></th>
+  <th><a href="https://rating.chgk.info/tournament/9129">XIX чемпионат Туркменистана</a></th>
   <th>Ашхабад</th>
   <th>07.05.2023</th>
-  <th>Предварительный<a href="#note2">**</a></th>
+  <th>Подтверждён<a href="#note2">**</a></th>
   <th><a href="https://chgk.io/">Сайт</a></th>
-  <th>Пока неизвестно</th>
+  <th><a href="https://rating.chgk.info/teams/53485">Старая гвардия</a></th>
   </tr>
   <tr>
   <th><a href="https://rating.chgk.info/tournament/9025">Чемпионат Латвии</a></th>
@@ -125,7 +133,7 @@ lead
   <th><a href="https://rating.chgk.info/tournament/8663">Открытый чемпионат Кипра</a></th>
   <th>Лимасол</th>
   <th>14.01.2023</th>
-  <th>Подтверждён<a href="#note">\*</a></th>
+  <th>Подтверждён<a href="#note">*</a></th>
   <th><a href="http://cyprusfest.com/">Сайт</a></th>
   <th><a href="https://rating.chgk.info/teams/87345">Волки</a></th>
   </tr>
@@ -133,7 +141,7 @@ lead
   <th><a href="https://rating.chgk.info/tournament/8680">XVIII чемпионат Туркменистана</a></th>
   <th>Ашхабад</th>
   <th>27.11.2022</th>
-  <th>Подтверждён</th>
+  <th>Не подтвердил статуса<a href="#note2">**</a></th>
   <th><a href="http://chgk.tv/">Сайт</a></th>
   <th><a href="https://rating.chgk.info/teams/1223">Ва-Банк</a></th>
   </tr>
@@ -296,4 +304,4 @@ lead
 <br>
 <small><a name="note"></a>\*\* — В связи с тем, что в сезоне 2022/2023 в стране проводилось два чемпионата, то, какой из турниров стал выводящим, согласно [п. 7.1.6.1. Положения о ЧМ](https://www.maii.li/docs/2022-01-06-polozhenie-o-chempionate-mira/#7) определил оргкомитет. Им [стал](https://t.me/worldchamp_maii/340) турнир с наиболее сильным составом участников.</small>
 <br>
-<small><a name="note2"></a>\*\*\* — В связи с тем, что в сезоне 2022/2023 в стране проводится два чемпионата, то, какой из турниров станет выводящим, согласно [п. 7.1.6.1. Положения о ЧМ](https://www.maii.li/docs/2022-01-06-polozhenie-o-chempionate-mira/#7) определит [оргкомитет ЧМ](https://www.maii.li/p/worldchamp-2023). Им станет турнир с наиболее сильным составом участников.</small>
+<small><a name="note2"></a>\*\* — В связи с тем, что в сезоне 2022/2023 в стране проводилось два чемпионата, то, какой из турниров стал выводящим, согласно [п. 7.1.6.1. Положения о ЧМ](https://www.maii.li/docs/2022-01-06-polozhenie-o-chempionate-mira/#7) определил оргкомитет. Им [стал](https://t.me/worldchamp_maii/340) турнир с наиболее сильным составом участников.</small>
