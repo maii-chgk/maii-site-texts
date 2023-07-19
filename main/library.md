@@ -82,7 +82,7 @@ Body
 
 ### Программы <a name="programs"></a>
 
-1. <a name="chgksuite"></a>[chgksuite](https://peczony.gitbook.io/chgksuite/) — это система для работы с пакетами ЧГК. Она позволяет единообразно оформить вопросы, а также экспортировать их в разные форматы, в том числе с использованием спойлеров для ответов и комментариев. Есть [чат поддержки](https://t.me/chgksuite), а также [код на gitlab](https://gitlab.com/peczony/chgksuite).
+1. <a name="chgksuite"></a>[chgksuite](https://chgksuite.pecheny.me/) — это система для работы с пакетами ЧГК. Она позволяет единообразно оформить вопросы, а также экспортировать их в разные форматы, в том числе с использованием спойлеров для ответов и комментариев. Есть [чат поддержки](https://t.me/chgksuite), а также [код на gitlab](https://gitlab.com/peczony/chgksuite).
 
 <small>*[Наверх](#atop)*</small>
 
@@ -100,6 +100,7 @@ Body
 
 ### Программы
 
+- [Телеграм-бот для оповещения о новых заявках на турнирном сайте](https://t.me/chgknews/542). Чат с поддержкой [тут](https://t.me/chgksuite). *Автор — Александр Печеный.*
 - [Онлайн-генератор бланков](http://old.chgk-res.ru/blanks_generator/) (умеет добавлять и штрих-коды).
 - [Скрипты для генерации бланков](https://gitlab.com/peczony/blanks_gen). *Автор — Александр Печеный.*
 - [Таймер для ЧГК](https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer) (скачивать в Google Play). *Автор — Александр Овчаренко.*
@@ -139,5 +140,7 @@ Body
 - [Интервью проекта «Молодёжный кубок "Дружба народов"»](http://youthcupofnations.tilda.ws/interviews).
 - [Сайт Riddler](https://riddler.li/). Здесь собраны интервью и иные материалы, посвященные студенческим интеллектуальным играм и не только. 
 - [Посвящённый интеллектуальным играм сайт Марии Крыленко](https://web.archive.org/web/20210418004136/http://www.krylenko.com/chgk/) (версия из веб-архива).
+- Интервью с редакторами фестиваля «Город героев — 2017): [Сергеем Спешковым](https://billo-varenn.livejournal.com/387326.html), [Максимом Мерзляковым](https://billo-varenn.livejournal.com/387458.html), [Михаилом Савченковым](https://billo-varenn.livejournal.com/388513.html).
+- Аудиоинтервью с [израильским знатоком Ильёй Тальянским](https://open.spotify.com/episode/3dBG5BSwCP7PoaiN96Q2Gq?si=059bf21c834d432a&nd=1) (2023).
 
 <small>*[Наверх](#atop)*</small>
