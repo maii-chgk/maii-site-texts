@@ -1,10 +1,8 @@
 ---
-title Рабочие органы МАИИ
+title: Рабочие органы МАИИ
+subtitle: В Международной ассоциации интеллектуальных игр действует 12 рабочих органов. 
 ---
 
-lead В Международной ассоциации интеллектуальных игр действует 12 рабочих органов. 
-
-body
 1. <a name="up"></a>[Исполнительный комитет.](#kom)
 2. [Контрольно-ревизионная комиссия.](#krk)
 3. [IT-группа.](#it)
@@ -225,15 +223,43 @@ body
 
 Адрес для связи: <perevod@maii.li>. Кроме того, задать вопрос группе можно в канале [«Вопросы переводы»](https://discord.gg/3FQypUfmx5) сервера МАИИ в Дискорде.
 
-### Состав (сформирован 2 августа 2021 года):
-- Иделия Айзятулова,
-- Антон Бочкарёв (координатор),
-- Антон Гусаков,
-- Андрей Мартынов,
-- Дмитрий Родионов,
-- Павел Худяков.
+- [Текущий состав](#translation-now)
+- [Прежние составы](#ex-translation)
+- [Ссылки](#translation-links)
 
-В июне 2021 года действовала временная рабочая группа с тем же составом участников.
+### Состав (пока не собран) <a name="translation-now"></a>
+
+### Прежние составы <a name="ex-translation"></a>
+
+<details>
+<summary>2021–2023 (сформирован 2 августа 2021 года)</summary>
+    <ul>
+        <li>Иделия Айзятулова,</li>
+        <li>Антон Бочкарёв (координатор),</li>
+        <li>Антон Гусаков,</li>
+        <li>Андрей Мартынов,</li>
+        <li>Дмитрий Родионов,</li>
+        <li>Павел Худяков.</li>
+    </ul>
+</details>
+<details>
+    <summary>Июнь 2021 (временная)</summary>
+        <li>Иделия Айзятулова,</li>
+        <li>Антон Бочкарёв (координатор),</li>
+        <li>Антон Гусаков,</li>
+        <li>Андрей Мартынов,</li>
+        <li>Дмитрий Родионов,</li>
+        <li>Павел Худяков.</li>
+</details>
+
+### Ссылки <a name="translation-links"></a>
+<details>
+    <summary>Документы</summary>
+       <ul>
+            <li><a href="https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-perevodam-dokumentov/">Регламент</a></li>
+            <li><a href="https://www.maii.li/docs/2023-07-22-otchyot-o-rabote-gruppy-po-perevodu-dokumentov-v-2021-2023-godah/">Отчёт за 2021–2023 годы (22.07.2023)</a></li>
+       </ul>
+</details>
 
 <small>[Наверх](#up)</small>
 
@@ -385,7 +411,8 @@ body
 	<summary>Документы</summary>
        <ul>
         	<li><a href="https://www.maii.li/docs/2021-07-25-reglament-disciplinarnoj-rabochej-gruppy/">Регламент</a></li>
-        	<li><a href="https://www.maii.li/docs/2022-07-28-otchyot-disciplinarnoj-gruppy-za-2021-2022/">Отчёт о работе за 2021-2022 годы</a></li>
+        	<li><a href="https://www.maii.li/docs/2022-07-28-otchyot-disciplinarnoj-gruppy-za-2021-2022/">Отчёт о работе за 2021-2022 годы (28.07.2022)</a></li>
+            <li><a href="https://www.maii.li/docs/2023-08-02-otchyot-disciplinarnoj-gruppy-za-2022-2023/">Отчёт о работе за 2022-2023 годы (02.08.2023)</a></li>
        </ul>
 </details>
 <details>
@@ -406,6 +433,7 @@ body
 			<li><a href="https://www.maii.li/docs/2023-03-15-reshenie-dg-8-(po-povodu-diskvalifikacii-alekseya-agapova)/">Решение №8 от 15.03.2023 (по поводу дисквалификации Алексея Агапова)</a></li>
 			<li><a href="https://www.maii.li/docs/2023-04-06-reshenie-dg-9-(po-povodu-bessrochnoj-diskvalifikacii-romana-chernyaeva)/">Решение №9 от 06.04.2023 (по поводу бессрочной дисквалификации Романа Черняева)</a></li>
 			<li><a href="https://www.maii.li/docs/2023-04-29-reshenie-dg-10-(po-povodu-diskvalifikacii-ksenii-nemchinovoj)/">Решение №10 от 29.10.2023 (по поводу дисквалификации Ксении Немчиновой)</a></li>
+            <li><a href="https://www.maii.li/p/faq-plotnikov">Ответы на часто задаваемые вопросы по делу Виктора Плотникова</a></li>
        </ul>
 </details>
 <details>
@@ -453,7 +481,6 @@ body
          <li>Максим Сидоров (координатор с 03.08.2022 по 03.05.2023, 3 мая 2023 года вышел по собственному желанию)</li>
     </ul>
 </details>
-
 <a name="coord"></a>
 <details>
  <summary>Координаторы группы</summary>
@@ -540,6 +567,7 @@ body
 		 <li><a href="https://www.maii.li/docs/2021-07-25-reglament-turnirnoj-rabochej-gruppy/">Регламент турнирной группы</a>.</li>
 		 <li><a href="https://www.maii.li/p/aegis-rating">Положение об эгиде и рейтинге</a>.</li>
 		 <li><a href="https://www.maii.li/docs/2022-01-06-polozhenie-o-chempionate-mira/">Положение о чемпионате мира</a>.</li>
+         <li><a href="https://www.maii.li/docs/2023-07-24-otchyot-turnirnoj-gruppy-(2021-2023)/">Отчёт о работе в 2021–2023 годах (24.07.2023)</a>.</li>
 	</ul>
 </details>
 <details>
@@ -567,29 +595,34 @@ body
 - [Прежние составы](#ex-ustav)
 - [Ссылки](#ustav-links)
 
-### Состав группы (избран 5 августа 2022 года) <a name="ustav-now"></a>
-- Антон Бочкарёв (координатор),
-- Мансур Зиятдинов.
+### Состав группы (пока не собран) <a name="ustav-now"></a>
 
 ### Прежние составы <a name="ex-ustav"></a>
 
 <details>
+<summary>2022–2023 (избран 5 августа 2022 года)</summary>
+    <ul>
+        <li>Антон Бочкарёв (координатор),</li>
+        <li>Мансур Зиятдинов.</li>
+    </ul>
+</details>
+<details>
 <summary>2021–2022</summary>
-<ul>
-<li>Антон Бочкарёв (координатор),</li>
-<li>Мансур Зиятдинов.</li>
-</ul>
+    <ul>
+        <li>Антон Бочкарёв (координатор),</li>
+        <li>Мансур Зиятдинов.</li>
+    </ul>
 </details>
 <details>
 <summary>Апрель–июль 2021 года (временная))</summary>
-<ul>
-<li>Антон Бочкарёв (координатор),</li>
-<li>Павел Деревянкин,</li>
-<li>Мансур Зиятдинов,</li>
-<li>Роман Немучинский,</li>
-<li>Максим Сидоров (координатор),</li>
-<li>Владимир Цвингли.</li>
-</ul>
+    <ul>
+        <li>Антон Бочкарёв (координатор),</li>
+        <li>Павел Деревянкин,</li>
+        <li>Мансур Зиятдинов,</li>
+        <li>Роман Немучинский,</li>
+        <li>Максим Сидоров (координатор),</li>
+        <li>Владимир Цвингли.</li>
+    </ul>
 </details>
 
 ### Ссылки <a name="ustav-links"></a>
@@ -598,6 +631,7 @@ body
     <ul>
          <li><a href="https://www.maii.li/docs/2021-07-25-reglament-ustavnoj-rabochej-gruppy/">Регламент уставной группы</a></li>
          <li><a href="https://www.maii.li/docs/2022-07-27-otchyot-ustavnoj-gruppy-(2021-2022)/">Отчёт о работе в 2021-2022 годах (27.07.2022)</a></li>
+         <li><a href="https://www.maii.li/docs/2023-07-24-otchyot-o-rabote-ustavnoj-gruppy-v-2022-2023-godah/">Отчёт о работе в 2022-2023 годах (24.07.2022)</a></li>
     </ul>
 </details>
 <details>
@@ -646,7 +680,8 @@ body
  <summary>Документы</summary>
     <ul>
          <li><a href="https://www.maii.li/docs/2021-07-25-reglament-yuridicheskoj-rabochej-gruppy/">Регламент юридической группы</a></li>
-         <li><a href="https://www.maii.li/docs/2022-07-30-otchyot-yuridicheskoj-gruppy-za-20212022-gody/">Отчёт о работе за 2021–2022 годы</a></li>
+         <li><a href="https://www.maii.li/docs/2022-07-30-otchyot-yuridicheskoj-gruppy-za-20212022-gody/">Отчёт о работе за 2021–2022 годы (30.07.2022)</a></li>
+         <li><a href="https://www.maii.li/docs/2023-07-31-otchyot-yuridicheskoj-gruppy-za-2022-2023-gody/">Отчёт о работе за 2022–2023 годы (31.07.2023)</a></li>
     </ul>
 </details>
 <details>
