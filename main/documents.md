@@ -155,6 +155,7 @@ Body
 - [Отчёт о работе турнирной группы в 2021–2023 годах (24.07.2023)](https://www.maii.li/docs/2023-07-24-otchyot-turnirnoj-gruppy-(2021-2023)/).
 - [Отчёт о работе юридической группы в 2022–2023 годах (31.07.2023)](https://www.maii.li/docs/2023-07-31-otchyot-yuridicheskoj-gruppy-za-2022-2023-gody/).
 - [Отчёт о работе дисциплинарной группы в 2022–2023 годах (02.08.2023)](https://www.maii.li/docs/2023-08-02-otchyot-disciplinarnoj-gruppy-za-2022-2023/).
+- [Отчёт о работе IT-группы в 2022–2023 годах (06.08.2023)](https://www.maii.li/docs/2023-08-06-otchyot-it-gruppy-s-avgusta-2022-goda-po-avgust-2023-goda/).
 
 
 <small>[К оглавлению](#top)</small>
