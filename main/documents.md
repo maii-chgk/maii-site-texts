@@ -134,28 +134,29 @@ Body
 
 ## Отчёты органов <a name="reports"></a>
 
-- [Отчёт о работе группы по разработке брендов (26.11.2021)](https://www.maii.li/docs/2021-11-26-otchyot-o-rabote-gruppy-po-razrabotke-brendov/).
+- [Отчёт группы по разработке брендов (26.11.2021)](https://www.maii.li/docs/2021-11-26-otchyot-o-rabote-gruppy-po-razrabotke-brendov/).
 - [Отчёт IT-группы по итогам первого полугодия работы (19.02.2022)](https://www.maii.li/docs/2022-02-19-otchyot-it-gruppy-po-itogam-pervogo-polugodiya-raboty/).
-- [Отчёт о работе исполкома за 2021-2022 годы (23.04.2022)](https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./).
-- [Отчёт о работе контрольно-ревизионной комиссии за 2021-2022 годы (23.04.2022)](https://www.maii.li/docs/2022-04-23-otchyot-kontrolno-revizionnoj-komissii-maii-za-2021-2022-gg/).
+- [Отчёт исполкома за 2021-2022 годы (23.04.2022)](https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./).
+- [Отчёт контрольно-ревизионной комиссии за 2021-2022 годы (23.04.2022)](https://www.maii.li/docs/2022-04-23-otchyot-kontrolno-revizionnoj-komissii-maii-za-2021-2022-gg/).
 - [Отчёт группы по рейтингу о первом полугодии работы (29.04.2022)](https://www.maii.li/docs/2022-04-29-otchyot-gruppy-po-rejtingu-o-prodelannoj-rabote/).
-- [Отчёт о работе информационной группы в 2021–2022 годах (26.07.2022)](https://www.maii.li/docs/2022-07-26-otchyot-informacionnoj-gruppy-(2021-2022)/).
-- [Отчёт о работе уставной группы в 2021–2022 годах (27.07.2022)](https://www.maii.li/docs/2022-07-27-otchyot-ustavnoj-gruppy-(2021-2022)/).
-- [Отчёт о работе IT-группы в 2021–2022 годах (27.07.2022)](https://www.maii.li/docs/2022-07-27-otchyot-it-gruppy-po-itogam-vtorogo-polugodiya-raboty/).
-- [Отчёт о работе дисциплинарной группы в 2021–2022 годах (28.07.2022)](https://www.maii.li/docs/2022-07-28-otchyot-disciplinarnoj-gruppy-za-2021-2022/).
-- [Отчёт о работе юридической группы в 2021–2022 годах (30.07.2022)](https://www.maii.li/docs/2022-07-30-otchyot-yuridicheskoj-gruppy-za-20212022-gody/).
-- [Отчёт о работе противоэпидемической группы в 2021-2022 годах (01.08.2022)](https://www.maii.li/docs/2022-08-01-otchyot-protivoepidemicheskoj-gruppy-za-2021-2022-gody/).
-- [Отчёт о работе группы по брендам в 2021-2022 годах (19.08.2022)](https://www.maii.li/docs/2022-08-19-otchyot-gruppy-po-razrabotke-brendov-za-2021-2022-gody/).
+- [Отчёт информационной группы за 2021–2022 годы (26.07.2022)](https://www.maii.li/docs/2022-07-26-otchyot-informacionnoj-gruppy-(2021-2022)/).
+- [Отчёт уставной группы за 2021–2022 годы (27.07.2022)](https://www.maii.li/docs/2022-07-27-otchyot-ustavnoj-gruppy-(2021-2022)/).
+- [Отчёт IT-группы за 2021–2022 годы (27.07.2022)](https://www.maii.li/docs/2022-07-27-otchyot-it-gruppy-po-itogam-vtorogo-polugodiya-raboty/).
+- [Отчёт дисциплинарной группы за 2021–2022 годы (28.07.2022)](https://www.maii.li/docs/2022-07-28-otchyot-disciplinarnoj-gruppy-za-2021-2022/).
+- [Отчёт юридической группы за 2021–2022 годы (30.07.2022)](https://www.maii.li/docs/2022-07-30-otchyot-yuridicheskoj-gruppy-za-20212022-gody/).
+- [Отчёт противоэпидемической группы за 2021-2022 годы (01.08.2022)](https://www.maii.li/docs/2022-08-01-otchyot-protivoepidemicheskoj-gruppy-za-2021-2022-gody/).
+- [Отчёт группы по брендам за 2021-2022 годы (19.08.2022)](https://www.maii.li/docs/2022-08-19-otchyot-gruppy-po-razrabotke-brendov-za-2021-2022-gody/).
 - [Отчёт группы по рейтингу о втором полугодии работы (24.08.2022)](https://www.maii.li/docs/2022-08-24-otchyot-gruppy-po-rejtingu-za-vtoroe-polugodie-raboty/).
 - [Отчёт группы по рейтингу о третьем полугодии работы (27.02.2023)](https://www.maii.li/docs/2023-02-27-otchyot-gruppy-po-rejtingu-o-tretem-polugodii-raboty/).
 - [Отчёт исполкома за 2022–2023 годы (23.04.2023)](https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./).
 - [Отчёт КРК за 2022-2023 годы (30.04.2023)](https://www.maii.li/docs/2023-04-30-otchyot-kontrolno-revizionnoj-komissii-maii-za-2022-2023-gg/).
-- [Отчёт групп по переводам за 2021-2023 годы (22.07.2023)](https://www.maii.li/docs/2023-07-22-otchyot-o-rabote-gruppy-po-perevodu-dokumentov-v-2021-2023-godah/)
-- [Отчёт о работе уставной группы в 2022–2023 годах (24.07.2023)](https://www.maii.li/docs/2023-07-24-otchyot-o-rabote-ustavnoj-gruppy-v-2022-2023-godah/).
-- [Отчёт о работе турнирной группы в 2021–2023 годах (24.07.2023)](https://www.maii.li/docs/2023-07-24-otchyot-turnirnoj-gruppy-(2021-2023)/).
-- [Отчёт о работе юридической группы в 2022–2023 годах (31.07.2023)](https://www.maii.li/docs/2023-07-31-otchyot-yuridicheskoj-gruppy-za-2022-2023-gody/).
-- [Отчёт о работе дисциплинарной группы в 2022–2023 годах (02.08.2023)](https://www.maii.li/docs/2023-08-02-otchyot-disciplinarnoj-gruppy-za-2022-2023/).
-- [Отчёт о работе IT-группы в 2022–2023 годах (06.08.2023)](https://www.maii.li/docs/2023-08-06-otchyot-it-gruppy-s-avgusta-2022-goda-po-avgust-2023-goda/).
+- [Отчёт группы по переводам за 2021-2023 годы (22.07.2023)](https://www.maii.li/docs/2023-07-22-otchyot-o-rabote-gruppy-po-perevodu-dokumentov-v-2021-2023-godah/)
+- [Отчёт уставной группы за 2022–2023 годы (24.07.2023)](https://www.maii.li/docs/2023-07-24-otchyot-o-rabote-ustavnoj-gruppy-v-2022-2023-godah/).
+- [Отчёт турнирной группы за 2021–2023 годы (24.07.2023)](https://www.maii.li/docs/2023-07-24-otchyot-turnirnoj-gruppy-(2021-2023)/).
+- [Отчёт юридической группы за 2022–2023 годы (31.07.2023)](https://www.maii.li/docs/2023-07-31-otchyot-yuridicheskoj-gruppy-za-2022-2023-gody/).
+- [Отчёт дисциплинарной группы за 2022–2023 годы (02.08.2023)](https://www.maii.li/docs/2023-08-02-otchyot-disciplinarnoj-gruppy-za-2022-2023/).
+- [Отчёт IT-группы за 2022–2023 годы (06.08.2023)](https://www.maii.li/docs/2023-08-06-otchyot-it-gruppy-s-avgusta-2022-goda-po-avgust-2023-goda/).
+- [Отчёт группы по правилам за 2021–2023 годы (10.08.2023)](https://www.maii.li/docs/2023-08-11-otchyot-gruppy-po-pravilam-za-20212023-gody/).
 
 
 <small>[К оглавлению](#top)</small>
