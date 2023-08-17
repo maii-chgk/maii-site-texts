@@ -60,7 +60,8 @@ Body
 - [Решение №8 от 15.03.2023 (по поводу дисквалификации Алексея Агапова)](https://www.maii.li/docs/2023-03-15-reshenie-dg-8-(po-povodu-diskvalifikacii-alekseya-agapova)/).
 - [Решение №9 от 06.04.2023 (по поводу бессрочной дисквалификации Романа Черняева)](https://www.maii.li/docs/2023-04-06-reshenie-dg-9-(po-povodu-bessrochnoj-diskvalifikacii-romana-chernyaeva)/).
 - [Решение №10 от 29.04.2023 (по поводу дисквалификации Ксении Немчиновой)](https://www.maii.li/docs/2023-04-29-reshenie-dg-10-(po-povodu-diskvalifikacii-ksenii-nemchinovoj)/).
-- [Ответы на самые часто задаваемые вопросы по делу Плотникова](https://www.maii.li/p/faq-plotnikov).
+- [Ответы на самые часто задаваемые вопросы по делу Плотникова (31.07.2023)](https://www.maii.li/p/faq-plotnikov).
+- [Решение №11 от 17.08.2023 (по поводу дисквалификации Игоря Койфмана)](https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/).
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 <small>[К оглавлению](#top)</small>

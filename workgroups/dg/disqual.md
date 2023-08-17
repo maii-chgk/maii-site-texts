@@ -1,8 +1,6 @@
 ---
 title: Дисквалифицированные на турнирах под эгидой МАИИ
 ---
-
-Body
 <table class="uk-table uk-table-divider uk-table-hover">
 <thead>
   <tr>
@@ -32,13 +30,28 @@ Body
   <th>По <a href="https://www.maii.li/docs/2023-03-15-reshenie-dg-8-(po-povodu-diskvalifikacii-alekseya-agapova)/">решению ДГ №8</a></th>
   </tr>
 <tr>
-  <tr>
+  <th><a href="https://rating.maii.li/b/player/168110">168110</a></th>
+  <th>Игорь Койфман</th>
+  <th>Во всех качествах</th>
+  <th>3 месяца</th>
+  <th>до 01.10.2023</th>
+  <th>По <a href="https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/">решению ДГ №11</a></th>
+  </tr>
+<tr>
   <th><a href="https://rating.maii.li/b/player/270982">270982</a></th>
   <th>Ксения Немчинова</th>
   <th>Во всех качествах</th>
   <th>6 месяцев</th>
   <th>до 29.10.2023</th>
   <th>По <a href="https://www.maii.li/docs/2023-04-29-reshenie-dg-10-(po-povodu-diskvalifikacii-ksenii-nemchinovoj)/">решению ДГ №10</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/2954">2954</a></th>
+  <th>Андрей Белов</th>
+  <th>На офлайн-турнирах — во всех качествах</th>
+  <th>2 года</th>
+  <th>до 10.02.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2022-02-10-reshenie-dg-2-(po-povodu-diskvalifikacii-andreya-belova)/">решению ДГ №2</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.maii.li/b/player/197119">197119</a></th>
@@ -65,12 +78,12 @@ Body
   <th>По <a href="https://teletype.in/@diskom/mak_20.03.2019">решению ДК МАК</a><a href="note">*</a></th>
   </tr>
 <tr>
-  <th><a href="https://rating.maii.li/b/player/2954">2954</a></th>
-  <th>Андрей Белов</th>
-  <th>На офлайн-турнирах — во всех качествах</th>
-  <th>2 года</th>
-  <th>до 10.02. 2024</th>
-  <th>По <a href="https://www.maii.li/docs/2022-02-10-reshenie-dg-2-(po-povodu-diskvalifikacii-andreya-belova)/">решению ДГ №2</a></th>
+  <th><a href="https://rating.maii.li/b/player/168110">168110</a></th>
+  <th>Игорь Койфман</th>
+  <th>От участия в онлайн-турнирах</th>
+  <th>1 год</th>
+  <th>до 01.07.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/">решению ДГ №11</a></th>
   </tr>
 <tr>
   <th><a href="https://rating.maii.li/b/player/268881">268881</a></th>
