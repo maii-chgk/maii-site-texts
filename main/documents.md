@@ -82,7 +82,7 @@ Body
 - [Регламент информационной группы](https://www.maii.li/docs/2021-07-25-reglament-informacionnoj-rabochej-gruppy/)
 - [Регламент молодёжной группы](https://www.maii.li/docs/2022-12-19-reglament-molodyozhnoj-rabochej-gruppy/)
 - [Регламент по переводам документов](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-perevodam-dokumentov/)
-- [Регламент по правилам](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-razrabotke-i-sovershenstvovaniyu-pravil-igr/)
+- [Регламент по правилам](https://www.maii.li/docs/2023-08-28-reglament-gruppy-po-pravilam-maii/)
 - [Регламент группы по рейтингу](https://www.maii.li/docs/2021-07-25-reglament-rabochej-gruppy-po-rejtingu/)
 - [Регламент турнирной группы](https://www.maii.li/docs/2021-07-25-reglament-turnirnoj-rabochej-gruppy/)
 - [Регламент уставной группы](https://www.maii.li/docs/2021-07-25-reglament-ustavnoj-rabochej-gruppy/)
