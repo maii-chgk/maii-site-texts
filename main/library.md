@@ -1,7 +1,7 @@
-Title
-Библиотека
+---
+title: Библиотека
+---
 
-Lead
 В этом разделе собраны материалы, которые могут быть интересны игрокам, тренерам, редакторам и авторам вопросов, а также организаторам соревнований по интеллектуальным играм. Если у вас есть дополнения — пишите на info@maii.li
 
 Body
@@ -93,7 +93,7 @@ Body
 ### Статьи
 
 - [Как организаторам синхронов проверять заявки: неофициальная инструкция](https://igra1.livejournal.com/2877606.html).
-- [Инструкция по оформлению отчётов для турнирного сайта](https://drive.google.com/file/d/1y4MPM2tnkQ5umHgYtCrWrBBtrd5zdMCi/view)[*](#rating).
+- [Инструкция по оформлению отчётов для турнирного сайта](https://drive.google.com/file/d/1y4MPM2tnkQ5umHgYtCrWrBBtrd5zdMCi/view)[\*](#rating).
 - [Куда писать о проблемах на турнирном сайте](https://github.com/gltronred/awesome-chgk/blob/master/rating-chgk-info-problems-asking-for-help.md).
 
 <small><a name="rating"></a>Здесь и далее под «турнирным сайтом» подразумевается rating.chgk.info, который ранее назывался «сайтом рейтинга».</small>
@@ -108,6 +108,10 @@ Body
 - [Программа для подсчёта очков спортивной «Своей игры»](https://ph1l74.github.io/si/) (открывается прямо в браузере).
 - [Программа для подсчёта очков спортивной «Своей игры» с раундами](https://ph1l74.github.io/si-old/) (открывается прямо в браузере).
 - [Программа для подсчёта очков спортивной «Своей игры»](https://sourceforge.net/projects/sihelper/) (надо скачивать). *Автор — Майк Иванов, последнее обновление было сделано в 2015 году.*
+
+### Таблицы
+- [Шаблоны таблиц](https://drive.google.com/drive/folders/1SrjwW0G4iB7WbubFuwzMzcOVZ19jLAoz) для проведения синхронных турниров на 36 и 45 вопросов. *Автор — Александр Петраков.*
+
 
 <small>*[Наверх](#atop)*</small>
 
@@ -140,6 +144,7 @@ Body
 - [Интервью проекта «Молодёжный кубок "Дружба народов"»](http://youthcupofnations.tilda.ws/interviews).
 - [Сайт Riddler](https://riddler.li/). Здесь собраны интервью и иные материалы, посвященные студенческим интеллектуальным играм и не только. 
 - [Посвящённый интеллектуальным играм сайт Марии Крыленко](https://web.archive.org/web/20210418004136/http://www.krylenko.com/chgk/) (версия из веб-архива).
+- [Интервью Александра Барбакадзе ИА Regnum](https://regnum.ru/article/1732859) (2013).
 - Интервью с редакторами фестиваля «Город героев — 2017): [Сергеем Спешковым](https://billo-varenn.livejournal.com/387326.html), [Максимом Мерзляковым](https://billo-varenn.livejournal.com/387458.html), [Михаилом Савченковым](https://billo-varenn.livejournal.com/388513.html).
 - Аудиоинтервью с [израильским знатоком Ильёй Тальянским](https://open.spotify.com/episode/3dBG5BSwCP7PoaiN96Q2Gq?si=059bf21c834d432a&nd=1) (2023).
 
