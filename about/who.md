@@ -315,6 +315,7 @@ subtitle: В Международной ассоциации интеллект�
         <li><a href="https://www.maii.li/docs/2022-02-17-itogi-oprosa-po-principam-zachyota/">Итоги опроса по принципам зачёта ответов (февраль 2022 года)</a></li>
     	<li><a href="https://www.maii.li/news/2022-01-17-opros-po-principam-zachyota-otvetov/">Опрос по принципам зачёта ответов (январь 2022 года)</a></li>
     	<li><a href="https://www.maii.li/news/2021-10-21-obsuzhdenie-proekta-obnovlyonnyh-pravil-igry/">Обсуждение проекта обновлённых правил (октябрь 2021 года)</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1ftFpEh_B8rTIqRkwpEsfiRzyVysjr54k?usp=sharing">Апелляции с 2011-го по лето 2023 года (csv, txt)</a>. Кроме самих апелляций — состав АЖ и тексты вопросов</li>
     </ul>
 </details>
 <br>
