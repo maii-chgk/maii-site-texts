@@ -14,30 +14,6 @@ title: Дисквалифицированные на турнирах под э�
 </thead>
 <tbody>
 <tr>
-  <th><a href="https://rating.maii.li/b/player/197119">197119</a></th>
-  <th>Александр Рекунов</th>
-  <th>Во всех качествах</th>
-  <th>6 месяцев</th>
-  <th>до 21.08.2023</th>
-  <th>По <a href="https://www.maii.li/docs/2023-02-21-reshenie-dg-5-(po-povodu-diskvalifikacii-aleksandra-rekunova)/">решению ДГ №5</a></th>
-  </tr>
-<tr>
-  <th><a href="https://rating.maii.li/b/player/145125">145125</a></th>
-  <th>Алексей Агапов</th>
-  <th>В качестве игрока на онлайн-турнирах</th>
-  <th>6 месяцев</th>
-  <th>до 15.09.2023</th>
-  <th>По <a href="https://www.maii.li/docs/2023-03-15-reshenie-dg-8-(po-povodu-diskvalifikacii-alekseya-agapova)/">решению ДГ №8</a></th>
-  </tr>
-<tr>
-  <th><a href="https://rating.maii.li/b/player/168110">168110</a></th>
-  <th>Игорь Койфман</th>
-  <th>Во всех качествах</th>
-  <th>3 месяца</th>
-  <th>до 01.10.2023</th>
-  <th>По <a href="https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/">решению ДГ №11</a></th>
-  </tr>
-<tr>
   <th><a href="https://rating.maii.li/b/player/270982">270982</a></th>
   <th>Ксения Немчинова</th>
   <th>Во всех качествах</th>
