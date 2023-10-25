@@ -615,8 +615,9 @@ subtitle: В Международной ассоциации интеллект�
  <summary>Иное</summary>
 	<ul>
 		 <li><a href="https://www.maii.li/docs/2021-09-05-faq-po-egide-i-rejtingu-maii">FAQ по рейтингу и эгиде</a>.</li>
-		 <li><a href="https://www.maii.li/news/2021-10-06-pokaz-voprosov-na-ekranah-na-rejtinguemyh-turnirah:-razuyasnenie-turnirnoj-gruppy-maii/">Разъяснение по поводу показа вопросов на рейтингуемых турнирах</a>.</li>
-		 <li><a href="https://www.maii.li/docs/2022-01-06-faq-po-chempionatu-mira/">FAQ по чемпионату мира</a>.</li>
+         <li><a href="https://www.maii.li/docs/2022-01-06-faq-po-chempionatu-mira/">FAQ по чемпионату мира</a>.</li>
+         <li><a href="https://www.maii.li/docs/2023-10-25-otzyv-egidy-u-turnirov-iz-za-problem-s-podachej-apellyacij/">Решение об отзыве эгиды из-за сроков апелляций</a> (25.10.2023).</li>
+		 <li><a href="https://www.maii.li/news/2021-10-06-pokaz-voprosov-na-ekranah-na-rejtinguemyh-turnirah:-razuyasnenie-turnirnoj-gruppy-maii/">Разъяснение по поводу показа вопросов на рейтингуемых турнирах</a> (06.10.2021).</li>
 		 <li><a href="https://teletype.in/@maii/egida_maii">Интервью с координатором турнирной группы Владимиром Островским</a></li>
 	</ul>
 </details>
