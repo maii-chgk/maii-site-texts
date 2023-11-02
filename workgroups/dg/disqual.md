@@ -14,14 +14,6 @@ title: Дисквалифицированные на турнирах под э�
 </thead>
 <tbody>
 <tr>
-  <th><a href="https://rating.maii.li/b/player/270982">270982</a></th>
-  <th>Ксения Немчинова</th>
-  <th>Во всех качествах</th>
-  <th>6 месяцев</th>
-  <th>до 29.10.2023</th>
-  <th>По <a href="https://www.maii.li/docs/2023-04-29-reshenie-dg-10-(po-povodu-diskvalifikacii-ksenii-nemchinovoj)/">решению ДГ №10</a></th>
-  </tr>
-<tr>
   <th><a href="https://rating.maii.li/b/player/2954">2954</a></th>
   <th>Андрей Белов</th>
   <th>На офлайн-турнирах — во всех качествах</th>
