@@ -81,7 +81,10 @@ title: Библиотека
 
 ### Программы <a name="programs"></a>
 
-1. <a name="chgksuite"></a>[chgksuite](https://chgksuite.pecheny.me/) — это система для работы с пакетами ЧГК. Она позволяет единообразно оформить вопросы, а также экспортировать их в разные форматы, в том числе с использованием спойлеров для ответов и комментариев. Есть [чат поддержки](https://t.me/chgksuite), а также [код на gitlab](https://gitlab.com/peczony/chgksuite).
+1. <a name="chgksuite"></a>[chgksuite](https://chgksuite.pecheny.me/) — это система для работы с пакетами ЧГК. Она позволяет единообразно оформить вопросы, а также экспортировать их в разные форматы, в том числе с использованием спойлеров для ответов и комментариев. 
+- [чат поддержки](https://t.me/chgksuite), 
+- [видеоинструкция](https://youtu.be/dUQJCNTUYJk),
+- [код на gitlab](https://gitlab.com/peczony/chgksuite).
 
 <small>*[Наверх](#atop)*</small>
 
