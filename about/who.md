@@ -199,6 +199,7 @@ subtitle: В Международной ассоциации интеллект�
  <summary>Документы</summary>
 <ul>
  <li><a href="https://www.maii.li/docs/2021-07-25-reglament-it-gruppy/">Регламент</a></li>
+ <li><a href="https://www.maii.li/docs/2024-02-02-otchyot-it-gruppy-s-avgusta-2023-goda-po-fevral-2024-goda//">Отчёт за пятое полугодие (02.02.2024)</a></li>
  <li><a href="https://www.maii.li/docs/2023-08-06-otchyot-it-gruppy-s-avgusta-2022-goda-po-avgust-2023-goda/">Отчёт по итогам третьего и четвёртого полугодий работы (06.08.2023)</a></li>
  <li><a href="https://www.maii.li/docs/2022-07-27-otchyot-it-gruppy-po-itogam-vtorogo-polugodiya-raboty/">Отчёт по итогам второго полугодия работы (27.07.2022)</a></li>
  <li><a href="https://www.maii.li/docs/2022-02-19-otchyot-it-gruppy-po-itogam-pervogo-polugodiya-raboty/">Отчёт по итогам первого полугодия работы (19.02.2022)</a></li>
