@@ -79,6 +79,7 @@ subtitle: В Международной ассоциации интеллект�
  <ul>
  <li><a href="https://www.maii.li/docs/2021-05-29-polozhenie-ob-ispolnitelnom-komitete-mezhdunarodnoj-associacii-intellektualnyh-igr/">Положение об исполкоме</a></li>
  <li><a href="https://www.maii.li/docs/2021-12-05-reglament-priyoma-chlenov-mezhdunarodnoj-associacii-intellektualnyh-igr/">Регламент приёма членов МАИИ</a></li>
+ <li><a href="https://www.maii.li/docs/2024-02-04-protokol-zasedaniya-ispolkoma-maii-7-ot-02.02.2024">Протокол заседания № 7 от 02.02.2024</a></li>
  <li><a href="https://www.maii.li/docs/2023-05-22-protokol-zasedaniya-ispolkoma-maii-6-ot-09.05.2023/">Протокол заседания № 6 от 09.05.2023</a></li>
  <li><a href="https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./">Отчёт о работе за 2021–2022 годы</a></li>
  <li><a href="https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./">Отчёт о работе за 2022–2023 годы</a></li>
