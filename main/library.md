@@ -95,8 +95,12 @@ subtitle: В этом разделе собраны материалы, кото
 ---------
 
 ## Организаторам <a name="organizers"></a>
+
+- [Статьи](#articles-for-organizers)
+- [Программы](#programs-for-organizers)
+- [Таблицы](#tables-for-organizers)
  
-### Статьи
+### Статьи <a name="articles-for-organizers"></a>
 
 - [Как организаторам синхронов проверять заявки: неофициальная инструкция](https://igra1.livejournal.com/2877606.html).
 - [Инструкция по оформлению отчётов для турнирного сайта](https://docs.google.com/document/d/1HBaXgJocn9ihiCvnVsp0EW3lWr2-mVoiMYPv5rluNi4/edit?usp=sharing)[\*](#rating).
@@ -104,10 +108,11 @@ subtitle: В этом разделе собраны материалы, кото
 
 <small><a name="rating"></a>Здесь и далее под «турнирным сайтом» подразумевается rating.chgk.info, который ранее назывался «сайтом рейтинга».</small>
 
-### Программы
+### Программы <a name="programs-for-organizers"></a>
 
 - [Телеграм-бот для оповещения о новых заявках на турнирном сайте](https://t.me/chgknews/542). Чат с поддержкой [тут](https://t.me/chgksuite). *Автор — Александр Печеный.*
 - [Онлайн-генератор бланков](http://old.chgk-res.ru/blanks_generator/) (умеет добавлять и штрих-коды).
+- [Онлайн-генератор бланков](https://blank.shchr.ru/). *Автор — Евгений Кан.*
 - [Скрипты для генерации бланков](https://gitlab.com/peczony/blanks_gen). *Автор — Александр Печеный.*
 - [Таймер для ЧГК](https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer) (скачивать в Google Play). *Автор — Александр Овчаренко.*
 - [Таймер для ЧГК](https://play.google.com/store/apps/details?id=biz.artega.timer.chgk) (скачивать в Google Play). *Автор — Сергей Завротский.*
@@ -116,7 +121,8 @@ subtitle: В этом разделе собраны материалы, кото
 - [Программа для подсчёта очков спортивной «Своей игры» с раундами](https://ph1l74.github.io/si-old/) (открывается прямо в браузере).
 - [Программа для подсчёта очков спортивной «Своей игры»](https://sourceforge.net/projects/sihelper/) (надо скачивать). *Автор — Майк Иванов, последнее обновление было сделано в 2015 году.*
 
-### Таблицы
+### Таблицы <a name="tables-for-organizers"></a>
+*Для проведения как синхронов, так и очных турниров*
 - [Сайт «Есть вопросы?»](https://gotquestions.online/), [краткая инструкция](https://t.me/chgknews/639). *Автор — Александр Бережинский*.
 - [Шаблоны таблиц](https://drive.google.com/drive/folders/1SrjwW0G4iB7WbubFuwzMzcOVZ19jLAoz) для проведения синхронных турниров на 36 и 45 вопросов. *Автор — Александр Петраков.*
 - [Видеоинструкция](https://youtu.be/3J60QTNIm04) по тому, как генерировать таблицы ЧГК и спортивной «Своей игры». *Автор — Александр Печеный*.
