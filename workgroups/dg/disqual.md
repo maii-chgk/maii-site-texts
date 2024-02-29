@@ -54,6 +54,86 @@ title: Дисквалифицированные на турнирах под э�
   <th>По <a href="https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/">решению ДГ №11</a></th>
   </tr>
 <tr>
+  <th><a href="https://rating.maii.li/b/player/232346">232346</a></th>
+  <th>Игорь Рубаник</th>
+  <th>От участия в офлайн-турнирах</th>
+  <th>6 месяцев</th>
+  <th>до 09.08.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/131124">131124</a></th>
+  <th>Евгений Залюбовский</th>
+  <th>От участия в офлайн-турнирах</th>
+  <th>6 месяцев</th>
+  <th>до 09.08.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/246265">246265</a></th>
+  <th>Елена Бабенко</th>
+  <th>От участия в офлайн-турнирах</th>
+  <th>6 месяцев</th>
+  <th>до 09.08.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/246983">246983</a></th>
+  <th>Ирина Розум</th>
+  <th>От участия в офлайн-турнирах</th>
+  <th>6 месяцев</th>
+  <th>до 09.08.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/246981">246981</a></th>
+  <th>Михаил Иванов</th>
+  <th>От участия в офлайн-турнирах</th>
+  <th>6 месяцев</th>
+  <th>до 09.08.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/232346">232346</a></th>
+  <th>Игорь Рубаник</th>
+  <th>От участия в онлайн-турнирах</th>
+  <th>1 год</th>
+  <th>до 08.02.2025</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/131124">131124</a></th>
+  <th>Евгений Залюбовский</th>
+  <th>От участия в онлайн-турнирах</th>
+  <th>1 год</th>
+  <th>до 08.02.2025</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/246265">246265</a></th>
+  <th>Елена Бабенко</th>
+  <th>От участия в онлайн-турнирах</th>
+  <th>1 год</th>
+  <th>до 08.02.2025</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/246983">246983</a></th>
+  <th>Ирина Розум</th>
+  <th>От участия в онлайн-турнирах</th>
+  <th>1 год</th>
+  <th>до 08.02.2025</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/246981">246981</a></th>
+  <th>Михаил Иванов</th>
+  <th>От участия в онлайн-турнирах</th>
+  <th>1 год</th>
+  <th>до 08.02.2025</th>
+  <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
+  </tr>
+<tr>
   <th><a href="https://rating.maii.li/b/player/268881">268881</a></th>
   <th>Нурсултан Хасанов</th>
   <th>Во всех качествах</th>
