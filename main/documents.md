@@ -62,6 +62,7 @@ Body
 - [Решение №10 от 29.04.2023 (по поводу дисквалификации Ксении Немчиновой)](https://www.maii.li/docs/2023-04-29-reshenie-dg-10-(po-povodu-diskvalifikacii-ksenii-nemchinovoj)/).
 - [Ответы на самые часто задаваемые вопросы по делу Плотникова (31.07.2023)](https://www.maii.li/p/faq-plotnikov).
 - [Решение №11 от 17.08.2023 (по поводу дисквалификации Игоря Койфмана)](https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/).
+- [Решение №12 от 08.02.2024 (по поводу команды «Полусухарик»)](https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/).
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 <small>[К оглавлению](#top)</small>
