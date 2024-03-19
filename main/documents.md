@@ -2,8 +2,6 @@
 title: Документы
 ---
 
-Body
-
 - [Устав](#statute) <a name="top"></a>
 - [Правила](#rules)
 - [Рейтинг](#rating)
@@ -106,6 +104,7 @@ Body
 - [Протокол общего собрания МАИИ от 28.08.2022](https://www.maii.li/docs/2022-08-30-protokol-obshego-sobraniya-maii-ot-28.08.2022/).
 - [Протокол общего собрания МАИИ от 21.12.2022](https://www.maii.li/docs/2022-12-21-protokol-obshego-sobraniya-maii-ot-21.12.2022/).
 - [Протокол общего собрания МАИИ от 30.04.2023](https://www.maii.li/docs/2023-05-03-protokol-obshego-sobraniya-maii-ot-30.04.2023/).
+- [Протокол общего собрания МАИИ от 10.03.2024](https://www.maii.li/docs/2024-03-19-protokol-obshego-sobraniya-maii-ot-10.03.2024).
 
 Подробнее об общих собраниях см. [здесь](https://www.maii.li/p/os).
 
