@@ -61,6 +61,7 @@ title: Документы
 - [Ответы на самые часто задаваемые вопросы по делу Плотникова (31.07.2023)](https://www.maii.li/p/faq-plotnikov).
 - [Решение №11 от 17.08.2023 (по поводу дисквалификации Игоря Койфмана)](https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/).
 - [Решение №12 от 08.02.2024 (по поводу команды «Полусухарик»)](https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/).
+- [Решение №13 от 28.03.2024 (по поводу площадки в Усть-Каменогорске)](https://www.maii.li/docs/2024-03-28-reshenie-dg-13-(po-povodu-ploshadki-v-ust-kamenogorske)/).
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 <small>[К оглавлению](#top)</small>
