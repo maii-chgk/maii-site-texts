@@ -7,6 +7,7 @@ subtitle: Что такое МАИИ, почему она возникла, че
 - [Органы МАИИ](#organs)
 - [Чем мы занимаемся?](#work)
 - [Как вступить?](#join)
+- [Как поддержать?](#donate)
 - [Информационные ресурсы](https://www.maii.li/docs/2022-02-03-putevoditel-po-informacionnym-resursam-maii/)
 - [FAQ](https://www.maii.li/p/faq)
 - [История](#history)
@@ -49,6 +50,10 @@ subtitle: Что такое МАИИ, почему она возникла, че
 ## Как вступить в МАИИ?<a name="join"></a>
 
 Для этого нужно заполнить [форму](https://www.maii.li/#join) на нашем сайте. Дальнейшие инструкции придут вам на почту — не забудьте проверять как её саму, так и папку «Спам». 
+
+## Как поддержать? <a name="donate"></a>
+
+Поддержать работу МАИИ можно пожертвованием. Сделать это можно на платформе [Open Collective](https://www.maii.li/p/payment-instruction#open-collective-how) (она принимает оплаты банковскими картами большинства стран мира или Paypal), а также с помощью [сбора «Тинькофф»](https://www.maii.li/p/payment-instruction#russian-card-how).
 
 ## История <a name="history"></a>
 

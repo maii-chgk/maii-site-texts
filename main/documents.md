@@ -70,6 +70,7 @@ title: Документы
 
 - [Положение о членстве в МАИИ](https://www.maii.li/docs/2021-05-29-polozhenie-o-chlenstve-mezhdunarodnoj-associacii-intellektualnyh-igr/)
 - [Регламент приёма членов МАИИ](https://www.maii.li/docs/2021-12-05-reglament-priyoma-chlenov-mezhdunarodnoj-associacii-intellektualnyh-igr/)
+- [Инструкция по оплате членских взносов](https://www.maii.li/p/payment-instruction)
 
 <small>[К оглавлению](#top)</small>
 
