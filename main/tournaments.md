@@ -1,10 +1,8 @@
-Title
-Турниры
+---
+title: Турниры
+subtitle: Интеллектуальные игры проводятся для людей разных возрастов, опыта и вовлечённости. Ниже описываем, где можно найти информацию об играх на любой вкус
+---
 
-Lead
-Интеллектуальные игры проводятся для людей разных возрастов, опыта и вовлечённости. Ниже описываем, где можно найти информацию об играх на любой вкус
-
-Body
 - [Агрегаторы](#aggregators).<a name="atop"></a>
 - [Чемпионаты мира](#world).
 - [Чемпионаты стран](#countries).
@@ -93,6 +91,7 @@ Body
 - [Великобритания](https://www.maii.li/p/countries-gbritain).
 - [Казахстан](https://www.maii.li/p/countries-kazakhstan).
 - [Кипр](https://www.maii.li/p/countries-cyprus).
+- [Латвия](https://www.maii.li/p/countries-latvija).
 - [Польша](https://www.maii.li/p/countries-polska).
 - [Туркменистан](https://www.maii.li/p/countries-turkmenistan).
 - [Чехия](https://www.maii.li/p/countries-cesko).
