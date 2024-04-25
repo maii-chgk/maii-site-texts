@@ -482,6 +482,7 @@ subtitle: В Международной ассоциации интеллект�
             <li><a href="https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/">Решение №11 от 17.08.2023 (по поводу дисквалификации Игоря Койфмана)</a></li>
             <li><a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">Решение №12 от 08.02.2024 (по поводу команды «Полусухарик»)</a></li>
             <li><a href="https://www.maii.li/docs/2024-03-28-reshenie-dg-13-(po-povodu-ploshadki-v-ust-kamenogorske)/">Решение №13 от 28.03.2024 (по поводу площадки в Усть-Каменогорске)</a></li>
+            <li><a href="https://www.maii.li/docs/2024-04-23-reshenie-dg-14-(po-povodu-zasvetki-voproosov-vitaliem-pasichnym)/">Решение №14 от 23.04.2024 (по поводу засветки вопросов Виталием Пасичным)</a></li>
        </ul>
 </details>
 <details>
