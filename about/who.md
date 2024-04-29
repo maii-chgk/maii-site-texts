@@ -164,6 +164,7 @@ subtitle: В Международной ассоциации интеллект�
 
 ### Состав (пока не собран) <a name="it-now"></a>
 - Мансур Зиятдинов (координатор, [утверждён](https://www.maii.li/news/2024-03-11-kratkie-itogi-martovskogo-obshego-sobraniya/) 11 марта 2024 года),
+- Юрий Разумов.
 
 ### Прежние составы <a name="ex-it"></a>
 
@@ -324,6 +325,7 @@ subtitle: В Международной ассоциации интеллект�
     	<li><a href="https://www.maii.li/news/2022-01-17-opros-po-principam-zachyota-otvetov/">Опрос по принципам зачёта ответов (январь 2022 года)</a></li>
     	<li><a href="https://www.maii.li/news/2021-10-21-obsuzhdenie-proekta-obnovlyonnyh-pravil-igry/">Обсуждение проекта обновлённых правил (октябрь 2021 года)</a></li>
         <li><a href="https://drive.google.com/drive/folders/1ftFpEh_B8rTIqRkwpEsfiRzyVysjr54k?usp=sharing">Апелляции с 2011-го по лето 2023 года (csv, txt)</a>. Кроме самих апелляций — состав АЖ и тексты вопросов</li>
+        <li><a href="https://www.maii.li/docs/2024-04-16-otvet-gruppy-po-pravilam-na-vopros-ob-istochnikah/">Ответ группы по правилам на обращение об источниках (16.04.2024)</a></li>
         <li><a href="https://www.maii.li/docs/2024-03-28-otvet-gruppy-po-pravilam-na-vopros-ob-opisatelnyh-otvetah/">Ответ группы по правилам на обращение об описательных ответах (28.03.2024)</a></li>
         <li><a href="https://www.maii.li/docs/2024-03-25-otvet-gruppy-po-pravilam-na-vopros-o-roli-organizacionnoj-gruppy/">Ответ группы по правилам на обращение о роли организационной группы (25.03.2024)</a></li>
         <li><a href="https://www.maii.li/docs/2023-10-19-otvet-gruppy-po-pravilam-na-vopros-o-podvoprosah/">Ответ группы по правилам на обращение о подвопросах (19.10.2023)</a></li>
@@ -483,6 +485,7 @@ subtitle: В Международной ассоциации интеллект�
             <li><a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">Решение №12 от 08.02.2024 (по поводу команды «Полусухарик»)</a></li>
             <li><a href="https://www.maii.li/docs/2024-03-28-reshenie-dg-13-(po-povodu-ploshadki-v-ust-kamenogorske)/">Решение №13 от 28.03.2024 (по поводу площадки в Усть-Каменогорске)</a></li>
             <li><a href="https://www.maii.li/docs/2024-04-23-reshenie-dg-14-(po-povodu-zasvetki-voproosov-vitaliem-pasichnym)/">Решение №14 от 23.04.2024 (по поводу засветки вопросов Виталием Пасичным)</a></li>
+            <li><a href="https://www.maii.li/docs/2024-04-25-reshenie-dg-15-(po-povodu-ploshadki-v-varshave)/">Решение №15 от 25.04.2024 (по поводу площадки в Варшаве)</a></li>
        </ul>
 </details>
 <details>

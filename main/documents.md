@@ -63,6 +63,7 @@ title: Документы
 - [Решение №12 от 08.02.2024 (по поводу команды «Полусухарик»)](https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/).
 - [Решение №13 от 28.03.2024 (по поводу площадки в Усть-Каменогорске)](https://www.maii.li/docs/2024-03-28-reshenie-dg-13-(po-povodu-ploshadki-v-ust-kamenogorske)/).
 - [Решение №14 от 23.04.2024 (по поводу засветки вопросов Виталием Пасичным)](https://www.maii.li/docs/2024-04-23-reshenie-dg-14-(po-povodu-zasvetki-voproosov-vitaliem-pasichnym)/).
+- [Решение №15 от 25.04.2024 (по поводу засветки площадки в Варшаве)](https://www.maii.li/docs/2024-04-25-reshenie-dg-15-(po-povodu-ploshadki-v-varshave)/).
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 <small>[К оглавлению](#top)</small>
