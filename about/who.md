@@ -397,6 +397,7 @@ subtitle: В Международной ассоциации интеллект�
         	<li><a href="https://www.maii.li/docs/2022-04-29-otchyot-gruppy-po-rejtingu-o-prodelannoj-rabote/">Отчёт о первом полугодии работы (29.04.2022)</a></li>
         	<li><a href="https://www.maii.li/docs/2022-08-24-otchyot-gruppy-po-rejtingu-za-vtoroe-polugodie-raboty/">Отчёт о втором полугодии работы (24.08.2022)</a></li>
         	<li><a href="https://www.maii.li/docs/2023-02-27-otchyot-gruppy-po-rejtingu-o-tretem-polugodii-raboty/">Отчёт о третьем полугодии работы (27.02.2023)</a></li>
+            <li><a href="https://www.maii.li/docs/2024-04-08-otchyot-gruppy-po-rejtingu-za-chetvyortoe-i-pyatoe-polugodiya-raboty-(08.04.2024)/">Отчёт о четвёртом и пятом полугодиях работы (08.04.2024)</a></li>
        </ul>
 </details>
 <details>

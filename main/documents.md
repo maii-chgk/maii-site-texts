@@ -165,7 +165,7 @@ title: Документы
 - [Отчёт IT-группы за 2022–2023 годы (06.08.2023)](https://www.maii.li/docs/2023-08-06-otchyot-it-gruppy-s-avgusta-2022-goda-po-avgust-2023-goda/).
 - [Отчёт группы по правилам за 2021–2023 годы (10.08.2023)](https://www.maii.li/docs/2023-08-11-otchyot-gruppy-po-pravilam-za-20212023-gody/).
 - [Отчёт IT-группы за 2023–2024 годы (02.02.2024)](https://www.maii.li/docs/2024-02-02-otchyot-it-gruppy-s-avgusta-2023-goda-po-fevral-2024-goda/).
-
+- [Отчёт группы по рейтингу о четвёртом и пятом полугодии работы (08.04.2024)](https://www.maii.li/docs/2024-04-08-otchyot-gruppy-po-rejtingu-za-chetvyortoe-i-pyatoe-polugodiya-raboty-(08.04.2024)/).
 
 <small>[К оглавлению](#top)</small>
 
