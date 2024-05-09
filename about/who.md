@@ -488,6 +488,7 @@ subtitle: В Международной ассоциации интеллект�
             <li><a href="https://www.maii.li/docs/2024-03-28-reshenie-dg-13-(po-povodu-ploshadki-v-ust-kamenogorske)/">Решение №13 от 28.03.2024 (по поводу площадки в Усть-Каменогорске)</a></li>
             <li><a href="https://www.maii.li/docs/2024-04-23-reshenie-dg-14-(po-povodu-zasvetki-voproosov-vitaliem-pasichnym)/">Решение №14 от 23.04.2024 (по поводу засветки вопросов Виталием Пасичным)</a></li>
             <li><a href="https://www.maii.li/docs/2024-04-25-reshenie-dg-15-(po-povodu-ploshadki-v-varshave)/">Решение №15 от 25.04.2024 (по поводу площадки в Варшаве)</a></li>
+            <li><a href="https://www.maii.li/docs/2024-05-09-reshenie-dg-16-(po-povodu-komandy-zhaki-fresko)/">Решение №16 от 09.05.2024 (по поводу команды «Жаки Фреско»)</a></li>
        </ul>
 </details>
 <details>
