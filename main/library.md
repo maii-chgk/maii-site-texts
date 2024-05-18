@@ -72,6 +72,8 @@ subtitle: В этом разделе собраны материалы, кото
 
 **15.** Сергей Литвинов. [Как оформить пакет вопросов ЧГК](https://chgk-rostov.ru/articles/how-to-make-a-package-of-chgk-questions).
 
+**16.** Михаил Иванов. [Пара мыслей о сборке ЧГК-пакетов](https://www.maii.li/p/library-assembling-mike) (2009).
+
 ### Разное <a name="other"></a>
 
 **1.** Сергей Терентьев. [Обозревая классиков. Вопросы команды «Мозговорот»](https://iqga.me/articles/5652/).
