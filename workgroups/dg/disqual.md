@@ -62,6 +62,30 @@ title: Дисквалифицированные на турнирах под э�
   <th>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></th>
   </tr>
 <tr>
+  <th><a href="https://rating.maii.li/b/player/274410">274410</a></th>
+  <th>Александр Томилов</th>
+  <th>От участия в турнирах под эгидой МАИИ в качестве игрока</th>
+  <th>3 месяца</th>
+  <th>до 09.08.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-05-09-reshenie-dg-16-(po-povodu-komandy-zhaki-fresko)/">решению ДГ №16</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/274410">274410</a></th>
+  <th>Александр Томилов</th>
+  <th>Во всех качествах, кроме игрока</th>
+  <th>6 месяцев</th>
+  <th>до 09.11.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-05-09-reshenie-dg-16-(po-povodu-komandy-zhaki-fresko)/">решению ДГ №16</a></th>
+  </tr>
+<tr>
+  <th><a href="https://rating.maii.li/b/player/303730">303730</a></th>
+  <th>Анатолий Шурмов</th>
+  <th>В качестве ведущего</th>
+  <th>6 месяцев</th>
+  <th>до 09.11.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-05-09-reshenie-dg-16-(po-povodu-komandy-zhaki-fresko)/">решению ДГ №16</a></th>
+  </tr>
+<tr>
   <th><a href="https://rating.maii.li/b/player/232346">232346</a></th>
   <th>Игорь Рубаник</th>
   <th>От участия в онлайн-турнирах</th>
