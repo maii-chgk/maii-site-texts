@@ -65,6 +65,7 @@ title: Документы
 - [Решение №14 от 23.04.2024 (по поводу засветки вопросов Виталием Пасичным)](https://www.maii.li/docs/2024-04-23-reshenie-dg-14-(po-povodu-zasvetki-voproosov-vitaliem-pasichnym)/).
 - [Решение №15 от 25.04.2024 (по поводу засветки площадки в Варшаве)](https://www.maii.li/docs/2024-04-25-reshenie-dg-15-(po-povodu-ploshadki-v-varshave)/).
 - [Решение №16 от 09.05.2024 (по поводу команды «Жаки Фреско»)](https://www.maii.li/docs/2024-05-09-reshenie-dg-16-(po-povodu-komandy-zhaki-fresko)/)
+- [Решение №17 от 20.05.2024 (по поводу команды «Дилижанс»)](https://www.maii.li/docs/2024-05-20-reshenie-dg-17/)
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 
