@@ -29,22 +29,22 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td>Торонто</td>
 <td class ="uk-text-center">6</td>
 <td class ="uk-text-center">4</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">12</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">13</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/365">Вестимо</a></td>
 <td>Торонто</td>
 <td class ="uk-text-center">4</td>
-<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">6</td>
 <td class ="uk-text-center">1</td>
-<td class ="uk-text-center">10</td>
+<td class ="uk-text-center">11</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/271">Саша и медведи</a></td>
 <td>Торонто</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
 <td class ="uk-text-center">2</td>
 <td class ="uk-text-center">5</td>
 </tr>
@@ -63,14 +63,6 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">3</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/teams/216">Инк</a></td>
-<td>Пало-Альто</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/3620">Ридонахалы</a></td>
@@ -112,14 +104,6 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">1</td>
 </tr>
-<tr>
-<td><a href="https://rating.chgk.info/teams/1099">Дом</a></td>
-<td>Бостон</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-</tr>
 </tbody>
 </table>
 
@@ -141,37 +125,37 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <tr>
 <td><a href="https://rating.chgk.info/player/25232">Ефим Подвойский</a></td>
 <td class ="uk-text-center">7</td>
-<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">5</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">11</td>
+<td class ="uk-text-center">12</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/19025">Григорий Львович</a></td>
+<td class ="uk-text-center">6</td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">13</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/15565">Александр Копылёв</a></td>
 <td class ="uk-text-center">6</td>
 <td class ="uk-text-center">4</td>
 <td class ="uk-text-center">2</td>
 <td class ="uk-text-center">12</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/15565">Александр Копылёв</a></td>
-<td class ="uk-text-center">6</td>
-<td class ="uk-text-center">4</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">11</td>
-</tr>
-<tr>
 <td><a href="https://rating.chgk.info/player/11726">Тимур Зильберштейн</a></td>
 <td class ="uk-text-center">5</td>
-<td class ="uk-text-center">6</td>
+<td class ="uk-text-center">7</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">11</td>
+<td class ="uk-text-center">12</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/20373">Марина Мацкевич</a></td>
 <td class ="uk-text-center">5</td>
 <td class ="uk-text-center">4</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">10</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">11</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/14004">Ольга Кижло-Чёрная</a></td>
@@ -209,6 +193,20 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">8</td>
 </tr>
 <tr>
+<td><a href="https://rating.chgk.info/player/28212">Алексей Сапронов</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">7</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/37412">Ольга Ярославцева</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
 <td><a href="https://rating.chgk.info/player/12635">Ольга Иоффина</a></td>
 <td class ="uk-text-center">3</td>
 <td class ="uk-text-center">3</td>
@@ -216,25 +214,39 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">6</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/28212">Алексей Сапронов</a></td>
+<td><a href="https://rating.chgk.info/player/25889">Елена Потенко</a></td>
 <td class ="uk-text-center">3</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">6</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">7</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/37412">Ольга Ярославцева</a></td>
+<td><a href="https://rating.chgk.info/player/12073">Александр Иванов</a></td>
 <td class ="uk-text-center">3</td>
-<td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
 <td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/3268">Роман Бершадский</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/10284">Александра Езерская</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/18183">Елена Леменёва</a></td>
 <td class ="uk-text-center">2</td>
 <td class ="uk-text-center">2</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">6</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/24162">Леонид Папков</a></td>
@@ -244,31 +256,10 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">4</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/25889">Елена Потенко</a></td>
+<td><a href="https://rating.chgk.info/player/24154">Константин Папернов</a></td>
 <td class ="uk-text-center">2</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">4</td>
-<td class ="uk-text-center">7</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/12073">Александр Иванов</a></td>
+<td class ="uk-text-center">0</td>
 <td class ="uk-text-center">2</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">5</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/3268">Роман Бершадский</a></td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">4</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/10284">Александра Езерская</a></td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">4</td>
 </tr>
 <tr>
@@ -289,8 +280,8 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td><a href="https://rating.chgk.info/player/15566">Марина Копылёва</a></td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">3</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">6</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/23216">Ольга Овсянникова</a></td>
@@ -335,13 +326,6 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">3</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/24154">Константин Папернов</a></td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">4</td>
-</tr>
-<tr>
 <td><a href="https://rating.chgk.info/player/126367">Татьяна Леонова</a></td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">1</td>
@@ -354,6 +338,13 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/7031">Серж Галярский</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">4</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/19857">Феликс Маргулис</a></td>
@@ -382,41 +373,6 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/2448">Вадим Барановский</a></td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/15040">Леонид Койфман</a></td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/30072">Александр Солодухин</a></td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/13811">Роман Кацыв</a></td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/75770">Юлия Малышева</a></td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/52252">Максим Самадов</a></td>
@@ -456,9 +412,9 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <tr>
 <td><a href="https://rating.chgk.info/player/24903">Дмитрий Пикулик</a></td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">4</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">5</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/34467">Евгения Цукерштейн</a></td>
@@ -480,13 +436,6 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/7031">Серж Галярский</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">4</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/32558">Николай Ужов</a></td>
@@ -511,6 +460,13 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/36190">Леонид Шинделевич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/64716">Эд Шлотгауэр</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
@@ -615,13 +571,6 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">3</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/4863">Лев Вайсман</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">3</td>
-</tr>
-<tr>
 <td><a href="https://rating.chgk.info/player/48843">Мурод Хамроев</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
@@ -672,6 +621,13 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/56349">Асмик Карапетян</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/4863">Лев Вайсман</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">2</td>
@@ -790,35 +746,7 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 <td class ="uk-text-center">1</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/34649">Денис Чебыкин</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/9734">Вадим Дрибинский</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/58813">Наталья Бердникова</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/28988">Сергей Сиденко</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/54855">Борис Бердников</a></td>
+<td><a href="https://rating.chgk.info/player/75771">Ирина Петрович</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
@@ -993,14 +921,15 @@ subtitle: Чемпионаты Канады проводятся с 2005 год�
 
 **VIII чемпионат Канады** прошёл 19–20 мая 2012 года в Монреали. <a name="2012"></a>
 
-Победитель: **[Инк (Пало-Альто)](https://rating.chgk.info/team/216)**
-- Вадим Барановский
-- Леонид Койфман
-- Александр Солодухин
-- Роман Кацыв
-- Юлия Малышева
+Победитель: **[Саша и медведи (Торонто)](https://rating.chgk.info/team/271)**
+- Александр Иванов
+- Елена Потенко
+- Серж Галярский
+- Константин Папернов
+- Роман Бершадский
+- Александра Езерская
 
-Второе место заняла команда [Саша и медведи](https://rating.chgk.info/team/271) (Торонто), третье — [Дом](https://rating.chgk.info/team/1099) (Бостон).
+Второе место заняла команда [Вестимо](https://rating.chgk.info/team/365) (Торонто), третье — [Веретено](https://rating.chgk.info/team/1966) (Торонто).
 
 Полные результаты на [турнирном сайте](https://rating.chgk.info/tournament/2048).
 
