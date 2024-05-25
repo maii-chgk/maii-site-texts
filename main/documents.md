@@ -131,6 +131,7 @@ title: Документы
 - [Отчёт о работе за 2022-2023 годы](https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./).
 - [Протокол заседания № 6 от 09.05.2023](https://www.maii.li/docs/2023-05-22-protokol-zasedaniya-ispolkoma-maii-6-ot-09.05.2023/).
 - [Протокол заседания № 7 от 02.02.2024](https://www.maii.li/docs/2024-02-04-protokol-zasedaniya-ispolkoma-maii-7-ot-02.02.2024).
+- [Отчёт о работе за 2023-2024 годы](https://www.maii.li/docs/2024-05-24-otchyot-ispolkoma-maii-za-2023-2024-gody/)
 
 <small>[К оглавлению](#top)</small>
 
@@ -139,6 +140,7 @@ title: Документы
 - [Положение о контрольно-ревизионной комиссии](https://www.maii.li/docs/2021-05-29-polozhenie-o-kontrolno-revizionnoj-komissii-mezhdunarodnoj-associacii-intellektualnyh-igr/)
 - [Отчёт о работе за 2021-2022 годы](https://www.maii.li/docs/2022-04-23-otchyot-kontrolno-revizionnoj-komissii-maii-za-2021-2022-gg/)
 - [Отчёт о работе за 2022-2023 годы](https://www.maii.li/docs/2023-04-30-otchyot-kontrolno-revizionnoj-komissii-maii-za-2022-2023-gg/)
+- [Отчёт о работе за 2023-2024 годы](https://www.maii.li/docs/2024-05-20-otchyot-kontrolno-revizionnoj-komissii-maii-za-2023-2024-gg/)
 
 <small>[К оглавлению](#top)</small>
 
@@ -169,6 +171,8 @@ title: Документы
 - [Отчёт группы по правилам за 2021–2023 годы (10.08.2023)](https://www.maii.li/docs/2023-08-11-otchyot-gruppy-po-pravilam-za-20212023-gody/).
 - [Отчёт IT-группы за 2023–2024 годы (02.02.2024)](https://www.maii.li/docs/2024-02-02-otchyot-it-gruppy-s-avgusta-2023-goda-po-fevral-2024-goda/).
 - [Отчёт группы по рейтингу о четвёртом и пятом полугодии работы (08.04.2024)](https://www.maii.li/docs/2024-04-08-otchyot-gruppy-po-rejtingu-za-chetvyortoe-i-pyatoe-polugodiya-raboty-(08.04.2024)/).
+- [Отчёт контрольно-ревизионной комиссии за 2023-2024 годы (20.05.2024)](https://www.maii.li/docs/2024-05-20-otchyot-kontrolno-revizionnoj-komissii-maii-za-2023-2024-gg/)
+- [Отчёт исполкома за 2023-2024 годы (25.05.2024)](https://www.maii.li/docs/2024-05-24-otchyot-ispolkoma-maii-za-2023-2024-gody/)
 
 <small>[К оглавлению](#top)</small>
 

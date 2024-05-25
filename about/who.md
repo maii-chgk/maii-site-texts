@@ -83,6 +83,7 @@ subtitle: В Международной ассоциации интеллект�
  <li><a href="https://www.maii.li/docs/2023-05-22-protokol-zasedaniya-ispolkoma-maii-6-ot-09.05.2023/">Протокол заседания № 6 от 09.05.2023</a></li>
  <li><a href="https://www.maii.li/docs/2022-04-23-otchyot-ispolkoma-maii-za-2021-2022-gg./">Отчёт о работе за 2021–2022 годы</a></li>
  <li><a href="https://www.maii.li/docs/2023-04-23-otchyot-ispolkoma-maii-za-2022-2023-gg./">Отчёт о работе за 2022–2023 годы</a></li>
+ <li><a href="https://www.maii.li/docs/2024-05-24-otchyot-ispolkoma-maii-za-2023-2024-gody/">Отчёт о работе за 2023–2024 годы</a></li>
  <li><a href="https://www.maii.li/docs/2022-05-13-reshenie-ispolkoma-po-obzhalovaniyu-resheniya-dg-3-o-diskvalifikacii-romana-chernyaeva/">Решение исполкома по поводу обжалования решения дисциплинарной группы №3</a></li>
  <li><a href="https://www.maii.li/docs/2021-06-08-protokol-zasedaniya-ispolkoma-maii-5-ot-06.06.2021/">Протокол заседания № 5 от 06.06.2021</a></li>
  <li><a href="https://www.maii.li/docs/2021-05-17-protokol-zasedaniya-ispolkoma-maii-4-ot-12.05.2021/">Протокол заседания № 4 от 12.05.2021</a></li>
@@ -145,6 +146,7 @@ subtitle: В Международной ассоциации интеллект�
  <li><a href="https://www.maii.li/docs/2021-05-29-polozhenie-o-kontrolno-revizionnoj-komissii-mezhdunarodnoj-associacii-intellektualnyh-igr/">Положение о КРК</a></li>
  <li><a href="https://www.maii.li/docs/2022-04-23-otchyot-kontrolno-revizionnoj-komissii-maii-za-2021-2022-gg/">Отчёт о работе за 2021–2022 годы</a>.</li>
  <li><a href="https://www.maii.li/docs/2023-04-30-otchyot-kontrolno-revizionnoj-komissii-maii-za-2022-2023-gg/">Отчёт о работе за 2022–2023 годы</a>.</li>
+ <li><a href="https://www.maii.li/docs/2024-05-20-otchyot-kontrolno-revizionnoj-komissii-maii-za-2023-2024-gg/">Отчёт о работе за 2023–2024 годы</a>.</li>
  </ul>
 </details>
 
