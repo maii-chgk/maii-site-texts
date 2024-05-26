@@ -18,6 +18,7 @@ subtitle: Всего с момента основания ассоциации �
 ## 10–11 марта 2024 года <a name="june24"></a>
 
 - [Анонс](https://www.maii.li/news/2024-04-25-anons-iyunskogo-obshego-sobraniya)
+- [Программа](https://www.maii.li/news/2024-05-26-programma-obshego-sobraniya-i-dokumenty-dlya-obsuzhdeniya/)
 
 <small>[Наверх](#atop)</small>
 
