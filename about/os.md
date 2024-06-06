@@ -15,10 +15,11 @@ subtitle: Всего с момента основания ассоциации �
 - [3–4 июля 2021 года](#jul21)
 - [29–30 мая 2021 года](#may21)
 
-## 10–11 марта 2024 года <a name="june24"></a>
+## 2–3 июня 2024 года <a name="june24"></a>
 
 - [Анонс](https://www.maii.li/news/2024-04-25-anons-iyunskogo-obshego-sobraniya)
 - [Программа](https://www.maii.li/news/2024-05-26-programma-obshego-sobraniya-i-dokumenty-dlya-obsuzhdeniya/)
+- [Новость с итогами](https://www.maii.li/news/2024-06-04-kratkie-itogi-iyunskogo-obshego-sobraniya/)
 
 <small>[Наверх](#atop)</small>
 
