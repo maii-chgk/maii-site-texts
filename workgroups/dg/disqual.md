@@ -21,6 +21,54 @@ title: Дисквалифицированные на турнирах под э�
   <th>до 01.07.2024</th>
   <th>По <a href="https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/">решению ДГ №11</a></th>
   </tr>
+   <tr>
+  <th><a href="https://rating.maii.li/b/player/254843">254843</a></th>
+  <th>Данила Гаврилов</th>
+  <th>Во всех качествах</th>
+  <th>45 дней</th>
+  <th>до 05.07.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-05-20-reshenie-dg-17/">решению ДГ №17</a></th>
+  </tr>
+   <tr>
+  <th><a href="https://rating.maii.li/b/player/257348">257348</a></th>
+  <th>Денис Дианов</th>
+  <th>Во всех качествах</th>
+  <th>45 дней</th>
+  <th>до 05.07.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-05-20-reshenie-dg-17/">решению ДГ №17</a></th>
+  </tr>
+   <tr>
+  <th><a href="https://rating.maii.li/b/player/270172">270172</a></th>
+  <th>Варвара Капитульская</th>
+  <th>Во всех качествах</th>
+  <th>45 дней</th>
+  <th>до 05.07.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-05-20-reshenie-dg-17/">решению ДГ №17</a></th>
+  </tr>
+   <tr>
+  <th><a href="https://rating.maii.li/b/player/257312">257312</a></th>
+  <th>Роберт Даниэль Роскам</th>
+  <th>Во всех качествах</th>
+  <th>45 дней</th>
+  <th>до 05.07.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-05-20-reshenie-dg-17/">решению ДГ №17</a></th>
+  </tr>
+   <tr>
+  <th><a href="https://rating.maii.li/b/player/272727">272727</a></th>
+  <th>Тимур Трубачеев</th>
+  <th>Во всех качествах</th>
+  <th>45 дней</th>
+  <th>до 05.07.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-05-20-reshenie-dg-17/">решению ДГ №17</a></th>
+  </tr>
+     <tr>
+  <th><a href="https://rating.maii.li/b/player/244505">244505</a></th>
+  <th>Варвара Шатова</th>
+  <th>Во всех качествах</th>
+  <th>45 дней</th>
+  <th>до 05.07.2024</th>
+  <th>По <a href="https://www.maii.li/docs/2024-05-20-reshenie-dg-17/">решению ДГ №17</a></th>
+  </tr>
 <tr>
   <th><a href="https://rating.maii.li/b/player/232346">232346</a></th>
   <th>Игорь Рубаник</th>
