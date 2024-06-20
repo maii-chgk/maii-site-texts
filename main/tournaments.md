@@ -89,6 +89,7 @@ subtitle: Интеллектуальные игры проводятся для 
 - [Армения](https://www.maii.li/p/countries-armenia).
 - [Беларусь](https://www.maii.li/p/countries-belarus).
 - [Великобритания](https://www.maii.li/p/countries-gbritain).
+- [Германия](https://www.maii.li/p/countries-deutschland)
 - [Казахстан](https://www.maii.li/p/countries-kazakhstan).
 - [Канада](https://www.maii.li/p/countries-canada).
 - [Кипр](https://www.maii.li/p/countries-cyprus).

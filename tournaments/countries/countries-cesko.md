@@ -1,11 +1,10 @@
 ---
-Title: История чемпионатов Чехии
+title: История чемпионатов Чехии
+subtitle: Чемпионаты Чехии по спортивному «Что? Где? Когда?» проводятся с 2017 года
 ---
 
-Lead: Чемпионаты Чехии по спортивному «Что? Где? Когда?» проводятся с 2017 года
-
-Body:
 История ещё пополняется, статистика может быть неполна. Если у вас есть больше информации, особенно о составах призёров самых ранних чемпионатов, — напишите, пожалуйста, на <info@maii.li>.
+
 
 ## Зал славы чемпионата Чехии <a name="atop"></a>
  - [Команды](#teams)
@@ -30,17 +29,17 @@ Body:
 <td><a href="https://rating.chgk.info/teams/4130">Как-то так</a></td>
 <td>Прага</td>
 <td class ="uk-text-center">3</td>
-<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">5</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/65268">В гостях у Кафки</a></td>
 <td>Прага</td>
-<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/71805">Сборная Неймера</a></td>
@@ -73,6 +72,14 @@ Body:
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">2</td>
 <td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/90393">Свидетели Антидепрессантов</a></td>
+<td>Прага</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/54152">Пражские горцы</a></td>
@@ -110,6 +117,13 @@ Body:
 <tbody>
 <tr>
 <td><a href="https://rating.chgk.info/player/10910">Алексей Жилинский</a></td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/23487">Илья Онскуль</a></td>
 <td class ="uk-text-center">4</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
@@ -118,23 +132,37 @@ Body:
 <tr>
 <td><a href="https://rating.chgk.info/player/21006">Павел Миронов</a></td>
 <td class ="uk-text-center">3</td>
-<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">5</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/36246">Антон Ширяев</a></td>
 <td class ="uk-text-center">3</td>
-<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">5</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/23487">Илья Онскуль</a></td>
+<td><a href="https://rating.chgk.info/player/117140">Денис Руденко</a></td>
 <td class ="uk-text-center">3</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/130795">Александр Шелёмин</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/6520">Татьяна Галицкая</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">4</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/23885">Елена Павлова</a></td>
@@ -144,21 +172,7 @@ Body:
 <td class ="uk-text-center">4</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/6520">Татьяна Галицкая</a></td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/117140">Денис Руденко</a></td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/130795">Александр Шелёмин</a></td>
+<td><a href="https://rating.chgk.info/player/37390">Андрей Ярмола</a></td>
 <td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
@@ -172,14 +186,14 @@ Body:
 <td class ="uk-text-center">2</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/3083">Дмитрий Белявский</a></td>
+<td><a href="https://rating.chgk.info/player/138163">Айгуль Сембаева</a></td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/37390">Андрей Ярмола</a></td>
+<td><a href="https://rating.chgk.info/player/3083">Дмитрий Белявский</a></td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
@@ -202,23 +216,30 @@ Body:
 <tr>
 <td><a href="https://rating.chgk.info/player/46490">Кирилл Рукавицын</a></td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">2</td>
-<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">4</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/10418">Михаил Ерасов</a></td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/140119">Алексей Рахманов</a></td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/45414">Ольга Александрова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/8610">Фаик Гусейнов</a></td>
@@ -340,6 +361,27 @@ Body:
 <td class ="uk-text-center">1</td>
 </tr>
 <tr>
+<td><a href="https://rating.chgk.info/player/5034">Инесса Василевская</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/29939">Екатерина Соколова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/69141">Борис Силаков</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
 <td><a href="https://rating.chgk.info/player/4418">Антон Буланников</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
@@ -347,7 +389,21 @@ Body:
 <td class ="uk-text-center">2</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/5034">Инесса Василевская</a></td>
+<td><a href="https://rating.chgk.info/player/11013">Ирина Жукова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/24801">Яна Петрушкевич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/288279">Анастасия Елантьева</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
@@ -355,20 +411,6 @@ Body:
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/9989">Марина Духнич</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/29939">Екатерина Соколова</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/69141">Борис Силаков</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
@@ -458,12 +500,29 @@ Body:
 
 ### Чемпионаты по годам <a name="years"></a>
 
+- [V чемпионат Чехии (2023)](#2023)
 - [IV чемпионат Чехии (2022)](#2022)
 - [III чемпионат Чехии (2019)](#2019)
 - [II чемпионат Чехии (2018)](#2018)
 - [I чемпионат Чехии (2017)](#2017)
 
 <small>*[Наверх](#atop)*</small>
+
+**V чемпионат Чехии** прошёл 14–15 октября 2023 года в Праге. <a name="2023"></a>
+
+Победитель: **[В гостях у Кафки (Прага)](https://rating.chgk.info/teams/65268)**
+- Алексей Жилинский
+- Илья Онскуль
+- Андрей Ярмола
+- Денис Руденко
+- Александр Шелёмин
+- Айгуль Сембаева
+
+Второе место заняла команда [Как-то так](https://rating.chgk.info/teams/4130) (Прага), третье — [Свидетели Антидепрессантов](https://rating.chgk.info/teams/90393) (Прага).
+
+Полные результаты на [турнирном сайте](https://rating.chgk.info/tournament/9685).
+
+<small>*[К списку чемпионатов](#years)*</small>
 
 **IV чемпионат Чехии** прошёл 29–30 октября 2022 года в Праге. <a name="2022"></a>
 
