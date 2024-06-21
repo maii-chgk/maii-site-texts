@@ -101,6 +101,7 @@ subtitle: Интеллектуальные игры проводятся для 
 - [Туркменистан](https://www.maii.li/p/countries-turkmenistan).
 - [Узбекистан](https://www.maii.li/p/countries-uzbekiston).
 - [Чехия](https://www.maii.li/p/countries-cesko).
+- [Швейцария](https://www.maii.li/p/countries-switzerland).
 - [Эстония](https://www.maii.li/p/countries-eesti).
 
 <small>[Наверх](#atop)</small>
