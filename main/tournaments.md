@@ -99,6 +99,7 @@ subtitle: Интеллектуальные игры проводятся для 
 - [Польша](https://www.maii.li/p/countries-polska).
 - [Таджикистан](https://www.maii.li/p/countries-tojikiston).
 - [Туркменистан](https://www.maii.li/p/countries-turkmenistan).
+- [Узбекистан](https://www.maii.li/p/countries-uzbekiston).
 - [Чехия](https://www.maii.li/p/countries-cesko).
 - [Эстония](https://www.maii.li/p/countries-eesti).
 
