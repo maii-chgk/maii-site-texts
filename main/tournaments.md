@@ -97,6 +97,7 @@ subtitle: Интеллектуальные игры проводятся для 
 - [Кипр](https://www.maii.li/p/countries-cyprus).
 - [Латвия](https://www.maii.li/p/countries-latvija).
 - [Польша](https://www.maii.li/p/countries-polska).
+- [Россия](https://www.maii.li/p/countries-russia).
 - [Таджикистан](https://www.maii.li/p/countries-tojikiston).
 - [Туркменистан](https://www.maii.li/p/countries-turkmenistan).
 - [Узбекистан](https://www.maii.li/p/countries-uzbekiston).
