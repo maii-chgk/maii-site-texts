@@ -27,10 +27,18 @@ subtitle: Чемпионаты страны проводятся с 2017 год�
 <tr>
 <td><a href="https://rating.chgk.info/teams/53052">Эрликон</a></td>
 <td>Цюрих</td>
-<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">0</td>
 <td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/59920">Клуб 512</a></td>
+<td>Берн</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/79286">В поисках мема</a></td>
@@ -39,14 +47,6 @@ subtitle: Чемпионаты страны проводятся с 2017 год�
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/teams/59920">Клуб 512</a></td>
-<td>Берн</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/59753">Постпостмодернизм</a></td>
@@ -100,38 +100,45 @@ subtitle: Чемпионаты страны проводятся с 2017 год�
 <tbody>
 <tr>
 <td><a href="https://rating.chgk.info/player/9535">Анна Долгая</a></td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">3</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/13682">Дмитрий Карягин</a></td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">3</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/23956">Ирина Пак</a></td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">3</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/75645">Екатерина Наливко</a></td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">3</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/17177">Лина Кулакова</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
 <td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/32919">Булат Фаттахов</a></td>
+<td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/124207">Алексей Можаров</a></td>
@@ -141,7 +148,28 @@ subtitle: Чемпионаты страны проводятся с 2017 год�
 <td class ="uk-text-center">2</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/32919">Булат Фаттахов</a></td>
+<td><a href="https://rating.chgk.info/player/20005">Андрей Мартынов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/111958">Сергей Гришин</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/25165">Илья Побелов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/117733">Александра Шенкер</a></td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
@@ -176,39 +204,11 @@ subtitle: Чемпионаты страны проводятся с 2017 год�
 <td class ="uk-text-center">1</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/56736">Арсений Савин</a></td>
+<td><a href="https://rating.chgk.info/player/171960">Лилия Алиева</a></td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/20005">Андрей Мартынов</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/111958">Сергей Гришин</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/25165">Илья Побелов</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/117733">Александра Шенкер</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/111959">Марина Клыкова</a></td>
@@ -253,7 +253,7 @@ subtitle: Чемпионаты страны проводятся с 2017 год�
 <td class ="uk-text-center">1</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/171960">Лилия Алиева</a></td>
+<td><a href="https://rating.chgk.info/player/56736">Арсений Савин</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">0</td>
@@ -409,15 +409,15 @@ subtitle: Чемпионаты страны проводятся с 2017 год�
 
 **III чемпионат Швейцарии** прошёл 15 июня 2019 года в Лозанне. <a name="2019"></a>
 
-Победитель: **[Эрликон (Цюрих)](https://rating.chgk.info/teams/53052)**
-- Анна Долгая
-- Дмитрий Карягин
-- Арсений Савин
-- Ирина Пак
-- Екатерина Наливко
-- Лина Кулакова
+Победитель: **[Клуб 512 (Берн)](https://rating.chgk.info/teams/59920)**
+- Булат Фаттахов
+- Андрей Мартынов
+- Александра Шенкер
+- Лилия Алиева
+- Сергей Гришин
+- Илья Побелов
 
-Второе место заняла команда [Клуб 512](https://rating.chgk.info/teams/59920) (Берн), третье — [Одинокий рейнджер](https://rating.chgk.info/teams/54827) (Женева).
+Второе место заняла команда [Эрликон](https://rating.chgk.info/teams/53052) (Цюрих), третье — [Одинокий рейнджер](https://rating.chgk.info/teams/54827) (Женева).
 
 Полные результаты на [турнирном сайте](https://rating.chgk.info/tournament/5723).
 
