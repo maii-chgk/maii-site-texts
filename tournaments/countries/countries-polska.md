@@ -2,8 +2,6 @@
 title: История чемпионатов Польши
 subtitle: Чемпионаты Польши проводятся с 2018 года
 ---
-История ещё пополняется. Если у вас есть больше информации — напишите, пожалуйста, на <info@maii.li>.
-
 ## Зал славы чемпионата Польши <a name="atop"></a>
  - [Команды](#teams)
  - [Игроки](#players)
@@ -11,7 +9,7 @@ subtitle: Чемпионаты Польши проводятся с 2018 год�
 
 ### Команды <a name="teams"></a>
 
-<table class="uk-table uk-table-divider uk-table-hover uk-width-1-2">
+<table class="uk-table uk-table-divider uk-table-hover uk-width-3-4">
 <thead>
 <tr>
 <th>Название</th>
@@ -94,7 +92,7 @@ subtitle: Чемпионаты Польши проводятся с 2018 год�
 
 ## Игроки <a name="players"></a>
 
-<table class="uk-table uk-table-divider uk-table-hover uk-width-1-2">
+<table class="uk-table uk-table-divider uk-table-hover uk-width-2-3">
 <thead>
 <tr>
 <th>Имя</th>

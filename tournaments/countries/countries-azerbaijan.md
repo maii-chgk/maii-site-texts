@@ -7,11 +7,12 @@ subtitle: Чемпионаты Азербайджана проводятся с 
 
 ## Зал славы чемпионата Азербайджана <a name="atop"></a>
  - [Команды](#teams)
+ - [Игроки](#players)
  - [Чемпионаты по годам](#years)
 
 ### Команды <a name="teams"></a>
 
-<table class="uk-table uk-table-divider uk-table-hover uk-width-1-2">
+<table class="uk-table uk-table-divider uk-table-hover uk-width-3-4">
 <thead>
 <tr>
 <th>Название</th>
@@ -129,6 +130,566 @@ subtitle: Чемпионаты Азербайджана проводятся с 
 </tr>
 </tbody>
 </table>
+
+## Игроки <a name="players"></a>
+
+<table class="uk-table uk-table-divider uk-table-hover uk-width-2-3">
+<thead>
+<tr>
+<th>Имя</th>
+<th class ="uk-text-center">I</th>
+<th class ="uk-text-center">II</th>
+<th class ="uk-text-center">III</th>
+<th class ="uk-text-center">∑</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://rating.chgk.info/player/22133">Рауф Наджафли</a></td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">10</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/13721">Балаш Касумов</a></td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">9</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/8610">Фаик Гусейнов</a></td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">9</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/475">Джамиля Азизова</a></td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">9</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/19170">Эмиль Мадатов</a></td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">9</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/23537">Роман Оркодашвили</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">11</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/21889">Азиз Муршудли</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">8</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1872">Аднан Ахундов</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">7</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/31184">Эльман Талыбов</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/476">Анар Азимов</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/8450">Анар Гулиев</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/32579">Алексей Уланов</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/17284">Ильхам Кумбатов</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1871">Аббас Ахундов</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/8747">Акпер Дадашлы</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/39945">Яна Лялякина</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/236">Дмитрий Авдеенко</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1646">Ровшан Аскеров</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/39926">Малик Рамазанзаде</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/7047">Илья Гинзбург</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/27879">Саид Садыхов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/59">Руфат Абдулла</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/19724">Кёнуль Мамедова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/47536">Эльнур Гасымзаде</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/39933">Борис Царицын</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/856">Теймур Алиев</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/22132">Анар Наджафли</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/6816">Джейхун Гейбатов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/27998">Джамиль Салманов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/32886">Джахангир Фараджуллаев</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/6418">Хафиз Гайыб</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/78471">Эмин Расулзаде</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/49160">Фуад Мусаев</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/8455">Теймур Гулиев</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/12731">Эмиль Исмаилов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/122695">Илья Мурзинов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/11522">Елена Захарова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1833">Назлы Ахмедова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/21865">Шахин Мургузов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/223827">Ильхам Гумбатов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/223828">Хафиз Гаибов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/984">Эльнур Амикишиев</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/49158">Роман Аллояров</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/49159">Фариз Рзаев</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/323">Заур Агаев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">7</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1907">Гюнель Бабаева</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/20522">Руфат Мейбализаде</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/72279">Денис Шабанов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/12033">Нигяр Ибрагимова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/878">Фариз Аликишибеков</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/19699">Мамедшакир Мамедзаде</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/52103">Джалал Оруджев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/860">Эмин Алиев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/2054">Джавид Бадалбейли</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/33672">Илькин Халилов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/34480">Максим Цурков</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/21830">Мурад Мурадов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/31140">Эргюн Тагиев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/2064">Ширин Баджанова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/9265">Орхан Джафаров</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/19101">Тимур Ляпин</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36925">Фуад Эминов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/59481">Расул Бабазаде</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/8743">Вюгар Дадашев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/19715">Сеймур Мамедов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/30851">Турал Султанов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/39906">Теймур Бабаев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/19703">Джавид Мамедов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36115">Олег Шибаев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/20959">Ибрагим Мирзоев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/9246">Вагиф Джамалов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1711">Анар Атакишиев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/6719">Айнур Гасанова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/21893">Таир Мусаев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/19794">Анар Мансуров</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/17658">Кямран Захид</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/22265">Сагиф Намазов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+</tbody>
+</table>
+
+Статистика неполна, поскольку на следующих турнирах пока нет составов серебряных и бронзовых призёров:
+- [III чемпионат Азербайджана](https://rating.chgk.info/tournament/42)
+- [II чемпионат Азербайджана](https://rating.chgk.info/tournament/1395)
+- [I чемпионат Азербайджана](https://rating.chgk.info/tournament/1304)
 
 <small>*[Наверх](#atop)*</small>
 

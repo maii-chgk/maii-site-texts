@@ -2,11 +2,1350 @@
 title: История чемпионатов Беларуси
 subtitle: Чемпионаты Беларуси проводятся с 1994 года.
 ---
-Все результаты по всем видам можно найти в [этой таблице](https://docs.google.com/spreadsheets/d/1fBfvMcLEkjd4wtYIIf8aHWflbJ8IOjFyqyq86OW2hjg/edit#gid=51159091), победителей ЧГК можно найти ниже. 
+Все результаты по всем видам можно найти в [этой таблице](https://docs.google.com/spreadsheets/d/1fBfvMcLEkjd4wtYIIf8aHWflbJ8IOjFyqyq86OW2hjg/edit#gid=51159091), статистику по ЧГК можно найти ниже. В ней пока не учтены результаты первых трёх чемпионатов, но мы работаем над тем, чтобы это исправить.
 
 История ещё пополняется. Если у вас есть больше информации — напишите, пожалуйста, на <info@maii.li>.
 
-<a name="atop"></a>
+## Зал славы чемпионата Беларуси <a name="atop"></a>
+ - [Команды](#teams)
+ - [Игроки](#players)
+ - [Чемпионаты по годам](#years)
+
+### Команды <a name="teams"></a>
+
+<table class="uk-table uk-table-divider uk-table-hover uk-width-3-4">
+<thead>
+<tr>
+<th>Название</th>
+<th>Город</th>
+<th class ="uk-text-center">I</th>
+<th class ="uk-text-center">II</th>
+<th class ="uk-text-center">III</th>
+<th class ="uk-text-center">∑</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://rating.chgk.info/teams/1681">Джокер</a></td>
+<td>Могилёв</td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">6</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">14</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/1961">Хунта</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">10</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/27129">Страпелька</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/1183">Умник</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/88">Команда Виталия Низовца</a></td>
+<td>Гомель</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/1703">МИД-2</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/51739">Зоопарк</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/6936">Хронически разумные United</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/7864">Одушевлённые аэросани</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/718">Middle</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/66">Ультиматум</a></td>
+<td>Гомель</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/1686">Гранд-провинция</a></td>
+<td>Витебск</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/44993">Перелётный кабак</a></td>
+<td>Москва</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/191">МаФи</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/84263">Бэмби бум</a></td>
+<td>сборная</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/1313">ЛСД-Славяне</a></td>
+<td>Могилёв</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/29290">Асгард</a></td>
+<td>Гомель</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/40043">Summa Technologiae</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/4989">Штандарт</a></td>
+<td>Витебск</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/1148">МиФ</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/29289">Зловещие сухари</a></td>
+<td>Гомель</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/teams/1165">АМО-Натюрлих</a></td>
+<td>Минск</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+</tbody>
+</table>
+
+<small>*[Наверх](#atop)*</small>
+
+## Игроки <a name="players"></a>
+
+<table class="uk-table uk-table-divider uk-table-hover uk-width-2-3">
+<thead>
+<tr>
+<th>Имя</th>
+<th class ="uk-text-center">I</th>
+<th class ="uk-text-center">II</th>
+<th class ="uk-text-center">III</th>
+<th class ="uk-text-center">∑</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://rating.chgk.info/player/21026">Евгений Миротин</a></td>
+<td class ="uk-text-center">6</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">11</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/27822">Михаил Савченков</a></td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">7</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">15</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/32558">Николай Ужов</a></td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">6</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">14</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/7304">Дмитрий Голдов</a></td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">6</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">14</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/26900">Руслан Ридлевич</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">6</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">13</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/9785">Владислав Дронов</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">6</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">12</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/15964">Дарья Костенко</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">10</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/20298">Александр Матюхин</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/27151">Николай Романовский</a></td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/32004">Иван Топчий</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">11</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36305">Сергей Шишко</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">5</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">10</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/11097">Александр Забиран</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">10</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/5943">Анатолий Володченко</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">8</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/18194">Мария Кленницкая</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">8</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/60043">Андрей Забавин</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/9857">Алексей Дуболазов</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/30357">Дмитрий Старикович</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/40393">Юрий Разумов</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/8444">Артём Гулецкий</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/102968">Тимофей Прокопенко</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36433">Александр Шмидов</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/11260">Евгений Зайцев</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/29260">Сергей Сиротко</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1681">Игорь Астахов</a></td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/23681">Вячеслав Осмоловский</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">8</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/100501">Никита Шевела</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/13385">Сергей Капустников</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/18132">Николай Лёгенький</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/14960">Сергей Козлов</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/18305">Евгений Лешкович</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36711">Даниил Шункевич</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/38647">Виталий Калачёв</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/54468">Андрей Танана</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/28419">Павел Свердлов</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/174874">Олег Лисогурский</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/56748">Иван Сергиевич</a></td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/7551">Алексей Гончаров</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/19510">Павел Малецкий</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">6</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/4417">Наталья Сиротко</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/7663">Павел Горбунов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36304">Ольга Шишко</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/253917">Александр Ерофеев</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/25284">Яков Подольный</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/25889">Елена Потенко</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/253918">Алёна Ерофеева</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/2322">Анастасия Балмакова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/4875">Елена Ваксман-Атрохова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/13638">Михаил Карпук</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/90996">Владимир Осипчук</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/41383">Климентий Комиссаров</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/9826">Сергей Дубелевич</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/11476">Виталий Захарик</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36125">Елена Шибут</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/10808">Артемий Жданок</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/5983">Алексей Волчок</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/2758">Сергей Башлыкевич</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/125098">Ксения Воробьёва</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/16871">Вадим Кузмич</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/54469">Анна Якушевич</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/29981">Андрей Солдатов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/4491">Светлана Бунакова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/132058">Наталья Шишова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/15157">Владимир Колмогоров</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/24280">Сергей Пасиченко</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/7923">Евгений Грабовский</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/14868">Олег Кожедуб</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/25370">Кира Полевая</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/25373">Алексей Полевой</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/41104">Александр Кухарчук</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/127861">Максим Корнеевец</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1364">Сергей Апанович</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/26980">Марина Родина</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/28442">Алина Свиб</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/11084">Павел Забавский</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/9994">Андрей Духовников</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/15163">Наталья Колмогорова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/8057">Андрей Григорьев</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36120">Серафим Шибанов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/5328">Дмитрий Великов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/6651">Вячеслав Гаранович</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/10660">Сергей Ефимов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/3922">Мирон Боргулёв</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/255157">Алексей Вавилов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/22634">Виталий Низовец</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/14450">Леонид Климович</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/12265">Наталья Иванова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/255033">Александр Литусёв</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/75635">Дмитрий Тарасов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/277477">Михаил Подручный</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/21560">Александр Морозов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/41617">Герман Чепиков</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">4</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/68633">Христина Чернушевич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/81696">Ренат Рустамов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/40391">Александра Ермалович</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/35861">Дарья Соловей</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/28968">Олег Сивченко</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/419">Илья Адамов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/53126">Василий Бобков</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/37390">Андрей Ярмола</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/27831">Михаил Сагалович</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/15085">Владимир Колбун</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36148">Дмитрий Шилко</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/112314">Алина Данилова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/113513">Пётр Игнатенко</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/29202">Кирилл Синкевич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/17218">Дмитрий Кулик</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/7571">Антонина Гончарова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/8959">Виталий Дединец</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/10855">Елена Жесткова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/16321">Сергей Крамич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/33458">Марат Фрайман</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/255021">Ирина Каплунова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/255023">Денис Воробьёв</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/34044">Андрей Ходотов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1773">Надия Афанасьева</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/33289">Николай Филон</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/41149">Александр Гаврилов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/255257">Анастасия Акутина</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/1000">Анна Виниченко</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/27429">Аркадий Рух</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/30703">Виталий Струй</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/32951">Татьяна Федина</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/44703">Николай Сергиеня</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/153418">Антон Короткевич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/2857">Юлия Бейнер</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/37362">Сергей Янукович</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/82347">Александр Середа</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/22130">Алексей Надёжный</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/30386">Александр Староказников</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/74084">Антон Кушнеров</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/20078">Александр Марцинкевич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/30601">Алексей Стома</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/6284">Станислав Габрусевич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/3208">Ольга Берёзко</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/25530">Фёдор Поляков</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/5876">Виктория Волкова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/71537">Галина Сивченко</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/6961">Дмитрий Герчиков</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/19184">Юрий Мазаник</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/51020">Сергей Ржеутский</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/36481">Марина Шода</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/34031">Андрей Ходанович</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/20052">Мария Мартысевич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/9143">Роман Денисюк</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/9063">Михаил Дёмин</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/60092">Артём Агафонов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/84821">Василий Гайдуков</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/13462">Дмитрий Карасёв</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/21258">Геннадий Мишин</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/66950">Елена Карасёва</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/255031">Анатолий Медведев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/255032">Андрей Белевич</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/9868">Анна Дубровская</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/26079">Алексей Прокофьев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/21586">Сергей Морозов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/21620">Мария Морозова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/21979">Алесь Мухин</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/27200">Павел Ростовцев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/28774">Алексей Сенченко</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/255034">Ольга Божик</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+</tr>
+</tbody>
+</table>
+
+<small>*[Наверх](#atop)*</small>
+
+### Чемпионаты по годам <a name="years"></a>
+
 - [XXIX чемпионат Беларуси (2024)](#2024)
 - [XXVIII чемпионат Беларуси (2023)](#2023) 
 - [XXVII чемпионат Беларуси (2022)](#2022) 

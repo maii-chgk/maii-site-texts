@@ -11,7 +11,7 @@ subtitle: Чемпионаты страны проводятся с 2001 год�
 
 ### Команды <a name="teams"></a>
 
-<table class="uk-table uk-table-divider uk-table-hover uk-width-1-2">
+<table class="uk-table uk-table-divider uk-table-hover uk-width-3-4">
 <thead>
 <tr>
 <th>Название</th>
@@ -142,7 +142,7 @@ subtitle: Чемпионаты страны проводятся с 2001 год�
 
 ## Игроки <a name="players"></a>
 
-<table class="uk-table uk-table-divider uk-table-hover uk-width-1-2">
+<table class="uk-table uk-table-divider uk-table-hover uk-width-2-3">
 <thead>
 <tr>
 <th>Имя</th>

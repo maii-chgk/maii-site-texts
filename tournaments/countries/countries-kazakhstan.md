@@ -10,7 +10,7 @@ subtitle: Чемпионаты Казахстана проводятся с 2011
 
 ### Команды <a name="teams"></a>
 
-<table class="uk-table uk-table-divider uk-table-hover uk-width-1-2">
+<table class="uk-table uk-table-divider uk-table-hover uk-width-3-4">
 <thead>
 <tr>
 <th>Название</th>
@@ -141,7 +141,7 @@ subtitle: Чемпионаты Казахстана проводятся с 2011
 
 ## Игроки <a name="players"></a>
 
-<table class="uk-table uk-table-divider uk-table-hover uk-width-1-2">
+<table class="uk-table uk-table-divider uk-table-hover uk-width-2-3">
 <thead>
 <tr>
 <th>Имя</th>

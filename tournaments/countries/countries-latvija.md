@@ -11,7 +11,7 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 
 ### Команды <a name="teams"></a>
 
-<table class="uk-table uk-table-divider uk-table-hover uk-width-1-2">
+<table class="uk-table uk-table-divider uk-table-hover uk-width-3-4">
 <thead>
 <tr>
 <th>Название</th>
@@ -28,8 +28,8 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <td>Рига</td>
 <td class ="uk-text-center">6</td>
 <td class ="uk-text-center">2</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">10</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">11</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/2040">Три Икса</a></td>
@@ -72,6 +72,14 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <td class ="uk-text-center">4</td>
 </tr>
 <tr>
+<td><a href="https://rating.chgk.info/teams/4174">Центровые</a></td>
+<td>Рига</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
 <td><a href="https://rating.chgk.info/teams/1765">ГДР</a></td>
 <td>Даугавпилс</td>
 <td class ="uk-text-center">1</td>
@@ -83,9 +91,9 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <td><a href="https://rating.chgk.info/teams/54476">Теория чистых ожиданий</a></td>
 <td>Рига</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">3</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/1424">Napalm</a></td>
@@ -94,14 +102,6 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">2</td>
 <td class ="uk-text-center">3</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/teams/4174">Центровые</a></td>
-<td>Рига</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/teams/6432">Зима далеко!</a></td>
@@ -190,7 +190,7 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 
 ## Игроки <a name="players"></a>
 
-<table class="uk-table uk-table-divider uk-table-hover uk-width-1-2">
+<table class="uk-table uk-table-divider uk-table-hover uk-width-2-3">
 <thead>
 <tr>
 <th>Имя</th>
@@ -205,43 +205,43 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <td><a href="https://rating.chgk.info/player/29487">Виолетта Слесаренко-Крайнова</a></td>
 <td class ="uk-text-center">6</td>
 <td class ="uk-text-center">3</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">11</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">12</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/39152">Максим Крайнов</a></td>
 <td class ="uk-text-center">6</td>
 <td class ="uk-text-center">3</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">11</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">12</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/5007">Александр Варрик</a></td>
 <td class ="uk-text-center">6</td>
 <td class ="uk-text-center">3</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">10</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">11</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/7737">Евгений Горелик</a></td>
 <td class ="uk-text-center">6</td>
 <td class ="uk-text-center">2</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">10</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">11</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/1352">Айварс Анчупанс</a></td>
 <td class ="uk-text-center">5</td>
 <td class ="uk-text-center">2</td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">10</td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">11</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/27436">Александр Ручковский</a></td>
 <td class ="uk-text-center">4</td>
 <td class ="uk-text-center">2</td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">9</td>
+<td class ="uk-text-center">4</td>
+<td class ="uk-text-center">10</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/66403">Виталий Бреев</a></td>
@@ -433,6 +433,48 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <td class ="uk-text-center">4</td>
 </tr>
 <tr>
+<td><a href="https://rating.chgk.info/player/13345">Евгений Капитульский</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/29425">Дмитрий Скрипник</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/30772">Кирилл Суровов</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/34417">Борис Цилевич</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/52183">Владимир Редько</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/93424">Элина Ахундова</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
 <td><a href="https://rating.chgk.info/player/25975">Дмитрий Пресс</a></td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">1</td>
@@ -494,6 +536,13 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">2</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/3270">Юрий Бершидский</a></td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">1</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/69515">Олег Скрипник</a></td>
@@ -596,9 +645,51 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <tr>
 <td><a href="https://rating.chgk.info/player/958">Анастасия Амалина</a></td>
 <td class ="uk-text-center">0</td>
-<td class ="uk-text-center">3</td>
-<td class ="uk-text-center">1</td>
 <td class ="uk-text-center">4</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">5</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/24684">Кирилл Петров</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/45151">Андрей Гусев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/66401">Дмитрий Дорожко</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/10387">Ирина Емельянова</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/29578">Александр Смирнов</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
+</tr>
+<tr>
+<td><a href="https://rating.chgk.info/player/39879">Альберт Нургалеев</a></td>
+<td class ="uk-text-center">0</td>
+<td class ="uk-text-center">2</td>
+<td class ="uk-text-center">1</td>
+<td class ="uk-text-center">3</td>
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/7362">Всеволод Головин</a></td>
@@ -608,28 +699,7 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <td class ="uk-text-center">2</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/45151">Андрей Гусев</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
 <td><a href="https://rating.chgk.info/player/54537">Илана Германенко</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/66401">Дмитрий Дорожко</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/24684">Кирилл Петров</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">2</td>
 <td class ="uk-text-center">0</td>
@@ -678,48 +748,6 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 <td class ="uk-text-center">3</td>
 </tr>
 <tr>
-<td><a href="https://rating.chgk.info/player/13345">Евгений Капитульский</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/29425">Дмитрий Скрипник</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/30772">Кирилл Суровов</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/34417">Борис Цилевич</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/52183">Владимир Редько</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/93424">Элина Ахундова</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
 <td><a href="https://rating.chgk.info/player/2065">Жан Бадин</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
@@ -763,27 +791,6 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 </tr>
 <tr>
 <td><a href="https://rating.chgk.info/player/65921">Валентин Веселов</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/10387">Ирина Емельянова</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/29578">Александр Смирнов</a></td>
-<td class ="uk-text-center">0</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">1</td>
-<td class ="uk-text-center">2</td>
-</tr>
-<tr>
-<td><a href="https://rating.chgk.info/player/39879">Альберт Нургалеев</a></td>
 <td class ="uk-text-center">0</td>
 <td class ="uk-text-center">1</td>
 <td class ="uk-text-center">1</td>
@@ -1186,6 +1193,7 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 
 ### Чемпионаты по годам <a name="years"></a>
 
+- [XX чемпионат Латвии (2024)](#2024)
 - [XIX чемпионат Латвии (2023)](#2023)
 - [XVIII чемпионат Латвии (2022)](#2022)
 - [XVII чемпионат Латвии (2020)](#2020)
@@ -1207,6 +1215,23 @@ subtitle: Чемпионаты Латвии проводятся с 2004 год�
 - [I чемпионат Латвии (2004)](#2004)
 
 <small>*[Наверх](#atop)*</small>
+
+**XX чемпионат Латвии** прошёл 20 апреля 2024 года в Риге. <a name="2024"></a>
+
+Победитель: **[Центровые (Рига)](https://rating.chgk.info/teams/4174)**
+- Юрий Бершидский
+- Евгений Капитульский
+- Дмитрий Скрипник
+- Кирилл Суровов
+- Борис Цилевич
+- Владимир Редько
+- Элина Ахундова
+
+Второе место заняла команда [Теория чистых ожиданий](https://rating.chgk.info/teams/54476) (Рига), третье — [X-promt](https://rating.chgk.info/teams/4032) (Рига).
+
+Полные результаты на [турнирном сайте](https://rating.chgk.info/tournament/10506).
+
+<small>*[К списку чемпионатов](#years)*</small>
 
 **XIX чемпионат Латвии** прошёл 22 апреля 2023 года в Даугавпилсе. <a name="2023"></a>
 
