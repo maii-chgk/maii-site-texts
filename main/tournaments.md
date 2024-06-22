@@ -66,6 +66,7 @@ subtitle: Интеллектуальные игры проводятся для 
 - [Статистика чемпионатов мира — игроки, команды, турниры](https://www.maii.li/p/world-stats).
 - [XVII чемпионат мира (2019)](https://www.maii.li/p/world-2019)
 - [XVI чемпионат мира (2018)](https://www.maii.li/p/world-2018)
+- [XV чемпионат мира (2017)](https://www.maii.li/p/world-2017)
 
 ### Чемпионат мира по версии Мировой серии <a name="svitova-seriya"></a>
 
