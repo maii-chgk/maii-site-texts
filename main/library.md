@@ -88,6 +88,8 @@ subtitle: В этом разделе собраны материалы, кото
 
 **3.** Александр Либер. [К вопросу о вопросах](https://www.maii.li/p/library-questions-classification).
 
+**4.** Антон Иоков. [Как не надо писать вопросы Что? Где? Когда?](https://blog.antoniokov.com/all/how-not-to-write-questions/), [Про вопросы спортивного ЧГК. Часть вторая](https://blog.antoniokov.com/all/questions-part-two/) (2018).
+
 ### Программы <a name="programs"></a>
 
 1. <a name="chgksuite"></a>[chgksuite](https://chgksuite.pecheny.me/) — это система для работы с пакетами ЧГК. Она позволяет единообразно оформить вопросы, а также экспортировать их в разные форматы, в том числе с использованием спойлеров для ответов и комментариев. 
