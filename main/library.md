@@ -50,31 +50,35 @@ subtitle: В этом разделе собраны материалы, кото
 
 **3.** Юрий Выменец. [Уроки анатомии](https://www.maii.li/p/library-anatomy) (2008).
 
-**4.** Мишель Матвеев. [Во многих знаниях многие печали, или Что мы знаем о лисе](https://www.maii.li/p/library-knowledge).
+**4.** Юрий Выменец. [Количественно о роли знаний](https://www.maii.li/p/library-knowledge-vymenets) (2009).
 
-**5.** Илья Ратнер. [Что такое метка с точки зрения вопросника](https://www.maii.li/p/library-metka) (2003).
+**5.** Мишель Матвеев. [Во многих знаниях многие печали, или Что мы знаем о лисе](https://www.maii.li/p/library-knowledge-matveev).
 
-**6.** Илья Ратнер. [К вопросу об оценке сложности вопросов](https://www.maii.li/p/library-difficulty) (2009).
+**6.** Илья Ратнер. [Что такое метка с точки зрения вопросника](https://www.maii.li/p/library-metka) (2003).
 
-**7.** Максим Мерзляков. [Про замены](https://iqga.me/blogs/7006/) (2021).
+**7.** Илья Ратнер. [К вопросу об оценке сложности вопросов](https://www.maii.li/p/library-difficulty) (2009).
 
-**8.** Максим Мерзляков. [V – значит Лига вузов](https://iqga.me/blogs/5820/) (статья о том, как делался один из этапов синхрона Лига вузов) (2021).
+**8.** Максим Мерзляков. [Про замены](https://iqga.me/blogs/7006/) (2021).
 
-**9.** [Максим Мерзляков отвечает на вопросы читателей сайта IQGa.me](https://iqga.me/blogs/4711/) (2019).
+**9.** Максим Мерзляков. [V – значит Лига вузов](https://iqga.me/blogs/5820/) (статья о том, как делался один из этапов синхрона Лига вузов) (2021).
 
-**10.** Константин Ильин. [Как (не) нужно редактировать вопросы](https://docs.google.com/document/d/1UM8iFnSoYkjbasWOPRwz1JUFZBULJhy9mY6pV_SvFKk/edit#) (2021).
+**10.** [Максим Мерзляков отвечает на вопросы читателей сайта IQGa.me](https://iqga.me/blogs/4711/) (2019).
 
-**11.** Михаил Савченков. [Должен ли быть в вопросе ЧГК интересный факт? Нет!](https://www.maii.li/p/library-interesting-fact) (2016).
+**11.** Константин Ильин. [Как (не) нужно редактировать вопросы](https://docs.google.com/document/d/1UM8iFnSoYkjbasWOPRwz1JUFZBULJhy9mY6pV_SvFKk/edit#) (2021).
 
-**12.** Михаил Иванов. [Пара банальных мыслей про скайп-тестирование](https://www.maii.li/p/library-skype-mike) (2014).
+**12.** Михаил Савченков. [Должен ли быть в вопросе ЧГК интересный факт? Нет!](https://www.maii.li/p/library-interesting-fact) (2016).
 
-**13.** Константин Сахаров. [О вёрстке раздаток](https://www.maii.li/p/library-handout-composition) (2018).
+**13.** Михаил Иванов. [Пара банальных мыслей про скайп-тестирование](https://www.maii.li/p/library-skype-mike) (2014).
 
-**14.** Александр Печеный. [Подготовка раздаток в Inkscape](https://www.maii.li/p/library-handout-inkscape) (2016).
+**14.** Константин Сахаров. [О вёрстке раздаток](https://www.maii.li/p/library-handout-composition) (2018).
 
-**15.** Сергей Литвинов. [Как оформить пакет вопросов ЧГК](https://chgk-rostov.ru/articles/how-to-make-a-package-of-chgk-questions).
+**15.** Александр Печеный. [Подготовка раздаток в Inkscape](https://www.maii.li/p/library-handout-inkscape) (2016).
 
-**16.** Михаил Иванов. [Пара мыслей о сборке ЧГК-пакетов](https://www.maii.li/p/library-assembling-mike) (2009).
+**16.** Сергей Литвинов. [Как оформить пакет вопросов ЧГК](https://chgk-rostov.ru/articles/how-to-make-a-package-of-chgk-questions).
+
+**17.** Михаил Иванов. [Пара мыслей о сборке ЧГК-пакетов](https://www.maii.li/p/library-assembling-mike) (2009).
+
+**18.** Михаил Перлин. [Манифест редактора](https://www.maii.li/p/library-editors-manifest) (2009).
 
 ### Разное <a name="other"></a>
 
@@ -140,7 +144,7 @@ subtitle: В этом разделе собраны материалы, кото
 
 ### Статьи
 
-**1.** Максим Поташев. [Почему вы проигрываете в Что? Где? Когда?](http://flibusta.is/b/270843)
+**1.** Максим Поташев. [Почему вы проигрываете в Что? Где? Когда?](https://web.archive.org/web/20170508135128/http://potashev.ru/vstuplenie)
 
 **2.** Юрий Вашкулат. [Методическое пособие для тех, кто хочет тренироваться в спортивное "Что? Где? Когда?"](https://drive.google.com/file/d/1MYxPGBzKJEwRLJZnrvClsfTla8gWFLU-/view).
 
