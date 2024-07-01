@@ -13,14 +13,6 @@ title: Дисквалифицированные на турнирах под э�
   </tr>
 </thead>
 <tbody>
-<tr>
-  <th><a href="https://rating.maii.li/b/player/168110">168110</a></th>
-  <th>Игорь Койфман</th>
-  <th>От участия в онлайн-турнирах</th>
-  <th>1 год</th>
-  <th>до 01.07.2024</th>
-  <th>По <a href="https://www.maii.li/docs/2023-08-17-reshenie-dg-11-(po-povodu-igorya-kojfmana)/">решению ДГ №11</a></th>
-  </tr>
    <tr>
   <th><a href="https://rating.maii.li/b/player/254843">254843</a></th>
   <th>Данила Гаврилов</th>
