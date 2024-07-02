@@ -1,12 +1,7 @@
-Title
-
-Должен ли быть в вопросе ЧГК интересный факт? Нет!
-
-Lead 
-
-Статья Михаила Савченкова
-
-Body
+---
+title: Должен ли быть в вопросе ЧГК интересный факт? Нет!
+subtitle: Статья Михаила Савченкова
+---
 
 Десятилетиями в чгк культивируется мысль, что в вопросах должны быть интересные факты. Как мне кажется, пришло время признать, что сейчас это не так. Вернее, что это не главное для качественного вопроса.
 
@@ -45,109 +40,109 @@ Body
 </thead>
 <tbody>
 <tr>
-  <th>ЧР–2016</th>
-  <th><a href="https://db.chgk.info/question/rusch16.6/13">Монета на ребро</a></th>
-  <th>Максим Сидоров</th>
-  <th>2,22</th>
-  <th>Есть</th>
+  <td>ЧР–2016</td>
+  <td><a href="https://db.chgk.info/question/rusch16.6/13">Монета на ребро</a></td>
+  <td>Максим Сидоров</td>
+  <td>2,22</td>
+  <td>Есть</td>
   </tr>
 <tr>
-  <th>ЧР–2016</th>
-  <th><a href="https://db.chgk.info/question/rusch16.3/11">Капитан Меркаптан</a></th>
-  <th>Майк Иванов</th>
-  <th>1,54</th>
-  <th>Есть</th>
+  <td>ЧР–2016</td>
+  <td><a href="https://db.chgk.info/question/rusch16.3/11">Капитан Меркаптан</a></td>
+  <td>Майк Иванов</td>
+  <td>1,54</td>
+  <td>Есть</td>
   </tr>
 <tr>
-  <th>ЧР–2016</th>
-  <th><a href="https://db.chgk.info/question/rusch16.4/8">Хадж волос шейха</a></th>
-  <th>Николай Лёгенький</th>
-  <th>1,49</th>
-  <th>Есть</th>
+  <td>ЧР–2016</td>
+  <td><a href="https://db.chgk.info/question/rusch16.4/8">Хадж волос шейха</a></td>
+  <td>Николай Лёгенький</td>
+  <td>1,49</td>
+  <td>Есть</td>
   </tr>
 <tr>
-  <th>ЧР–2016</th>
-  <th><a href="https://db.chgk.info/question/rusch16.3/14">Квантовая механика для детей</a></th>
-  <th>Майк Иванов</th>
-  <th>1,47</th>
-  <th>Полуфакт</th>
+  <td>ЧР–2016</td>
+  <td><a href="https://db.chgk.info/question/rusch16.3/14">Квантовая механика для детей</a></td>
+  <td>Майк Иванов</td>
+  <td>1,47</td>
+  <td>Полуфакт</td>
   </tr>
 <tr>
-  <th>ЧР–2016</th>
-  <th><a href="https://db.chgk.info/question/rusch16.6/15">Ферзь на могиле Капабланки</a></th>
-  <th>Максим Сидоров</th>
-  <th>1,39</th>
-  <th>Полуфакт</th>
+  <td>ЧР–2016</td>
+  <td><a href="https://db.chgk.info/question/rusch16.6/15">Ферзь на могиле Капабланки</a></td>
+  <td>Максим Сидоров</td>
+  <td>1,39</td>
+  <td>Полуфакт</td>
   </tr>
 <tr>
-  <th>КГ–2016</th>
-  <th><a href="https://db.chgk.info/question/goroda16.4/10">Гитлер в кукольном театре</a></th>
-  <th>Ирина Пинегина</th>
-  <th>1,33</th>
-  <th>Есть</th>
+  <td>КГ–2016</td>
+  <td><a href="https://db.chgk.info/question/goroda16.4/10">Гитлер в кукольном театре</a></td>
+  <td>Ирина Пинегина</td>
+  <td>1,33</td>
+  <td>Есть</td>
   </tr>
 <tr>
-  <th>КГ–2016</th>
-  <th><a href="">Начало театра — швейцары</a></th>
-  <th>Павел Ершов</th>
-  <th>1,15</th>
-  <th>Есть</th>
+  <td>КГ–2016</td>
+  <td><a href="">Начало театра — швейцары</a></td>
+  <td>Павел Ершов</td>
+  <td>1,15</td>
+  <td>Есть</td>
   </tr>
 <tr>
-  <th>КГ–2016</th>
-  <th><a href="https://db.chgk.info/question/goroda16.5/1">ULAF вместо ABBA</a></th>
-  <th>Павел Ершов</th>
-  <th>0,91</th>
-  <th>Нет</th>
+  <td>КГ–2016</td>
+  <td><a href="https://db.chgk.info/question/goroda16.5/1">ULAF вместо ABBA</a></td>
+  <td>Павел Ершов</td>
+  <td>0,91</td>
+  <td>Нет</td>
   </tr>
 <tr>
-  <th>КГ–2016</th>
-  <th><a href="https://db.chgk.info/question/goroda16.3/1">Слово было в начале</a></th>
-  <th>Николай Коврижных</th>
-  <th>0,84</th>
-  <th>Нет</th>
+  <td>КГ–2016</td>
+  <td><a href="https://db.chgk.info/question/goroda16.3/1">Слово было в начале</a></td>
+  <td>Николай Коврижных</td>
+  <td>0,84</td>
+  <td>Нет</td>
   </tr>
 <tr>
-  <th>КГ–2016</th>
-  <th><a href="https://db.chgk.info/question/goroda16.2/10">Девочки Назы в Нижнем</a></th>
-  <th>Павел Ершов</th>
-  <th>0,83</th>
-  <th>Есть</th>
+  <td>КГ–2016</td>
+  <td><a href="https://db.chgk.info/question/goroda16.2/10">Девочки Назы в Нижнем</a></td>
+  <td>Павел Ершов</td>
+  <td>0,83</td>
+  <td>Есть</td>
   </tr>
 <tr>
-  <th>ОКР–2015</th>
-  <th><a href="https://db.chgk.info/question/ruscup15.3/12">Распил идола</a></th>
-  <th>Сергей Терентьев</th>
-  <th>1,57</th>
-  <th>Есть</th>
+  <td>ОКР–2015</td>
+  <td><a href="https://db.chgk.info/question/ruscup15.3/12">Распил идола</a></td>
+  <td>Сергей Терентьев</td>
+  <td>1,57</td>
+  <td>Есть</td>
   </tr>
 <tr>
-  <th>ОКР–2015</th>
-  <th><a href="https://db.chgk.info/question/ruscup15.5/6">Оптик — сын стекольщика</a></th>
-  <th>Сергей Терентьев</th>
-  <th>1,27</th>
-  <th>Нет</th>
+  <td>ОКР–2015</td>
+  <td><a href="https://db.chgk.info/question/ruscup15.5/6">Оптик — сын стекольщика</a></td>
+  <td>Сергей Терентьев</td>
+  <td>1,27</td>
+  <td>Нет</td>
   </tr>
 <tr>
-  <th>ОКР–2015</th>
-  <th><a href="https://db.chgk.info/question/ruscup15.4/3">«О коке» вместо «О юнге»</a></th>
-  <th>Сергей Терентьев</th>
-  <th>1,22</th>
-  <th>Есть</th>
+  <td>ОКР–2015</td>
+  <td><a href="https://db.chgk.info/question/ruscup15.4/3">«О коке» вместо «О юнге»</a></td>
+  <td>Сергей Терентьев</td>
+  <td>1,22</td>
+  <td>Есть</td>
   </tr>
 <tr>
-  <th>ОКР–2015</th>
-  <th><a href="https://db.chgk.info/question/ruscup15.3/5">Пробелы в знаниях</a></th>
-  <th>Сергей Терентьев</th>
-  <th>1,13</th>
-  <th>Нет</th>
+  <td>ОКР–2015</td>
+  <td><a href="https://db.chgk.info/question/ruscup15.3/5">Пробелы в знаниях</a></td>
+  <td>Сергей Терентьев</td>
+  <td>1,13</td>
+  <td>Нет</td>
   </tr>
 <tr>
-  <th>ОКР–2015</th>
-  <th><a href="https://db.chgk.info/question/ruscup15.4/10">Нанокристаллы хамелеона</a></th>
-  <th>Николай Порцель</th>
-  <th>0,95</th>
-  <th>Полуфакт</th>
+  <td>ОКР–2015</td>
+  <td><a href="https://db.chgk.info/question/ruscup15.4/10">Нанокристаллы хамелеона</a></td>
+  <td>Николай Порцель</td>
+  <td>0,95</td>
+  <td>Полуфакт</td>
   </tr>
 </tbody>
 </table>
@@ -176,109 +171,109 @@ Body
 </thead>
 <tbody>
 <tr>
-<th>КК. Май</th>
-<th><a href="https://db.chgk.info/question/kru15-5.3/12">Вернуть ту же бумажку</a></th>
-<th>Андрей Бойко</th>
-<th>2,4</th>
-<th>Нет</th>
+<td>КК. Май</td>
+<td><a href="https://db.chgk.info/question/kru15-5.3/12">Вернуть ту же бумажку</a></td>
+<td>Андрей Бойко</td>
+<td>2,4</td>
+<td>Нет</td>
 </tr>
 <tr>
-<th>КК. Май</th>
-<th><a href="https://db.chgk.info/question/kru15-5.3/10">Макет Храма</a></th>
-<th>Андрей Бойко</th>
-<th>1,8</th>
-<th>Есть</th>
+<td>КК. Май</td>
+<td><a href="https://db.chgk.info/question/kru15-5.3/10">Макет Храма</a></td>
+<td>Андрей Бойко</td>
+<td>1,8</td>
+<td>Есть</td>
 </tr>
 <tr>
-<th>КК. Май</th>
-<th><a href="https://db.chgk.info/question/kru15-5.3/2">Слепые, поводыри</a></th>
-<th>Владимир Островский</th>
-<th>1,34</th>
-<th>Есть</th>
+<td>КК. Май</td>
+<td><a href="https://db.chgk.info/question/kru15-5.3/2">Слепые, поводыри</a></td>
+<td>Владимир Островский</td>
+<td>1,34</td>
+<td>Есть</td>
 </tr>
 <tr>
-<th>КИ-3</th>
-<th><a href="https://db.chgk.info/question/iche15-3.2/7">Сайт 361.ru</a></th>
-<th>Алексей Уланов</th>
-<th>1,05</th>
-<th>Нет</th>
+<td>КИ-3</td>
+<td><a href="https://db.chgk.info/question/iche15-3.2/7">Сайт 361.ru</a></td>
+<td>Алексей Уланов</td>
+<td>1,05</td>
+<td>Нет</td>
 </tr>
 <tr>
-<th>КИ-3</th>
-<th><a href="https://db.chgk.info/question/iche15-3.2/11">Невесты-сабинянки</a></th>
-<th>Расул Бабазаде</th>
-<th>0,82</th>
-<th>Есть</th>
+<td>КИ-3</td>
+<td><a href="https://db.chgk.info/question/iche15-3.2/11">Невесты-сабинянки</a></td>
+<td>Расул Бабазаде</td>
+<td>0,82</td>
+<td>Есть</td>
 </tr>
 <tr>
-<th>КИ-3</th>
-<th><a href="https://db.chgk.info/question/iche15-3.3/4">Обои из купюр</a></th>
-<th>Серафим Шибанов</th>
-<th>0,8</th>
-<th>Есть</th>
+<td>КИ-3</td>
+<td><a href="https://db.chgk.info/question/iche15-3.3/4">Обои из купюр</a></td>
+<td>Серафим Шибанов</td>
+<td>0,8</td>
+<td>Есть</td>
 </tr>
 <tr>
-<th>Кубок Чикаго</th>
-<th><a href="https://db.chgk.info/question/chikag16.3/10">Black sabbath</a></th>
-<th>Павел Лейдерман</th>
-<th>1,56</th>
-<th>Есть</th>
+<td>Кубок Чикаго</td>
+<td><a href="https://db.chgk.info/question/chikag16.3/10">Black sabbatd</a></td>
+<td>Павел Лейдерман</td>
+<td>1,56</td>
+<td>Есть</td>
 </tr>
 <tr>
-<th>Кубок Чикаго</th>
-<th><a href="https://db.chgk.info/question/chikag16.3/2">Иероглиф Бянг</a></th>
-<th>Марина Краснер</th>
-<th>1,46</th>
-<th>Есть</th>
+<td>Кубок Чикаго</td>
+<td><a href="https://db.chgk.info/question/chikag16.3/2">Иероглиф Бянг</a></td>
+<td>Марина Краснер</td>
+<td>1,46</td>
+<td>Есть</td>
 </tr>
 <tr>
-<th>Кубок Чикаго</th>
-<th><a href="https://db.chgk.info/question/chikag16.2/3">Царевна-земноводное</a></th>
-<th>Дмитрий Варшавский</th>
-<th>1,17</th>
-<th>Нет</th>
+<td>Кубок Чикаго</td>
+<td><a href="https://db.chgk.info/question/chikag16.2/3">Царевна-земноводное</a></td>
+<td>Дмитрий Варшавский</td>
+<td>1,17</td>
+<td>Нет</td>
 </tr>
 <tr>
-<th>Гран-При России</th>
-<th><a href="https://db.chgk.info/question/gp15-7.3/7">Тур де Франс</a></th>
-<th>Александр Коробейников</th>
-<th>1,47</th>
-<th>Нет</th>
+<td>Гран-При России</td>
+<td><a href="https://db.chgk.info/question/gp15-7.3/7">Тур де Франс</a></td>
+<td>Александр Коробейников</td>
+<td>1,47</td>
+<td>Нет</td>
 </tr>
 <tr>
-<th>Гран-При России</th>
-<th><a href="https://db.chgk.info/question/gp15-7.1/14">Бал в Ковентри</a></th>
-<th>Александра Киланова</th>
-<th>1,43</th>
-<th>Нет</th>
+<td>Гран-При России</td>
+<td><a href="https://db.chgk.info/question/gp15-7.1/14">Бал в Ковентри</a></td>
+<td>Александра Киланова</td>
+<td>1,43</td>
+<td>Нет</td>
 </tr>
 <tr>
-<th>Гран-При России</th>
-<th><a href="https://db.chgk.info/question/gp15-7.1/4">Нефть против китов</a></th>
-<th>Александр Коробейников</th>
-<th>1,43</th>
-<th>Нет</th>
+<td>Гран-При России</td>
+<td><a href="https://db.chgk.info/question/gp15-7.1/4">Нефть против китов</a></td>
+<td>Александр Коробейников</td>
+<td>1,43</td>
+<td>Нет</td>
 </tr>
 <tr>
-<th>КК. Апрель</th>
-<th><a href="https://db.chgk.info/question/kru15-4.1/7">Побег мойщиком стёкол</a></th>
-<th>Константин Науменко</th>
-<th>1,44</th>
-<th>Есть</th>
+<td>КК. Апрель</td>
+<td><a href="https://db.chgk.info/question/kru15-4.1/7">Побег мойщиком стёкол</a></td>
+<td>Константин Науменко</td>
+<td>1,44</td>
+<td>Есть</td>
 </tr>
 <tr>
-<th>КК. Апрель</th>
-<th><a href="https://db.chgk.info/question/kru15-4.1/5">Орбиты Коперника</a></th>
-<th>Константин Науменко</th>
-<th>1,32</th>
-<th>Нет</th>
+<td>КК. Апрель</td>
+<td><a href="https://db.chgk.info/question/kru15-4.1/5">Орбиты Коперника</a></td>
+<td>Константин Науменко</td>
+<td>1,32</td>
+<td>Нет</td>
 </tr>
 <tr>
-<th>КК. Апрель</th>
-<th><a href="https://db.chgk.info/question/kru15-4.2/12"></a>Фестиваль Фантазия</th>
-<th>Антон Мартыненко</th>
-<th>1,22</th>
-<th>Полуфакт</th>
+<td>КК. Апрель</td>
+<td><a href="https://db.chgk.info/question/kru15-4.2/12">Фестиваль Фантазия</a></td>
+<td>Антон Мартыненко</td>
+<td>1,22</td>
+<td>Полуфакт</td>
 </tr>
 </tbody>
 </table>
