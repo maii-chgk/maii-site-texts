@@ -125,7 +125,15 @@ title: Дисквалифицированные на турнирах под э�
   <td>6 месяцев</td>
   <td>до 09.11.2024</td>
   <td>По <a href="https://www.maii.li/docs/2024-05-09-reshenie-dg-16-(po-povodu-komandy-zhaki-fresko)/">решению ДГ №16</a></td>
-  </tr>
+</tr>
+<tr>
+  <td><a href="https://rating.maii.li/b/player/33624">33624</a></td>
+  <td>Ренат Хайбуллин</td>
+  <td>В качестве игрока</td>
+  <td>полгода</td>
+  <td>до 05.01.2025</td>
+  <td>По <a href="https://www.maii.li/docs/2024-07-04-reshenie-dg-18/">решению ДГ №18</a></td>
+</tr>
 <tr>
   <td><a href="https://rating.maii.li/b/player/232346">232346</a></td>
   <td>Игорь Рубаник</td>
@@ -157,7 +165,7 @@ title: Дисквалифицированные на турнирах под э�
   <td>1 год</td>
   <td>до 08.02.2025</td>
   <td>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></td>
-  </tr>
+</tr>
 <tr>
   <td><a href="https://rating.maii.li/b/player/246981">246981</a></td>
   <td>Михаил Иванов</td>
@@ -189,7 +197,15 @@ title: Дисквалифицированные на турнирах под э�
   <td>2 года</td>
   <td>до 04.03.2025</td>
   <td>По <a href="https://www.maii.li/docs/2023-03-04-reshenie-dg-7-(po-povodu-diskvalifikacii-viktora-plotnikova)/">решению ДГ №7</a></td>
-  </tr>
+</tr>
+<tr>
+  <td><a href="https://rating.maii.li/b/player/72896">72896</a></td>
+  <td>Булат Абушаев</td>
+  <td>В качестве ведущего и представителя</td>
+  <td>1 год</td>
+  <td>до 05.07.2025</td>
+  <td>По <a href="https://www.maii.li/docs/2024-07-04-reshenie-dg-18/">решению ДГ №18</a></td>
+</tr>
 <tr>
   <td><a href="https://rating.maii.li/b/player/2954">2954</a></td>
   <td>Андрей Белов</td>
@@ -197,7 +213,15 @@ title: Дисквалифицированные на турнирах под э�
   <td>4 года</td>
   <td>до 10.02.2026</td>
   <td>По <a href="https://www.maii.li/docs/2022-02-10-reshenie-dg-2-(po-povodu-diskvalifikacii-andreya-belova)/">решению ДГ №2</a></td>
-  </tr>
+</tr>
+<tr>
+  <td><a href="https://rating.maii.li/b/player/33624">33624</a></td>
+  <td>Ренат Хайбуллин</td>
+  <td>В качестве организатора, представителя и ведущего</td>
+  <td>5 лет</td>
+  <td>до 05.07.2029</td>
+  <td>По <a href="https://www.maii.li/docs/2024-07-04-reshenie-dg-18/">решению ДГ №18</a></td>
+</tr>
 <tr>
   <td><a href="https://rating.maii.li/b/player/5195/">5195</a></td>
   <td>Анатолий Вассерман</td>
