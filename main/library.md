@@ -15,7 +15,7 @@ subtitle: В этом разделе собраны материалы, кото
 - [Базовые ссылки](#base)
 - [Самое начало](#beginning)
 - [Продвинутый уровень](#advanced)
-- [Разное](#other)
+- [Разное](#questions-other)
 - [Программы](#programs)
 
 ### Базовые ссылки <a name="base"></a>
@@ -80,7 +80,7 @@ subtitle: В этом разделе собраны материалы, кото
 
 **18.** Михаил Перлин. [Манифест редактора](https://www.maii.li/p/library-editors-manifest) (2009).
 
-### Разное <a name="other"></a>
+### Разное <a name="questions-other"></a>
 
 **1.** Сергей Терентьев. [Обозревая классиков. Вопросы команды «Мозговорот»](https://iqga.me/articles/5652/).
 
@@ -167,7 +167,7 @@ subtitle: В этом разделе собраны материалы, кото
 - [Знатоки друг о друге](#players)
 - [Материалы в СМИ](#mass-media)
 - [Книги](#books)
-- [Разное](#other)
+- [Разное](#read-other)
 
 ### Знатоки друг о друге <a name="players"></a>
 
@@ -388,7 +388,7 @@ subtitle: В этом разделе собраны материалы, кото
 
 <small>*[К оглавлению](#read)*</small>
 
-### Разное <a name="other"></a>
+### Разное <a name="read-other"></a>
 
 - [Как начать играть в спортивное “Что? Где? Когда?”](https://dtf.ru/u/707149-passkey/1845033-kak-nachat-igrat-v-sportivnoe-chto-gde-kogda) (DTF, 2023)
 - [22 факта о спортивном «Что? Где? Когда?»](https://pikabu.ru/story/22_fakta_o_sportivnom_chto_gde_kogda_6155440) (Пикабу, Павел Бордачев, 2018)

@@ -174,6 +174,7 @@ title: Документы
 - [Отчёт группы по рейтингу о четвёртом и пятом полугодии работы (08.04.2024)](https://www.maii.li/docs/2024-04-08-otchyot-gruppy-po-rejtingu-za-chetvyortoe-i-pyatoe-polugodiya-raboty-(08.04.2024)/).
 - [Отчёт контрольно-ревизионной комиссии за 2023-2024 годы (20.05.2024)](https://www.maii.li/docs/2024-05-20-otchyot-kontrolno-revizionnoj-komissii-maii-za-2023-2024-gg/)
 - [Отчёт исполкома за 2023-2024 годы (25.05.2024)](https://www.maii.li/docs/2024-05-24-otchyot-ispolkoma-maii-za-2023-2024-gody/)
+- [Отчёт информационной группы за 2023–2024 годы (20.07.2024)](https://www.maii.li/docs/2024-07-20-otchyot-informacionnoj-gruppy-(20232024)/)
 
 <small>[К оглавлению](#top)</small>
 
