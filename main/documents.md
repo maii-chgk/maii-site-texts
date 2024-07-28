@@ -175,6 +175,8 @@ title: Документы
 - [Отчёт контрольно-ревизионной комиссии за 2023-2024 годы (20.05.2024)](https://www.maii.li/docs/2024-05-20-otchyot-kontrolno-revizionnoj-komissii-maii-za-2023-2024-gg/)
 - [Отчёт исполкома за 2023-2024 годы (25.05.2024)](https://www.maii.li/docs/2024-05-24-otchyot-ispolkoma-maii-za-2023-2024-gody/)
 - [Отчёт информационной группы за 2023–2024 годы (20.07.2024)](https://www.maii.li/docs/2024-07-20-otchyot-informacionnoj-gruppy-(20232024)/)
+- [Отчёт дисциплинарной группы за 2023–2024 годы (25.07.2024)](https://www.maii.li/docs/2024-07-25-otchyot-disciplinarnoj-gruppy-za-2023-2024-gody/).
+- [Отчёт уставной группы за 2023–2024 годы (27.07.2024)](https://www.maii.li/docs/2024-07-27-otchyot-o-rabote-ustavnoj-gruppy-v-2023-2024-godah/).
 
 <small>[К оглавлению](#top)</small>
 

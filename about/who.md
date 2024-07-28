@@ -464,6 +464,7 @@ subtitle: В Международной ассоциации интеллект�
         	<li><a href="https://www.maii.li/docs/2021-07-25-reglament-disciplinarnoj-rabochej-gruppy/">Регламент</a></li>
         	<li><a href="https://www.maii.li/docs/2022-07-28-otchyot-disciplinarnoj-gruppy-za-2021-2022/">Отчёт о работе за 2021-2022 годы (28.07.2022)</a></li>
             <li><a href="https://www.maii.li/docs/2023-08-02-otchyot-disciplinarnoj-gruppy-za-2022-2023/">Отчёт о работе за 2022-2023 годы (02.08.2023)</a></li>
+            <li><a href="https://www.maii.li/docs/2024-07-25-otchyot-disciplinarnoj-gruppy-za-2023-2024-gody/">Отчёт о работе за 2023-2024 годы (25.07.2024)</a></li>
        </ul>
 </details>
 <details>
@@ -700,7 +701,8 @@ subtitle: В Международной ассоциации интеллект�
     <ul>
          <li><a href="https://www.maii.li/docs/2021-07-25-reglament-ustavnoj-rabochej-gruppy/">Регламент уставной группы</a></li>
          <li><a href="https://www.maii.li/docs/2022-07-27-otchyot-ustavnoj-gruppy-(2021-2022)/">Отчёт о работе в 2021-2022 годах (27.07.2022)</a></li>
-         <li><a href="https://www.maii.li/docs/2023-07-24-otchyot-o-rabote-ustavnoj-gruppy-v-2022-2023-godah/">Отчёт о работе в 2022-2023 годах (24.07.2022)</a></li>
+         <li><a href="https://www.maii.li/docs/2023-07-24-otchyot-o-rabote-ustavnoj-gruppy-v-2022-2023-godah/">Отчёт о работе в 2022-2023 годах (24.07.2023)</a></li>
+         <li><a href="https://www.maii.li/docs/2024-07-27-otchyot-o-rabote-ustavnoj-gruppy-v-2023-2024-godah/">Отчёт о работе в 2023-2024 годах (27.07.2024)</a></li>
     </ul>
 </details>
 <details>
