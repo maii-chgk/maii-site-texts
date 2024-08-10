@@ -15,54 +15,6 @@ title: Дисквалифицированные на турнирах под э�
 </thead>
 <tbody>
 <tr>
-  <td><a href="https://rating.maii.li/b/player/232346">232346</a></td>
-  <td>Игорь Рубаник</td>
-  <td>От участия в офлайн-турнирах</td>
-  <td>6 месяцев</td>
-  <td>до 09.08.2024</td>
-  <td>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></td>
-  </tr>
-<tr>
-  <td><a href="https://rating.maii.li/b/player/131124">131124</a></td>
-  <td>Евгений Залюбовский</td>
-  <td>От участия в офлайн-турнирах</td>
-  <td>6 месяцев</td>
-  <td>до 09.08.2024</td>
-  <td>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></td>
-  </tr>
-<tr>
-  <td><a href="https://rating.maii.li/b/player/246265">246265</a></td>
-  <td>Елена Бабенко</td>
-  <td>От участия в офлайн-турнирах</td>
-  <td>6 месяцев</td>
-  <td>до 09.08.2024</td>
-  <td>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></td>
-  </tr>
-<tr>
-  <td><a href="https://rating.maii.li/b/player/246983">246983</a></td>
-  <td>Ирина Розум</td>
-  <td>От участия в офлайн-турнирах</td>
-  <td>6 месяцев</td>
-  <td>до 09.08.2024</td>
-  <td>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></td>
-  </tr>
-<tr>
-  <td><a href="https://rating.maii.li/b/player/246981">246981</a></td>
-  <td>Михаил Иванов</td>
-  <td>От участия в офлайн-турнирах</td>
-  <td>6 месяцев</td>
-  <td>до 09.08.2024</td>
-  <td>По <a href="https://www.maii.li/docs/2024-02-08-reshenie-dg-12-(po-povodu-komandy-polusuharik)/">решению ДГ №12</a></td>
-  </tr>
-<tr>
-  <td><a href="https://rating.maii.li/b/player/274410">274410</a></td>
-  <td>Александр Томилов</td>
-  <td>От участия в турнирах под эгидой МАИИ в качестве игрока</td>
-  <td>3 месяца</td>
-  <td>до 09.08.2024</td>
-  <td>По <a href="https://www.maii.li/docs/2024-05-09-reshenie-dg-16-(po-povodu-komandy-zhaki-fresko)/">решению ДГ №16</a></td>
-  </tr>
-<tr>
   <td><a href="https://rating.maii.li/b/player/274410">274410</a></td>
   <td>Александр Томилов</td>
   <td>Во всех качествах, кроме игрока</td>

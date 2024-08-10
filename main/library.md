@@ -40,7 +40,7 @@ subtitle: В этом разделе собраны материалы, кото
 
 **4.** Михаил Савченков. [Три дюжины советов начинающему редактору](http://youthcupofnations.tilda.ws/how-to-edit-questions-savchenkov) (2016).
 
-**5.** Алекс Левитас. [Курс молодого вопросника](http://kursy.ru/chgk_ask/) (2003).
+**5.** Алекс Левитас. [Курс молодого вопросника](https://web.archive.org/web/20190113035005/https://kursy.ru/chgk_ask/) (2003).
 
 ### Продвинутый уровень <a name="advanced"></a>
 
@@ -125,10 +125,7 @@ subtitle: В этом разделе собраны материалы, кото
 - [Онлайн-генератор бланков](http://old.chgk-res.ru/blanks_generator/) (умеет добавлять и штрих-коды).
 - [Онлайн-генератор бланков](https://blank.shchr.ru/). *Автор — Евгений Кан.*
 - [Скрипты для генерации бланков](https://gitlab.com/peczony/blanks_gen). *Автор — Александр Печеный.*
-- [Таймер для ЧГК](https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer) (скачивать в Google Play). *Автор — Александр Овчаренко.*
-- [Таймер для ЧГК](https://play.google.com/store/apps/details?id=biz.artega.timer.chgk) (скачивать в Google Play). *Автор — Сергей Завротский.*
 - [Телеграм-бот для голосований за турниры](https://t.me/gamepollbot). Для настройка надо добавить в чат, инструкция — по команде /help. *Автор — Владимир Замятин.*
-- [SIGram](https://play.google.com/store/apps/details?id=com.gramagin.siclient&hl=ru&gl=US&pli=1). Приложение на Android, которое может заменить систему для спортивной «Своей игры». *Автор — Владимир Грамагин.*
 - [Программа для подсчёта очков спортивной «Своей игры»](https://ph1l74.github.io/si/) (открывается прямо в браузере).
 - [Программа для подсчёта очков спортивной «Своей игры» с раундами](https://ph1l74.github.io/si-old/) (открывается прямо в браузере).
 - [Программа для подсчёта очков спортивной «Своей игры»](https://sourceforge.net/projects/sihelper/) (надо скачивать). *Автор — Майк Иванов, последнее обновление было сделано в 2015 году.*
