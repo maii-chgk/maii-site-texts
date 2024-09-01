@@ -31,6 +31,14 @@ title: Дисквалифицированные на турнирах под э�
   <td>По <a href="https://www.maii.li/docs/2024-05-09-reshenie-dg-16-(po-povodu-komandy-zhaki-fresko)/">решению ДГ №16</a></td>
 </tr>
 <tr>
+  <td><a href="https://rating.maii.li/b/player/308658">308658</a></td>
+  <td>Александр Захаров</td>
+  <td>В качестве ведущего и представителя</td>
+  <td>3 месяца</td>
+  <td>до 30.11.2024</td>
+  <td>По <a href="https://www.maii.li/docs/2024-08-31-reshenie-dg-19/">решению ДГ №19</a></td>
+</tr>
+<tr>
   <td><a href="https://rating.maii.li/b/player/33624">33624</a></td>
   <td>Ренат Хайбуллин</td>
   <td>В качестве игрока</td>
@@ -93,7 +101,15 @@ title: Дисквалифицированные на турнирах под э�
   <td>2 года</td>
   <td>до 28.02.2025</td>
   <td>По <a href="https://www.maii.li/docs/2023-02-28-reshenie-dg-6-(po-povodu-diskvalifikacii-sarvara-uktamova)/">решению ДГ №6</a></td>
-  </tr>
+</tr>
+<tr>
+  <td><a href="https://rating.maii.li/b/player/239019">239019</a></td>
+  <td>Максим Захаров</td>
+  <td>Во всех качествах</td>
+  <td>6 месяцев</td>
+  <td>до 28.02.2025</td>
+  <td>По <a href="https://www.maii.li/docs/2024-08-31-reshenie-dg-19/">решению ДГ №19</a></td>
+</tr>
 <tr>
   <td><a href="https://rating.maii.li/b/player/25120">25120</a></td>
   <td>Виктор Плотников</td>

@@ -67,6 +67,7 @@ title: Документы
 - [Решение №16 от 09.05.2024 (по поводу команды «Жаки Фреско»)](https://www.maii.li/docs/2024-05-09-reshenie-dg-16-(po-povodu-komandy-zhaki-fresko)/)
 - [Решение №17 от 20.05.2024 (по поводу команды «Дилижанс»)](https://www.maii.li/docs/2024-05-20-reshenie-dg-17/)
 - [Решение №18 от 04.07.2024 (по поводу казанской площадки)](https://www.maii.li/docs/2024-07-04-reshenie-dg-18/)
+- [Решение №19 от 31.08.2024 (по поводу индивидуального отыгрыша Максима Захарова)](https://www.maii.li/docs/2024-08-31-reshenie-dg-19/)
 - [Регламент отстранения от соревнований под эгидой МАИИ участников игр, поддерживающих военную агрессию РФ против Украины](https://www.maii.li/docs/2022-12-21-reglament-otstraneniya-ot-sorevnovanij-pod-egidoj-maii-uchastnikov-igr-podderzhivayushih-voennuyu-agressiyu-rf-protiv-ukrainy/)
 
 
