@@ -115,6 +115,8 @@ subtitle: В этом разделе собраны материалы, кото
 - [Как организаторам синхронов проверять заявки: неофициальная инструкция](https://igra1.livejournal.com/2877606.html).
 - [Инструкция по оформлению отчётов для турнирного сайта](https://docs.google.com/document/d/1HBaXgJocn9ihiCvnVsp0EW3lWr2-mVoiMYPv5rluNi4/edit?usp=sharing)[\*](#rating).
 - [Куда писать о проблемах на турнирном сайте](https://github.com/gltronred/awesome-chgk/blob/master/rating-chgk-info-problems-asking-for-help.md).
+- [Как организовать работу удалённого АЖ на очнике и синхроне](https://docs.google.com/document/d/1DYRqUXANcDXVq2FmGW9LM-y9zlKHVQhUVTCbngLNxyg/edit). *Автор — Арсений Глазовский.*
+- [Как организовать на фестивале «Кубок дружбы»](https://docs.google.com/document/d/1T3qqNqGWvydIFHJ4URGJGOYSgTDz5RLMOg2pxJPl9Ps). *Автор — Арсений Глазовский.*
 
 <small><a name="rating"></a>Здесь и далее под «турнирным сайтом» подразумевается rating.chgk.info, который ранее назывался «сайтом рейтинга».</small>
 
@@ -134,6 +136,7 @@ subtitle: В этом разделе собраны материалы, кото
 *Для проведения как синхронов, так и очных турниров*
 - [Сайт «Есть вопросы?»](https://gotquestions.online/), [краткая инструкция](https://t.me/chgknews/639). *Автор — Александр Бережинский*.
 - [Шаблоны таблиц](https://drive.google.com/drive/folders/1SrjwW0G4iB7WbubFuwzMzcOVZ19jLAoz) для проведения синхронных турниров на 36 и 45 вопросов. *Автор — Александр Петраков.*
+- [Шаблон таблицы для проведения синхрона](https://docs.google.com/spreadsheets/d/1Lidm9vsvxszPRsPWhUwGcJBv3oEyaPSWNp4NSqP_m18) и [инструкция к ней](https://docs.google.com/document/d/1nsERzE8sDHOFvJUlnHmoXa9R-0myhEkm43hNtuwXz1Q). *Автор — Арсений Глазовский.*
 - [Видеоинструкция](https://youtu.be/3J60QTNIm04) по тому, как генерировать таблицы ЧГК и спортивной «Своей игры». *Автор — Александр Печеный*.
 
 <small>*[Наверх](#atop)*</small>
@@ -165,6 +168,7 @@ subtitle: В этом разделе собраны материалы, кото
 - [Знатоки друг о друге](#read-about-themselves)
 - [Материалы в СМИ](#read-mass-media)
 - [Книги](#read-books)
+- [Видео](#video)
 - [Разное](#read-other)
 
 ### Знатоки друг о друге <a name="read-about-themselves"></a>
@@ -180,6 +184,7 @@ subtitle: В этом разделе собраны материалы, кото
 - [«День редактора» в проекте Динабанк](#dinabank)
 - [Город героев — 2017](#heroes)
 - [VI Сова бьян](#cava_bien)
+- [«Ремесло»](#makingchgk)
 - [Отдельные интервью](#single)
 
 #### [ОВСЧ](https://ovsch.livejournal.com/?tag=Интервью) <a name="ovsch"></a>
@@ -355,6 +360,12 @@ subtitle: В этом разделе собраны материалы, кото
 - [Максим Мерзляков](https://billo-varenn.livejournal.com/387458.html) (Константин Смолий, 2017), 
 - [Михаил Савченков](https://billo-varenn.livejournal.com/388513.html) (Константин Смолий, 2017).
 
+##### «Ремесло» <a name="makingchgk"></a>
+*Интервью, опубликованные в [одноимённом телеграм-канале](t.me/makingchgk)*
+
+- [«Организовали турнир, провели, выиграли, и потом с чувством выполненного долга расставляешь столы и стулья». Интервью с Хакимом Батыралиевым](https://teletype.in/@makingchgk/hakeem) (Наиль Фарукшин, 2024).
+
+
 ##### Отдельные интервью <a name="single"></a>
 - Аудиоинтервью с [израильским знатоком Ильёй Тальянским](https://open.spotify.com/episode/3dBG5BSwCP7PoaiN96Q2Gq?si=059bf21c834d432a&nd=1) (2023).
 - [«За пять-десять лет нейросети вполне могут научиться нас обыгрывать». Интервью с редакцией телеграм-канала «Аномалия ИКСА» Сергеем Дуликовым и Иваном Торубаровым](https://teletype.in/@studchr/anomalia) (Наиль Фарукшин, 2021)
@@ -385,6 +396,41 @@ subtitle: В этом разделе собраны материалы, кото
 ### Книги <a name="read-books"></a>
 
 *Заполним раздел чуть позже.*
+
+<small>*[К оглавлению](#read)*</small>
+
+### Видео <a name="video"></a>
+
+- [Игры](#video-tournaments)
+- [Интервью](#video-interviews)
+- [Разное](#video-other)
+
+#### Игры <a name="video-tournaments"></a>
+
+- [Канал postmortem](https://www.youtube.com/@postmortemchannel). *Сергей Лобачёв отыгрывает синхроны в одиночку и комментирует их.*
+- [Онлайн-игры команды «Инк»](https://www.youtube.com/@Ink_Team). *Онлайн-игры команды «Инк» (Пало-Альто).*
+- [Канал Кузинатры](https://www.youtube.com/@Cuisinatra_Forever). *Онлайн-игры команды «Кузинатора» (Сиэтл).*
+
+*Раздел пополняется.*
+
+#### Интервью <a name="video-interviews"></a>
+
+- [Екатерина Пушкарева, Олег Южаков. Про ЧГК, математику, путешествия и отбор телефонов](https://www.youtube.com/watch?v=jLPOAaIYveM) (2024, Александр Воробьёв)
+- [Интервью с Хакимом Батыралиевым и Яном Садковским о I Открытом чемпионате Азии](https://www.youtube.com/watch?v=GgEnk8gj93w) (2023, Константин Бриф)
+- [«Инки» в Ташкенте. Интервью с Умбетом Ержаном, Русланом Хаиткуловым и Ириной Чернухой о I Открытом чемпионате Азии по «Заковат»](https://www.youtube.com/watch?v=n9O8gjYN01o) (2023, Константин Бриф)
+- [Интервью с Сергеем Терентьевым](https://www.youtube.com/watch?v=xhk4A48H3A4) (2023, Сергей Лобачёв)
+- [Сергей Терентьев. Топовый игрок, редактор и тренер о секретах своего успеха](https://www.youtube.com/watch?v=Qf26ok_O-6Q) (2020, Александр Воробьёв)
+- [Елена Клюева. Про читерство в ЧГК, новое поколение знатоков, о красотах Сахалина](https://www.youtube.com/watch?v=MCeJA3WU9YM) (2020, Александр Воробьёв)
+- [Михаил Скипский. О капитанстве в элитарке, методике тренировок и ШЧР](https://www.youtube.com/watch?v=0dLOH6AnUO0) (2020, Александр Воробьёв)
+- [Александр Пономарев. Тренерский гений о карьере игрока, авторских песнях и ЧГК](https://www.youtube.com/watch?v=V6e38rA4PDA). (2020? Александр Воробьёв).
+
+#### Разное <a name="video-other"></a>
+
+- [МАК-панорама](https://www.youtube.com/watch?v=fg0gPeVEr10). Фильм телекомпании «Игра-ТВ», посвящённый I Конгрессу Международной ассоциации клубов (август 1989 года).
+- [История "Что? Где? Когда?" в Беларуси: до 1997 года. Как всё начиналось?](https://www.youtube.com/watch?v=SCawgEWyIfs)/
+- [История "Что? Где? Когда?" в Беларуси: начало 2000-х. Регионы, «Риск-версия», первые звёзды](https://www.youtube.com/watch?v=2bzDJ47nm54)
+
+*Раздел пополняется.*
 
 <small>*[К оглавлению](#read)*</small>
 
